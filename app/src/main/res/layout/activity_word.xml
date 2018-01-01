@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.test.frankyuan.word20000_android.WordActivity">
+
+    <SeekBar
+        android:id="@+id/sbWord"
+        android:layout_width="252dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="21dp"
+        app:layout_constraintEnd_toStartOf="@+id/btnNext"
+        app:layout_constraintStart_toEndOf="@+id/btnPrev"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnPrev"
+        android:layout_width="49dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ic_arrow_back_black_24dp"
+        android:onClick="jumpWord"
+        android:tag="false"
+        android:text=""
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="49dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ic_arrow_forward_black_24dp"
+        android:onClick="jumpWord"
+        android:tag="true"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewWord"
+        android:layout_width="301dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="13dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text=""
+        android:textSize="@dimen/word_size"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textViewPhonetic"
+        app:layout_constraintEnd_toStartOf="@+id/btnShowTranslate"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnPrev" />
+
+    <Button
+        android:id="@+id/btnShowTranslate"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ic_visibility_off_black_24dp"
+        android:onClick="setShowTranslate"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/btnNext" />
+
+    <TextView
+        android:id="@+id/textViewTranslation"
+        android:layout_width="332dp"
+        android:layout_height="326dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:text=""
+        android:textSize="@dimen/translation_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewPhonetic" />
+
+    <TextView
+        android:id="@+id/textViewPhonetic"
+        android:layout_width="305dp"
+        android:layout_height="36dp"
+        android:layout_marginBottom="13dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="8dp"
+        android:text=""
+        android:textSize="@dimen/translation_size"
+        app:layout_constraintBottom_toTopOf="@+id/textViewTranslation"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewWord" />
+</android.support.constraint.ConstraintLayout>

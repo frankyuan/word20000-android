@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.rawproto
+build/android-profile/profile-2018-01-01-22-34-22-898.json
+build/android-profile/profile-2018-01-01-19-04-04-138.json

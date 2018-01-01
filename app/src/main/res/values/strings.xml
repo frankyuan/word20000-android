@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">word20000</string>
+    <string name="text_filelist">File List</string>
+    <string name="button_prev">Prev</string>
+    <string name="button_next">Next</string>
+    <string name="button_showtranslate">Show Translation</string>
+    <string name="txt_currentfileid">currentFileId</string>
+</resources>

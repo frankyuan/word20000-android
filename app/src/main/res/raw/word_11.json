@@ -1,0 +1,1001 @@
+[{"id":10001, "word":"finale", "translate":{"us-phonetic":"fɪ'næli","uk-phonetic":"fɪ'nɑːlɪ; -leɪ","explians":["n. 结局；终曲；最后一场；最后乐章；尾声","n. (Finale)人名；(英)菲纳利；(意、西)菲纳莱"]}
+},{"id":10002, "word":"heading", "translate":{"us-phonetic":"'hɛdɪŋ","uk-phonetic":"'hedɪŋ","explians":["n. 标题；（足球）头球；信头","v. 用头顶（head的ing形式）","n. (Heading)人名；(英)黑丁"]}
+},{"id":10003, "word":"vigor", "translate":{"us-phonetic":"'vɪgɚ","uk-phonetic":"'viɡə","explians":["n. [生物] 活力，精力","n. (Vigor)人名；(英、法)维戈尔"]}
+},{"id":10004, "word":"scarcity", "translate":{"us-phonetic":"'skɛrsəti","uk-phonetic":"'skeəsɪtɪ","explians":["n. 不足；缺乏"]}
+},{"id":10005, "word":"darkened", "translate":{"us-phonetic":"'da:kənd","uk-phonetic":"'da:kənd","explians":["adj. 变黑的，没有灯光的"]}
+},{"id":10006, "word":"stiffen", "translate":{"us-phonetic":"'stɪfn","uk-phonetic":"'stɪf(ə)n","explians":["vt. 使变硬；使粘稠","vi. 变硬；变猛烈；变粘"]}
+},{"id":10007, "word":"quarry", "translate":{"us-phonetic":"'kwɔri","uk-phonetic":"'kwɒrɪ","explians":["n. 采石场；猎物；来源","vt. 挖出；努力挖掘","vi. 费力地找","n. (Quarry)人名；(英)夸里"]}
+},{"id":10008, "word":"pediatrician", "translate":{"us-phonetic":",pidɪə'trɪʃən","uk-phonetic":"ˌpiːdiə'trɪʃn","explians":["n. 儿科医师（等于pediatrist）"]}
+},{"id":10009, "word":"uninsured", "translate":{"us-phonetic":",ʌnɪn'ʃʊrd","uk-phonetic":"ʌnɪn'ʃʊəd","explians":["adj. 未保过险的"]}
+},{"id":10010, "word":"incompetent", "translate":{"us-phonetic":"ɪn'kɑmpɪtənt","uk-phonetic":"ɪn'kɒmpɪt(ə)nt","explians":["n. 无能力者","adj. 无能力的，不胜任的；不合适的；不适当的；无力的"]}
+},{"id":10011, "word":"harness", "translate":{"us-phonetic":"'hɑrnɪs","uk-phonetic":"'hɑːnɪs","explians":["n. 马具；甲胄；挽具状带子；降落伞背带；日常工作","vt. 治理；套；驾驭；披上甲胄；利用"]}
+},{"id":10012, "word":"dissipate", "translate":{"us-phonetic":"'dɪsɪpet","uk-phonetic":"'dɪsɪpeɪt","explians":["vi. 驱散；放荡","vt. 浪费；使…消散"]}
+},{"id":10013, "word":"tow", "translate":{"us-phonetic":"to","uk-phonetic":"təʊ","explians":["n. 拖；麻的粗纤维；拖曳所用之绳","vt. 拖；牵引；曳","vi. 被拖带；拖行","n. (Tow)人名；(东南亚国家华语)道"]}
+},{"id":10014, "word":"leftover", "translate":{"us-phonetic":"'lɛftovɚ","uk-phonetic":"'leftəʊvə","explians":["n. 残留物；吃剩的饭菜；剩余物","adj. 残余的；吃剩的"]}
+},{"id":10015, "word":"mahogany", "translate":{"us-phonetic":"mə'hɑgəni","uk-phonetic":"mə'hɒgənɪ","explians":["n. 桃花心木，红木；红褐色"]}
+},{"id":10016, "word":"publicize", "translate":{"us-phonetic":"'pʌblɪsaɪz","uk-phonetic":"'pʌblisaiz","explians":["vt. 宣传；公布"]}
+},{"id":10017, "word":"drizzle", "translate":{"us-phonetic":"'drɪzl","uk-phonetic":"'drɪz(ə)l","explians":["n. 细雨，毛毛雨","vt. 下毛毛雨","vi. 下毛毛雨"]}
+},{"id":10018, "word":"wallpaper", "translate":{"us-phonetic":"'wɔlpepɚ","uk-phonetic":"'wɔːlpeɪpə","explians":["n. [建] 壁纸，墙纸","vi. 贴墙纸，贴壁纸","vt. 贴墙纸于，贴壁纸于"]}
+},{"id":10019, "word":"fatality", "translate":{"us-phonetic":"fə'tæləti","uk-phonetic":"fə'tælɪtɪ; feɪ-","explians":["n. 死亡；宿命；致命性；不幸；灾祸"]}
+},{"id":10020, "word":"burden", "translate":{"us-phonetic":"'bɝdn","uk-phonetic":"'bɜːd(ə)n","explians":["n. 负担；责任；船的载货量","vt. 使负担；烦扰；装货于","n. (Burden)人名；(英)伯登"]}
+},{"id":10021, "word":"obscene", "translate":{"us-phonetic":"əb'sin","uk-phonetic":"əb'siːn","explians":["adj. 淫秽的；猥亵的；可憎的"]}
+},{"id":10022, "word":"visibly", "translate":{"us-phonetic":"'vɪzəbli","uk-phonetic":"'vizəbli","explians":["adv. 明显地；显然；看得见地"]}
+},{"id":10023, "word":"oxide", "translate":{"us-phonetic":"'ɑksaɪd","uk-phonetic":"'ɒksaɪd","explians":["n. [化学] 氧化物"]}
+},{"id":10024, "word":"bulge", "translate":{"us-phonetic":"bʌldʒ","uk-phonetic":"bʌldʒ","explians":["n. 胀；膨胀；凸出部分","vt. 使膨胀；使凸起","vi. 膨胀；凸出"]}
+},{"id":10025, "word":"coercion", "translate":{"us-phonetic":"ko'ɝʒən","uk-phonetic":"kəʊ'ɜːʃ(ə)n","explians":["n. 强制；强迫；高压政治；威压"]}
+},{"id":10026, "word":"locale", "translate":{"us-phonetic":"lo'kæl","uk-phonetic":"ləʊ'kɑːl","explians":["n. 场所，现场"]}
+},{"id":10027, "word":"reimbursement", "translate":{"us-phonetic":",riɪm'bɝsmənt","uk-phonetic":",ri:ɪm'bɜ:smənt","explians":["n. 退还，偿还；赔偿"]}
+},{"id":10028, "word":"diocese", "translate":{"us-phonetic":"'daɪəsɪs","uk-phonetic":"'daɪəsɪs","explians":["n. 主教教区"]}
+},{"id":10029, "word":"tracking", "translate":{"us-phonetic":"'trækiŋ","uk-phonetic":"'trækɪŋ","explians":["n. 追踪，跟踪","v. 跟踪（track的ing形式）"]}
+},{"id":10030, "word":"ventilation", "translate":{"us-phonetic":",vɛntl'eʃən","uk-phonetic":",ventɪ'leɪʃ(ə)n","explians":["n. 通风设备；空气流通"]}
+},{"id":10031, "word":"ensuing", "translate":{"explians":["adj. 接着发生的","v. 跟着发生（ensue的ing形式）"]}
+},{"id":10032, "word":"subordinate", "translate":{}
+},{"id":10033, "word":"manure", "translate":{"us-phonetic":"mə'nʊr","uk-phonetic":"mə'njʊə","explians":["n. 肥料；粪肥","vt. 施肥于；耕种"]}
+},{"id":10034, "word":"bidding", "translate":{"us-phonetic":"'bɪdɪŋ","uk-phonetic":"'bɪdɪŋ","explians":["n. 投标；出价；命令"]}
+},{"id":10035, "word":"tenet", "translate":{"us-phonetic":"'tɛnɪt","uk-phonetic":"'tenɪt; 'tiːnet","explians":["n. 原则；信条；教义","n. (Tenet)人名；(法)特内；(英)特尼特"]}
+},{"id":10036, "word":"merit", "translate":{"us-phonetic":"'mɛrɪt","uk-phonetic":"'merɪt","explians":["n. 优点，价值；功绩；功过","vt. 值得","vi. 应受报答"]}
+},{"id":10037, "word":"pessimistic", "translate":{"us-phonetic":",pɛsɪ'mɪstɪk","uk-phonetic":",pesɪ'mɪstɪk","explians":["adj. 悲观的，厌世的；悲观主义的"]}
+},{"id":10038, "word":"same", "translate":{"us-phonetic":"sem","uk-phonetic":"seɪm","explians":["adj. 相同的；同一的；上述的（通常与the连用）；无变化的","adv. 同样地（通常与the连用）","pron. 同样的事物或人（通常与the连用）","n. (Same)人名；(意)萨梅"]}
+},{"id":10039, "word":"turbulent", "translate":{"us-phonetic":"'tɝbjələnt","uk-phonetic":"'tɜːbjʊl(ə)nt","explians":["adj. 骚乱的，混乱的；狂暴的；吵闹的；激流的，湍流的"]}
+},{"id":10040, "word":"longitudinal", "translate":{"us-phonetic":",lɑndʒə'tudnl","uk-phonetic":",lɒn(d)ʒɪ'tjuːdɪn(ə)l; ,lɒŋgɪ-","explians":["adj. 长度的，纵向的；经线的"]}
+},{"id":10041, "word":"cynicism", "translate":{"us-phonetic":"'sɪnɪsɪz(ə)m","uk-phonetic":"'sɪnɪsɪz(ə)m","explians":["n. 玩世不恭，愤世嫉俗；犬儒主义；冷嘲热讽"]}
+},{"id":10042, "word":"ethnographic", "translate":{"us-phonetic":",eθnə'ɡræfik","uk-phonetic":",eθnə'ɡræfɪk","explians":["adj. 人种志的；民族志学的"]}
+},{"id":10043, "word":"good-looking", "translate":{"us-phonetic":"'ɡud'lukiŋ","uk-phonetic":"'ɡud'lukiŋ","explians":["adj. 好看的；美貌的"]}
+},{"id":10044, "word":"affirmation", "translate":{"us-phonetic":",æfɚ'meʃən","uk-phonetic":"æfə'meɪʃ(ə)n","explians":["n. 主张，肯定；断言"]}
+},{"id":10045, "word":"combustion", "translate":{"us-phonetic":"kəm'bʌstʃən","uk-phonetic":"kəm'bʌstʃ(ə)n","explians":["n. 燃烧，氧化；骚动"]}
+},{"id":10046, "word":"inviting", "translate":{"us-phonetic":"ɪn'vaɪtɪŋ","uk-phonetic":"ɪn'vaɪtɪŋ","explians":["v. 邀请（invite的ing形式）","adj. 诱人的；有魅力的"]}
+},{"id":10047, "word":"rustic", "translate":{"us-phonetic":"'rʌstɪk","uk-phonetic":"'rʌstɪk","explians":["adj. 乡村的；纯朴的；粗野的；手工粗糙的","n. 乡下人；乡巴佬"]}
+},{"id":10048, "word":"affiliate", "translate":{"us-phonetic":"ə'fɪlɪet","uk-phonetic":"ə'fɪlɪeɪt","explians":["n. 联号；隶属的机构等","vt. 使附属；接纳；使紧密联系","vi. 参加，加入；发生联系"]}
+},{"id":10049, "word":"invader", "translate":{"us-phonetic":"ɪn'vedɚ","uk-phonetic":"ɪn'veɪdə(r)","explians":["n. 侵略者；侵入物"]}
+},{"id":10050, "word":"holistic", "translate":{"us-phonetic":"ho'lɪstɪk","uk-phonetic":"həʊ'lɪstɪk; hɒ-","explians":["adj. 整体的；全盘的"]}
+},{"id":10051, "word":"light-year", "translate":{"us-phonetic":"'laitjə:","uk-phonetic":"'laitjə:","explians":["n. 光年"]}
+},{"id":10052, "word":"discrete", "translate":{"us-phonetic":"dɪ'skrit","uk-phonetic":"dɪ'skriːt","explians":["n. 分立元件；独立部件","adj. 离散的，不连续的"]}
+},{"id":10053, "word":"straddle", "translate":{"us-phonetic":"'strædl","uk-phonetic":"'stræd(ə)l","explians":["n. 跨坐","vt. 叉开(腿)；骑，跨；跨立于；跨越","vi. 跨坐；两腿叉开坐"]}
+},{"id":10054, "word":"mantle", "translate":{"us-phonetic":"'mæntl","uk-phonetic":"'mænt(ə)l","explians":["n. 地幔；斗篷；覆盖物","vi. 覆盖；脸红","vt. 覆盖","n. (Mantle)人名；(英、意)曼特尔"]}
+},{"id":10055, "word":"exterior", "translate":{"us-phonetic":"ɪk'stɪrɪɚ","uk-phonetic":"ɪk'stɪərɪə; ek-","explians":["n. 外部；表面；外型；外貌","adj. 外部的；表面的；外在的"]}
+},{"id":10056, "word":"aggravate", "translate":{"us-phonetic":"'æɡrəvet","uk-phonetic":"'ægrəveɪt","explians":["vt. 加重；使恶化；激怒"]}
+},{"id":10057, "word":"Norwegian", "translate":{"us-phonetic":"nɔ:'wi:dʒən","uk-phonetic":"nɔ:'wi:dʒən","explians":["n. 挪威语；挪威人","adj. 挪威的；挪威语的；挪威人的"]}
+},{"id":10058, "word":"haul", "translate":{"us-phonetic":"hɔl","uk-phonetic":"hɔːl","explians":["n. 拖，拉；用力拖拉；努力得到的结果；捕获物；一网捕获的鱼量；拖运距离","vt. 拖运；拖拉","vi. 拖，拉；改变主意；改变方向","n. (Haul)人名；(德)豪尔"]}
+},{"id":10059, "word":"insanity", "translate":{"us-phonetic":"ɪn'sænəti","uk-phonetic":"ɪn'sænətɪ","explians":["n. 疯狂；精神错乱；精神病；愚顽"]}
+},{"id":10060, "word":"consulting", "translate":{"us-phonetic":"kən'sʌltɪŋ","uk-phonetic":"kən'sʌltɪŋ","explians":["v. 咨询，请教；商议（consult的现在分词形式）","adj. 咨询的，商议的；顾问的，任专职顾问的"]}
+},{"id":10061, "word":"exaggerated", "translate":{"us-phonetic":"ɪg'zædʒə'retɪd","uk-phonetic":"iɡ'zædʒəreitid","explians":["v. 夸张，夸大（exaggerate的过去式）","adj. 夸张的，言过其实的"]}
+},{"id":10062, "word":"cornerstone", "translate":{"us-phonetic":"'kɔrnɚston","uk-phonetic":"'kɔːnəstəʊn","explians":["n. 基础；柱石；地基"]}
+},{"id":10063, "word":"geometric", "translate":{"us-phonetic":",dʒiə'mɛtrɪk","uk-phonetic":",dʒɪə'metrɪk","explians":["adj. 几何学的；[数] 几何学图形的"]}
+},{"id":10064, "word":"seductive", "translate":{"us-phonetic":"sɪ'dʌktɪv","uk-phonetic":"sɪ'dʌktɪv","explians":["adj. 有魅力的；性感的；引人注意的"]}
+},{"id":10065, "word":"luncheon", "translate":{"us-phonetic":"'lʌntʃən","uk-phonetic":"'lʌn(t)ʃ(ə)n","explians":["n. 午宴；正式的午餐会"]}
+},{"id":10066, "word":"called", "translate":{"us-phonetic":"kɔld","uk-phonetic":"kɔ:ld","explians":["v. 打电话、称呼（call的过去式）；[通信] 呼叫；访问","adj. 被呼叫的"]}
+},{"id":10067, "word":"problem-solving", "translate":{"explians":["n. 解决问题；找出问题的答案","adj. 问题解决的"]}
+},{"id":10068, "word":"wreath", "translate":{"us-phonetic":"riθ","uk-phonetic":"riːθ","explians":["n. 花冠；圈状物","vt. 环绕（等于wreathe）","vi. 盘旋（等于wreathe）"]}
+},{"id":10069, "word":"harness", "translate":{"us-phonetic":"'hɑrnɪs","uk-phonetic":"'hɑːnɪs","explians":["n. 马具；甲胄；挽具状带子；降落伞背带；日常工作","vt. 治理；套；驾驭；披上甲胄；利用"]}
+},{"id":10070, "word":"proprietary", "translate":{"us-phonetic":"prə'praɪətɛri","uk-phonetic":"prə'praɪət(ə)rɪ","explians":["n. 所有权；所有人","adj. 所有的；专利的；私人拥有的"]}
+},{"id":10071, "word":"troublesome", "translate":{"us-phonetic":"'trʌblsəm","uk-phonetic":"'trʌb(ə)ls(ə)m","explians":["adj. 麻烦的；讨厌的；使人苦恼的"]}
+},{"id":10072, "word":"enclosure", "translate":{"us-phonetic":"ɪn'kloʒɚ","uk-phonetic":"ɪn'kləʊʒə; en-","explians":["n. 附件；围墙；围场"]}
+},{"id":10073, "word":"disposable", "translate":{"us-phonetic":"dɪ'spozəbl","uk-phonetic":"dɪ'spəʊzəb(ə)l","explians":["adj. 可任意处理的；可自由使用的；用完即可丢弃的"]}
+},{"id":10074, "word":"gloomy", "translate":{"us-phonetic":"'ɡlumi","uk-phonetic":"'gluːmɪ","explians":["adj. 黑暗的；沮丧的；阴郁的"]}
+},{"id":10075, "word":"scribble", "translate":{"us-phonetic":"'skrɪbl","uk-phonetic":"'skrɪb(ə)l","explians":["n. 潦草写成的东西；潦草的写法；杂文","vt. 乱写；滥写；潦草地书写","vi. 乱写；乱涂"]}
+},{"id":10076, "word":"warhead", "translate":{"us-phonetic":"'wɔrhɛd","uk-phonetic":"'wɔːhed","explians":["n. 弹头"]}
+},{"id":10077, "word":"sling", "translate":{"us-phonetic":"slɪŋ","uk-phonetic":"slɪŋ","explians":["n. [机] 吊索；投石器；抛掷","vt. 用投石器投掷；吊起"]}
+},{"id":10078, "word":"kinda", "translate":{"us-phonetic":"'kaində","uk-phonetic":"'kaɪndə","explians":["n. (Kinda)人名；(匈)金道；(捷)金达","adv. 有一点；有几分"]}
+},{"id":10079, "word":"wooded", "translate":{"us-phonetic":"'wʊdɪd","uk-phonetic":"'wʊdɪd","explians":["adj. 树木繁茂的；森林多的","v. 植林于（wood的过去式）"]}
+},{"id":10080, "word":"flop", "translate":{"us-phonetic":"flɑp","uk-phonetic":"flɒp","explians":["n. 失败；砰然落下；拍击声","vi. 失败；扑拍；扑通落下；笨重地摔","vt. 笨拙地抛下；扑通放下；拍（翅）","adv. 扑通一声；恰巧"]}
+},{"id":10081, "word":"typewriter", "translate":{"us-phonetic":"'taɪpraɪtɚ","uk-phonetic":"'taɪpraɪtə","explians":["n. 打字机"]}
+},{"id":10082, "word":"row", "translate":{"us-phonetic":"ro","uk-phonetic":"rəʊ","explians":["n. 行，排；划船；街道；吵闹","vt. 划船；使……成排","vi. 划船；争吵","n. (Row)人名；(英)罗"]}
+},{"id":10083, "word":"amidst", "translate":{"us-phonetic":"ə'mɪdst","uk-phonetic":"ə'mɪdst","explians":["prep. 在…当中"]}
+},{"id":10084, "word":"annoy", "translate":{"us-phonetic":"ə'nɔɪ","uk-phonetic":"ə'nɒɪ","explians":["n. 烦恼（等于annoyance）","vt. 骚扰；惹恼；打搅","vi. 惹恼；令人讨厌；打搅"]}
+},{"id":10085, "word":"epic", "translate":{"us-phonetic":"'ɛpɪk","uk-phonetic":"'epɪk","explians":["n. 史诗；叙事诗；史诗般的作品","adj. 史诗的，叙事诗的"]}
+},{"id":10086, "word":"molest", "translate":{"us-phonetic":"mə'lɛst","uk-phonetic":"mə'lest","explians":["vt. 骚扰；调戏；干扰"]}
+},{"id":10087, "word":"ambivalence", "translate":{"us-phonetic":"æm'bɪvələns","uk-phonetic":"æm'bɪv(ə)l(ə)ns; æm'bɪvəl(ə)ns; æm'bɪvələns","explians":["n. [心理] 矛盾情绪；正反感情并存"]}
+},{"id":10088, "word":"nighttime", "translate":{"us-phonetic":"'naɪt,taɪm","uk-phonetic":"'naɪttaɪm","explians":["n. 夜间","adj. 夜间的；夜里发生的"]}
+},{"id":10089, "word":"para", "translate":{"us-phonetic":"'pærə","uk-phonetic":"'pærə","explians":["n. 帕拉（南斯拉夫币）；帕拉胶","abbr. 伞兵(=paratrooper)；段(=paragraph)"]}
+},{"id":10090, "word":"flux", "translate":{"us-phonetic":"flʌks","uk-phonetic":"flʌks","explians":["n. [流][机] 流量；变迁；不稳定；流出","vt. 使熔融；用焊剂处理","vi. 熔化；流出","n. (Flux)人名；(德)弗卢克斯；(英)弗勒克斯"]}
+},{"id":10091, "word":"following", "translate":{"us-phonetic":"'fɑloɪŋ","uk-phonetic":"'fɒləʊɪŋ","explians":["n. 下列事物；一批追随者","v. 跟随；沿行（follow的ing形式）","adj. 下面的；其次的，接着的"]}
+},{"id":10092, "word":"query", "translate":{"us-phonetic":"'kwɪri","uk-phonetic":"'kwɪərɪ","explians":["n. 疑问，质问；疑问号 ；[计] 查询","vi. 询问；表示怀疑","vt. 询问；对……表示疑问"]}
+},{"id":10093, "word":"torn", "translate":{"us-phonetic":"tɔrn","uk-phonetic":"tɔːn","explians":["v. 扯裂，撕开（tear的过去分词）","n. (Torn)人名；(英、俄、捷)托恩"]}
+},{"id":10094, "word":"blizzard", "translate":{"us-phonetic":"'blɪzɚd","uk-phonetic":"'blɪzəd","explians":["n. 暴风雪，大风雪；大打击","n. (Blizzard)人名；(英)布利泽德","vi. 下暴风雪"]}
+},{"id":10095, "word":"condemnation", "translate":{"us-phonetic":",kɑndɛm'neʃən","uk-phonetic":",kɒndəm'neɪʃn","explians":["n. 谴责；定罪；非难的理由；征用"]}
+},{"id":10096, "word":"warm-up", "translate":{"us-phonetic":"'wɔ:mʌp","uk-phonetic":"'wɔ:mʌp","explians":["n. 热身赛；预热；准备运动"]}
+},{"id":10097, "word":"indicative", "translate":{"us-phonetic":"ɪn'dɪkətɪv","uk-phonetic":"ɪn'dɪkətɪv","explians":["n. 陈述语气；陈述语气的动词形式","adj. 象征的；指示的；表示…的"]}
+},{"id":10098, "word":"umpire", "translate":{"us-phonetic":"'ʌmpaɪɚ","uk-phonetic":"'ʌmpaɪə","explians":["n. 裁判员，仲裁人","vt. 仲裁，裁判","vi. 当裁判，任裁判"]}
+},{"id":10099, "word":"scare", "translate":{"us-phonetic":"skɛr","uk-phonetic":"skeə","explians":["n. 恐慌；惊吓；惊恐","vt. 惊吓；把…吓跑","adj. （美）骇人的","vi. 受惊"]}
+},{"id":10100, "word":"managerial", "translate":{"us-phonetic":",mænə'dʒɪrɪəl","uk-phonetic":"mænə'dʒiːrɪəl","explians":["adj. [管理] 管理的；经理的"]}
+},{"id":10101, "word":"imprisonment", "translate":{"us-phonetic":"ɪm'prɪznmənt","uk-phonetic":"ɪm'prɪz(ə)nm(ə)nt","explians":["n. 监禁，关押；坐牢；下狱"]}
+},{"id":10102, "word":"gothic", "translate":{"us-phonetic":"'ɡɔθik","uk-phonetic":"'ɡɔθik","explians":["n. 哥特式","adj. 哥特式的；野蛮的"]}
+},{"id":10103, "word":"tidy", "translate":{"us-phonetic":"'taɪdi","uk-phonetic":"'taɪdɪ","explians":["n. 椅子的背罩","adj. 整齐的；相当大的","vi. 整理；收拾","vt. 整理；收拾；弄整齐","n. (Tidy)人名；(英)泰迪"]}
+},{"id":10104, "word":"hard-core", "translate":{"us-phonetic":"'hɑ:dkɔ:","uk-phonetic":"'hɑ:dkɔ:","explians":["n. 核心成员；铁杆分子","adj. 中坚的；顽固不化的；赤裸裸描写性行为的"]}
+},{"id":10105, "word":"revel", "translate":{"us-phonetic":"'rɛvl","uk-phonetic":"'rev(ə)l","explians":["n. 狂欢；闹饮；喜庆狂欢活动","vi. 狂欢；陶醉","n. (Revel)人名；(意、罗、法)雷韦尔；(英)雷维尔"]}
+},{"id":10106, "word":"humorous", "translate":{"us-phonetic":"'hjumərəs","uk-phonetic":"'hjuːm(ə)rəs","explians":["adj. 诙谐的，幽默的；滑稽的，可笑的"]}
+},{"id":10107, "word":"blackness", "translate":{"us-phonetic":"'blæknɪs","uk-phonetic":"'blæknɪs","explians":["n. 黑色；阴险"]}
+},{"id":10108, "word":"impaired", "translate":{"Pinyin":"ɪm'peəd","explians":["v. 损害（impair的过去式和过去分词）","adj. 受损的"]}
+},{"id":10109, "word":"vista", "translate":{"us-phonetic":"'vɪstə","uk-phonetic":"'vɪstə","explians":["n. 远景，狭长的街景；展望；回顾","n. (Vista)人名；(意)维斯塔；(西)比斯塔"]}
+},{"id":10110, "word":"melon", "translate":{"us-phonetic":"'mɛlən","uk-phonetic":"'melən","explians":["n. 瓜；甜瓜；大肚子；圆鼓鼓像瓜似的东西","n. (Melon)人名；(意、西、葡)梅隆"]}
+},{"id":10111, "word":"shade", "translate":{"us-phonetic":"ʃed","uk-phonetic":"ʃeɪd","explians":["n. 树荫；阴影；阴凉处；遮阳物；（照片等的）明暗度；少量、些微；细微的差别","vt. 使阴暗；使渐变；为…遮阳；使阴郁；掩盖","vi. （颜色、色彩等）渐变","n. (Shade)人名；(英、德)谢德"]}
+},{"id":10112, "word":"lagoon", "translate":{"us-phonetic":"lə'gʊn","uk-phonetic":"lə'guːn","explians":["n. [地理][水文] 泻湖；环礁湖；咸水湖"]}
+},{"id":10113, "word":"worn", "translate":{"us-phonetic":"wɔrn","uk-phonetic":"wɔːn","explians":["v. 穿；磨损（wear的过去分词）；佩戴","adj. 疲倦的；用旧的","n. (Worn)人名；(柬)翁；(英、葡)沃恩"]}
+},{"id":10114, "word":"unavailable", "translate":{"us-phonetic":"'ʌnə'veləbl","uk-phonetic":"ʌnə'veɪləb(ə)l","explians":["adj. 难以获得的；不能利用的；不近便的"]}
+},{"id":10115, "word":"dysfunctional", "translate":{"Pinyin":"dɪsˈfʌŋkʃənl","explians":["机能失调的,功能障碍的"]}
+},{"id":10116, "word":"forgotten", "translate":{"us-phonetic":"fɚ'ɡɑtn","uk-phonetic":"fə'ɡɒtn","explians":["v. 忘记（forget的过去分词）"]}
+},{"id":10117, "word":"buyout", "translate":{"us-phonetic":"'baɪ'aʊt","uk-phonetic":"'bai,aut","explians":["n. 全部买下（市上产品）"]}
+},{"id":10118, "word":"scorer", "translate":{"us-phonetic":"'skɔrɚ","uk-phonetic":"'skɔ:rə","explians":["n. （竞赛等的）记分员；记录员；得分者；刻划痕迹的人","n. (Scorer)人名；(英)斯科勒"]}
+},{"id":10119, "word":"temper", "translate":{"us-phonetic":"'tɛmpɚ","uk-phonetic":"'tempə","explians":["n. 脾气；（钢等）回火；性情；倾向","vt. 使回火；锻炼；调和；使缓和","vi. 回火；调和"]}
+},{"id":10120, "word":"unmistakable", "translate":{"us-phonetic":",ʌnmɪ'stekəbl","uk-phonetic":"ʌnmɪ'steɪkəb(ə)l","explians":["adj. 明显的；不会弄错的"]}
+},{"id":10121, "word":"divisive", "translate":{"us-phonetic":"di'vaisiv","uk-phonetic":"dɪ'vaɪsɪv","explians":["adj. 分裂的；区分的；造成不和的"]}
+},{"id":10122, "word":"alcoholic", "translate":{"us-phonetic":",ælkə'hɔlɪk","uk-phonetic":"ælkə'hɒlɪk","explians":["n. 酒鬼，酗酒者","adj. 酒精的，含酒精的"]}
+},{"id":10123, "word":"sensational", "translate":{"us-phonetic":"sɛn'seʃənl","uk-phonetic":"sen'seɪʃ(ə)n(ə)l","explians":["adj. 轰动的；耸人听闻的；非常好的；使人感动的"]}
+},{"id":10124, "word":"soundtrack", "translate":{"us-phonetic":"'saʊndtræk","uk-phonetic":"'saʊn(d)træk","explians":["n. 声带；声道；声迹；电影配音"]}
+},{"id":10125, "word":"beware", "translate":{"us-phonetic":"bɪ'wɛr","uk-phonetic":"bɪ'weə","explians":["vt. 注意，当心；提防","vi. 当心，小心"]}
+},{"id":10126, "word":"condominium", "translate":{"us-phonetic":",kɑndə'mɪnɪəm","uk-phonetic":",kɒndə'mɪnɪəm","explians":["n. 共同统治；财产共有权；独立产权的公寓"]}
+},{"id":10127, "word":"pertinent", "translate":{"us-phonetic":"'pɝtnənt","uk-phonetic":"'pɜːtɪnənt","explians":["adj. 相关的，相干的；中肯的；切题的"]}
+},{"id":10128, "word":"wrath", "translate":{"us-phonetic":"ræθ","uk-phonetic":"rɒθ; rɔːθ","explians":["n. 愤怒；激怒"]}
+},{"id":10129, "word":"shimmering", "translate":{"us-phonetic":"'ʃɪmɚ","uk-phonetic":"英 ['ʃɪmərɪŋ] 美 ['ʃɪmərɪŋ]","explians":["adj. 闪烁的；微微发亮的","v. 闪耀（shimmer进行式）"]}
+},{"id":10130, "word":"decor", "translate":{"us-phonetic":"de'kɔr","uk-phonetic":"'deɪkɔː; 'de-","explians":["n. 装饰，布置"]}
+},{"id":10131, "word":"wiring", "translate":{"us-phonetic":"'waɪərɪŋ","uk-phonetic":"'waɪərɪŋ","explians":["n. [电] 接线，架线；线路；金属线缝术","v. 装电线（wire的现在分词）"]}
+},{"id":10132, "word":"charm", "translate":{"us-phonetic":"tʃɑrm","uk-phonetic":"tʃɑːm","explians":["n. 魅力，吸引力；魔力","vt. 使陶醉；行魔法","vi. 有魔力；用符咒"]}
+},{"id":10133, "word":"insofar", "translate":{"us-phonetic":",insəu'fɑ:","uk-phonetic":"ɪnsə(ʊ)'fɑː","explians":["adv. 在…的范围；在…情况下"]}
+},{"id":10134, "word":"presumption", "translate":{"us-phonetic":"pri'zʌmpʃən","uk-phonetic":"prɪ'zʌm(p)ʃ(ə)n","explians":["n. 放肆，傲慢；推测"]}
+},{"id":10135, "word":"smoky", "translate":{"us-phonetic":"'smoki","uk-phonetic":"'sməʊkɪ","explians":["adj. 冒烟的；烟熏味的；熏着的；呛人的；烟状的"]}
+},{"id":10136, "word":"usefulness", "translate":{"us-phonetic":"'jʊsfəlnəs","uk-phonetic":"'juːsf(ʊ)lnəs","explians":["n. 有用；有效性；有益"]}
+},{"id":10137, "word":"videotape", "translate":{"us-phonetic":"'vɪdɪotep","uk-phonetic":"'vɪdɪə(ʊ)teɪp","explians":["n. 录像带","vt. 将…录到录像带上"]}
+},{"id":10138, "word":"unanswered", "translate":{"us-phonetic":"ʌn'ɑnsɚd","uk-phonetic":"ʌn'ɑːnsəd","explians":["adj. 未答复的；无反应的"]}
+},{"id":10139, "word":"vocation", "translate":{"us-phonetic":"vo'keʃən","uk-phonetic":"və(ʊ)'keɪʃ(ə)n","explians":["n. 职业；天职；天命；神召"]}
+},{"id":10140, "word":"bullshit", "translate":{"us-phonetic":"'bʊlʃɪt","uk-phonetic":"'bʊlʃɪt","explians":["n. 胡说","vt. 胡说，哄骗"]}
+},{"id":10141, "word":"pulpit", "translate":{"us-phonetic":"'pʊlpɪt","uk-phonetic":"'pʊlpɪt","explians":["n. 讲道坛；高架操纵台；神职人员"]}
+},{"id":10142, "word":"downplay", "translate":{"us-phonetic":",daʊn'ple","uk-phonetic":"daʊn'pleɪ","explians":["vt. 不予重视；将...轻描淡写"]}
+},{"id":10143, "word":"vineyard", "translate":{"us-phonetic":"'vɪnjɚd","uk-phonetic":"'vɪnjɑːd; -jəd","explians":["n. 葡萄园"]}
+},{"id":10144, "word":"worldview", "translate":{"us-phonetic":"'wə:ld,vju:","uk-phonetic":"'wə:ld,vju:","explians":["n. 世界观"]}
+},{"id":10145, "word":"connected", "translate":{"us-phonetic":"kə'nɛktɪd","uk-phonetic":"kə'nektɪd","explians":["v. 连接（connect的过去式）","adj. [计] 连接的；有联系的；连贯的"]}
+},{"id":10146, "word":"obedience", "translate":{"us-phonetic":"ə'bidjəns","uk-phonetic":"ə'biːdɪəns","explians":["n. 顺从；服从；遵守","n. (Obedience)人名；(英)奥贝丁丝"]}
+},{"id":10147, "word":"tart", "translate":{"us-phonetic":"tɑrt","uk-phonetic":"tɑːt","explians":["n. 果馅饼；妓女","adj. 酸的；锋利的；尖刻的","vt. 打扮","n. (Tart)人名；(英)塔特"]}
+},{"id":10148, "word":"endow", "translate":{"us-phonetic":"ɪn'daʊ","uk-phonetic":"ɪn'daʊ; en-","explians":["vt. 赋予；捐赠；天生具有"]}
+},{"id":10149, "word":"equitable", "translate":{"us-phonetic":"'ekwitəbl","uk-phonetic":"'ekwɪtəb(ə)l","explians":["adj. 公平的，公正的；平衡法的"]}
+},{"id":10150, "word":"self-efficacy", "translate":{"explians":["n. 自我效能"]}
+},{"id":10151, "word":"logistics", "translate":{"us-phonetic":"lə'dʒɪstɪks","uk-phonetic":"lə'dʒɪstɪks","explians":["n. [军] 后勤；后勤学","物流"]}
+},{"id":10152, "word":"flinch", "translate":{"us-phonetic":"flɪntʃ","uk-phonetic":"'flɪn(t)ʃ","explians":["n. 退缩；畏惧","vi. 退缩；畏惧"]}
+},{"id":10153, "word":"photon", "translate":{"us-phonetic":"'fotɑn","uk-phonetic":"'fəʊtɒn","explians":["n. [物] 光子；辐射量子；见光度（等于light quantum）"]}
+},{"id":10154, "word":"steam", "translate":{"us-phonetic":"stim","uk-phonetic":"stiːm","explians":["n. 蒸汽；精力","adj. 蒸汽的","vt. 蒸，散发；用蒸汽处理","vi. 蒸，冒水汽"]}
+},{"id":10155, "word":"utilization", "translate":{"us-phonetic":"ˌjuːtəlaɪ'zeɪʃn","uk-phonetic":",juːtɪlaɪ'zeɪʃən","explians":["n. 利用，使用"]}
+},{"id":10156, "word":"disseminate", "translate":{"us-phonetic":"dɪ'sɛmɪnet","uk-phonetic":"dɪ'semɪneɪt","explians":["vt. 宣传，传播；散布","vi. 散布；广为传播"]}
+},{"id":10157, "word":"acknowledgment", "translate":{"us-phonetic":"ək'nɑlɪdʒmənt","uk-phonetic":"ək'nɒlɪdʒmənt","explians":["n. 感谢；承认；承认书"]}
+},{"id":10158, "word":"witty", "translate":{"us-phonetic":"'wɪti","uk-phonetic":"'wɪtɪ","explians":["adj. 诙谐的；富于机智的","n. (Witty)人名；(英)威蒂"]}
+},{"id":10159, "word":"racket", "translate":{"us-phonetic":"'rækɪt","uk-phonetic":"'rækɪt","explians":["n. 球拍；吵闹，喧闹","vt. 过着花天酒地的生活","vi. 过着花天酒地的生活"]}
+},{"id":10160, "word":"rounded", "translate":{"us-phonetic":"'raʊndɪd","uk-phonetic":"'raʊndɪd","explians":["adj. 圆形的；全面的；丰满的"]}
+},{"id":10161, "word":"favored", "translate":{"us-phonetic":"'fevɚd","uk-phonetic":"feɪvəd","explians":["adj. 有利的；受到优待的；受到喜爱的","v. 赞成；宠爱；帮助（favor的过去分词）；给…以恩惠"]}
+},{"id":10162, "word":"hide", "translate":{"us-phonetic":"haɪd","uk-phonetic":"haɪd","explians":["n. 躲藏；兽皮；躲藏处","vt. 隐藏；隐瞒；鞭打","vi. 隐藏"]}
+},{"id":10163, "word":"waterfront", "translate":{"us-phonetic":"'wɔtɚfrʌnt","uk-phonetic":"'wɔːtəfrʌnt","explians":["n. 滩，海滨；水边","adj. 滨水区的"]}
+},{"id":10164, "word":"anyhow", "translate":{"us-phonetic":"'ɛnɪ'haʊ","uk-phonetic":"'enɪhaʊ","explians":["adv. 总之；无论如何；不管怎样"]}
+},{"id":10165, "word":"injunction", "translate":{"us-phonetic":"ɪn'dʒʌŋkʃən","uk-phonetic":"ɪn'dʒʌŋ(k)ʃ(ə)n","explians":["n. [管理] 禁令；命令；劝告"]}
+},{"id":10166, "word":"fret", "translate":{"us-phonetic":"frɛt","uk-phonetic":"fret","explians":["n. 烦躁；焦急；磨损","vi. 烦恼；焦急；磨损","vt. 使烦恼；焦急；使磨损","n. (Fret)人名；(法)弗雷；(西)弗雷特"]}
+},{"id":10167, "word":"moss", "translate":{"us-phonetic":"mɔs","uk-phonetic":"mɒs","explians":["n. 苔藓；泥沼","vt. 使长满苔藓","n. (Moss)人名；(英、德、意、西、葡、波、挪、瑞典)莫斯"]}
+},{"id":10168, "word":"downward", "translate":{"us-phonetic":"'daʊnwɚd","uk-phonetic":"'daʊnwəd","explians":["adj. 向下的，下降的","adv. 向下"]}
+},{"id":10169, "word":"rapist", "translate":{"us-phonetic":"'repɪst","uk-phonetic":"'reɪpɪst","explians":["n. 强奸犯"]}
+},{"id":10170, "word":"careless", "translate":{"us-phonetic":"'kɛrləs","uk-phonetic":"'keələs","explians":["adj. 粗心的；无忧无虑的；淡漠的","n. (Careless)人名；(英)凯尔利斯"]}
+},{"id":10171, "word":"rigor", "translate":{"us-phonetic":"'rɪgɚ","uk-phonetic":"'riɡə","explians":["n. 严厉；精确；苛刻；僵硬","n. (Rigor)人名；(英、西、葡)里戈尔"]}
+},{"id":10172, "word":"abandonment", "translate":{"us-phonetic":"ə'bændənmənt","uk-phonetic":"ə'bændənm(ə)nt","explians":["n. 抛弃；放纵"]}
+},{"id":10173, "word":"marking", "translate":{"us-phonetic":"'mɑrkɪŋ","uk-phonetic":"'mɑːkɪŋ","explians":["n. 标志；打分；做记号；斑纹","v. 注意；作记号于；给…打分数（mark的ing形式）","n. (Marking)人名；(西)马金"]}
+},{"id":10174, "word":"observed", "translate":{"us-phonetic":"əb'zɝvd","uk-phonetic":"əb'zɜːvd","explians":["v. 观察；遵守；注意到；庆祝（observe的过去分词形式）","adj. 观察的；观测的"]}
+},{"id":10175, "word":"suspended", "translate":{"us-phonetic":"sə'spendid","uk-phonetic":"sə'spendid","explians":["adj. 悬浮的；暂停的，缓期的（宣判）"]}
+},{"id":10176, "word":"flatter", "translate":{"us-phonetic":"'flætɚ","uk-phonetic":"'flætə","explians":["vt. 奉承；谄媚；使高兴"]}
+},{"id":10177, "word":"altered", "translate":{"us-phonetic":"'ɔ:ltəd","uk-phonetic":"'ɔːltəd","explians":["n. 为参加短程高速汽车赛而改装的赛车","v. 改变（alter的过去分词）","adj. 改变了的；蚀变的"]}
+},{"id":10178, "word":"stale", "translate":{"us-phonetic":"stel","uk-phonetic":"steɪl","explians":["n. 尿","adj. 陈腐的；不新鲜的","vt. 使变旧；变得不新鲜","vi. 变陈旧；撒尿；变得不新鲜","n. (Stale)人名；(塞)斯塔莱"]}
+},{"id":10179, "word":"finishing", "translate":{"us-phonetic":"'fɪnɪʃɪŋ","uk-phonetic":"'fɪnɪʃɪŋ","explians":["n. 完成，结束；最后的修整","v. 完成（finish的ing形式）","adj. 最后的；终点的"]}
+},{"id":10180, "word":"showing", "translate":{"us-phonetic":"'ʃoɪŋ","uk-phonetic":"'ʃəʊɪŋ","explians":["n. 放映；表演；陈列","v. 展示（show的ing形式）"]}
+},{"id":10181, "word":"serum", "translate":{"us-phonetic":"'sɪrəm","uk-phonetic":"'sɪərəm","explians":["n. 血清；浆液；免疫血清；乳清；树液","n. (Serum)人名；(挪)塞吕姆"]}
+},{"id":10182, "word":"fetal", "translate":{"us-phonetic":"'fitl","uk-phonetic":"'fiːt(ə)l","explians":["adj. 胎的，胎儿的"]}
+},{"id":10183, "word":"runaway", "translate":{"us-phonetic":"'rʌnəwe","uk-phonetic":"'rʌnəweɪ","explians":["n. 逃跑；逃走的人","adj. 逃亡的；逃走的"]}
+},{"id":10184, "word":"lapse", "translate":{"us-phonetic":"læps","uk-phonetic":"læps","explians":["n. (一时的) 走神，判断错误"]}
+},{"id":10185, "word":"errand", "translate":{"us-phonetic":"'ɛrənd","uk-phonetic":"'er(ə)nd","explians":["n. 使命；差事；差使"]}
+},{"id":10186, "word":"ballistic", "translate":{"us-phonetic":"bə'lɪstɪk","uk-phonetic":"bə'lɪstɪk","explians":["adj. 弹道的；射击的"]}
+},{"id":10187, "word":"levee", "translate":{"us-phonetic":"'lɛvi","uk-phonetic":"'levɪ; lɪ'viː","explians":["n. 堤坝（码头）；（旧时君主或显贵的）早晨接见","n. (Levee)人名；(利比)莱维","vt. 为…筑堤"]}
+},{"id":10188, "word":"imperative", "translate":{"us-phonetic":"ɪm'pɛrətɪv","uk-phonetic":"ɪm'perətɪv","explians":["n. 必要的事；命令；需要；规则；[语]祈使语气","adj. 必要的，不可避免的；紧急的；命令的，专横的；势在必行的；[语]祈使的"]}
+},{"id":10189, "word":"skate", "translate":{"us-phonetic":"sket","uk-phonetic":"skeɪt","explians":["n. 溜冰；冰鞋","vi. 滑冰；滑过","n. (Skate)人名；(瑞典、英)斯卡特"]}
+},{"id":10190, "word":"sucker", "translate":{"us-phonetic":"'sʌkɚ","uk-phonetic":"'sʌkə","explians":["n. 吸管；乳儿；易受骗的人","n. (Sucker)人名；(德)祖克尔","vt. 从……除去吸根","vi. 成为吸根；长出根出条"]}
+},{"id":10191, "word":"frying", "translate":{"us-phonetic":"'fraiiŋ","uk-phonetic":"'fraiiŋ","explians":["n. 油炸，油煎","v. 煎（fry的ing形式）；油炸"]}
+},{"id":10192, "word":"short-lived", "translate":{"us-phonetic":"'ʃɔ:t'livd, -laivd","uk-phonetic":"'ʃɔ:t'livd, -laivd","explians":["adj. 短暂的，短期的；短命的；无常的"]}
+},{"id":10193, "word":"kitten", "translate":{"us-phonetic":"'kɪtn","uk-phonetic":"'kɪt(ə)n","explians":["n. 小猫；小动物","n. (Kitten)人名；(法)基滕","vi. 产小猫"]}
+},{"id":10194, "word":"traitor", "translate":{"us-phonetic":"'tretɚ","uk-phonetic":"'treɪtə","explians":["n. 叛徒；卖国贼；背信弃义的人"]}
+},{"id":10195, "word":"barge", "translate":{"us-phonetic":"bɑrdʒ","uk-phonetic":"bɑːdʒ","explians":["n. 驳船；游艇","vt. 用船运输；蛮不讲理地闯入或打扰某事物","vi. 蹒跚；闯入","n. (Barge)人名；(英)巴奇；(德)巴格；(西)巴尔赫；(法、葡)巴尔热"]}
+},{"id":10196, "word":"unconventional", "translate":{"us-phonetic":",ʌnkən'vɛnʃənl","uk-phonetic":"ʌnkən'venʃ(ə)n(ə)l","explians":["adj. 非常规的；非传统的；不依惯例的"]}
+},{"id":10197, "word":"remedy", "translate":{"us-phonetic":"'rɛmədi","uk-phonetic":"'remɪdɪ","explians":["n. 补救；治疗；赔偿","vt. 补救；治疗；纠正"]}
+},{"id":10198, "word":"envoy", "translate":{"us-phonetic":"'ɛnvɔɪ","uk-phonetic":"'envɒɪ","explians":["n. 使者；全权公使"]}
+},{"id":10199, "word":"band", "translate":{"us-phonetic":"bænd","uk-phonetic":"bænd","explians":["n. 带，环；[物] 波段；(演奏流行音乐的) 乐队","n. n.乐队；队；一群","vi. 用带绑扎；给...镶边"]}
+},{"id":10200, "word":"chromosome", "translate":{"us-phonetic":"'kroməsom","uk-phonetic":"'krəʊməsəʊm","explians":["n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）"]}
+},{"id":10201, "word":"driven", "translate":{"us-phonetic":"'drɪvn","uk-phonetic":"'drɪvn","explians":["v. 驾驶，开车（drive的过去分词）","adj. 被动的，受到驱策的；有紧迫感的；（人）发愤图强的"]}
+},{"id":10202, "word":"realist", "translate":{"us-phonetic":"'riəlɪst","uk-phonetic":"'rɪəlɪst","explians":["n. 现实主义者；实在论者"]}
+},{"id":10203, "word":"psychiatry", "translate":{"us-phonetic":"saɪ'kaɪətri","uk-phonetic":"saɪ'kaɪətrɪ","explians":["n. 精神病学；精神病治疗法"]}
+},{"id":10204, "word":"overlap", "translate":{"us-phonetic":"'ovəlæp","uk-phonetic":"əʊvə'læp","explians":["n. 重叠；重复","vt. 与…重叠；与…同时发生","vi. 部分重叠；部分的同时发生"]}
+},{"id":10205, "word":"chopper", "translate":{"us-phonetic":"'tʃɑpɚ","uk-phonetic":"'tʃɒpə","explians":["n. [电子] 斩波器；斧头；切碎机","vt. 用直升机运送","vi. 乘直升机飞行"]}
+},{"id":10206, "word":"rehab", "translate":{"us-phonetic":"'ri:hæb","uk-phonetic":"'riːhæb","explians":["n. 修复（等于rehabilitation）","vt. 修复（等于rehabilitate）"]}
+},{"id":10207, "word":"chant", "translate":{"us-phonetic":"tʃænt","uk-phonetic":"tʃɑːnt","explians":["n. 圣歌；赞美诗","vt. 唱；诵扬","vi. 唱歌；反复地唱歌","n. (Chant)人名；(英)钱特"]}
+},{"id":10208, "word":"judiciary", "translate":{"us-phonetic":"dʒu'dɪʃɪɛri","uk-phonetic":"dʒʊ'dɪʃ(ə)rɪ","explians":["n. 司法部；法官；司法制度","adj. 司法的；法官的；法院的"]}
+},{"id":10209, "word":"scrub", "translate":{"us-phonetic":"skrʌb","uk-phonetic":"skrʌb","explians":["n. 矮树；洗擦；擦洗者；矮小的人（或物）","vt. 用力擦洗；使净化","vi. 擦洗；进行手臂消毒","adj. 矮小的；临时凑合的；次等的"]}
+},{"id":10210, "word":"analog", "translate":{"us-phonetic":"'ænəlɔg","uk-phonetic":"'ænəlɒɡ","explians":["n. [自] 模拟；类似物","adj. [自] 模拟的；有长短针的"]}
+},{"id":10211, "word":"espouse", "translate":{"us-phonetic":"ɪ'spaʊz","uk-phonetic":"ɪ'spaʊz; e-","explians":["vt. 支持；嫁娶；赞成；信奉"]}
+},{"id":10212, "word":"showdown", "translate":{"us-phonetic":"'ʃodaʊn","uk-phonetic":"'ʃəʊdaʊn","explians":["n. 摊牌；紧要关头；最后一决胜负"]}
+},{"id":10213, "word":"lame", "translate":{"us-phonetic":"lem","uk-phonetic":"leɪm","explians":["adj. 跛足的；僵痛的；不完全的；无说服力的；差劲的，蹩脚的","vt. 使跛；使成残废","vi. 变跛"]}
+},{"id":10214, "word":"scientifically", "translate":{"us-phonetic":"saɪən'tɪfɪkli","uk-phonetic":"saiən'tifikli","explians":["adv. 系统地；合乎科学地；学问上"]}
+},{"id":10215, "word":"re-establish", "translate":{"us-phonetic":",ri:i'stæbliʃ","uk-phonetic":",ri:i'stæbliʃ","explians":["vt. 重建；恢复；重新安置"]}
+},{"id":10216, "word":"graveyard", "translate":{"us-phonetic":"'ɡrevjɑrd","uk-phonetic":"'greɪvjɑːd","explians":["n. 墓地"]}
+},{"id":10217, "word":"midtown", "translate":{"us-phonetic":"'mɪdtaʊn","uk-phonetic":"'mɪdtaʊn","explians":["n. 市中心区；商业区和住宅区的中间地区","adj. 市中心区的；位于市中心区的"]}
+},{"id":10218, "word":"journalistic", "translate":{"us-phonetic":"'dʒɝnl'ɪstɪk","uk-phonetic":",dʒɜːnə'lɪstɪk","explians":["adj. 新闻业的，新闻工作者的"]}
+},{"id":10219, "word":"improvisation", "translate":{"us-phonetic":",ɪmprəvaɪ'zeʃən","uk-phonetic":"ɪmprəvaɪ'zeɪʃn","explians":["n. 即兴创作；即席演奏"]}
+},{"id":10220, "word":"iceberg", "translate":{"us-phonetic":"'aɪs'bɝg","uk-phonetic":"'aɪsbɜːg","explians":["n. [地理] 冰山；显露部分"]}
+},{"id":10221, "word":"rodent", "translate":{"us-phonetic":"'rodnt","uk-phonetic":"'rəʊd(ə)nt","explians":["n. [脊椎] 啮齿动物","adj. 啮齿类的；咬的，嚼的；侵蚀性的"]}
+},{"id":10222, "word":"markedly", "translate":{"us-phonetic":"'ma:kidli","uk-phonetic":"'mɑːkɪdlɪ","explians":["adv. 明显地；显著地；引人注目地"]}
+},{"id":10223, "word":"mike", "translate":{"us-phonetic":"maɪk","uk-phonetic":"maɪk","explians":["n. 扩音器，麦克风；话筒；休息, 游手好闲","vt. 用扩音器传送；用窃听器窃听","vi. 使用扩音器；偷懒, 游手好闲"]}
+},{"id":10224, "word":"yeast", "translate":{"us-phonetic":"jist","uk-phonetic":"jiːst","explians":["n. 酵母；泡沫；酵母片；引起骚动因素"]}
+},{"id":10225, "word":"powdered", "translate":{"us-phonetic":"'paʊdɚd","uk-phonetic":"'paʊdəd","explians":["adj. 变成粉末的；涂粉的","v. 使成粉末（powder的过去分词）；撒粉；搽粉"]}
+},{"id":10226, "word":"thy", "translate":{"us-phonetic":"ðaɪ","uk-phonetic":"ðaɪ","explians":["pron. 你的","n. (Thy)人名；(柬)提"]}
+},{"id":10227, "word":"alert", "translate":{"us-phonetic":"ə'lɝt","uk-phonetic":"ə'lɜːt","explians":["n. 警戒，警惕；警报","adj. 警惕的，警觉的；留心的","vt. 警告；使警觉，使意识到","n. (Alert)人名；(西)阿莱尔特"]}
+},{"id":10228, "word":"thump", "translate":{"us-phonetic":"θʌmp","uk-phonetic":"θʌmp","explians":["n. 重打；重击声","vi. 重击；狠打；砰然地响","vt. 重击；用拳头打；砰地撞到"]}
+},{"id":10229, "word":"parrot", "translate":{"us-phonetic":"'pærət","uk-phonetic":"'pærət","explians":["n. 鹦鹉；学舌者，应声虫；机械模仿别人的人","vt. 机械地模仿","n. (Parrot)人名；(英、俄、葡)帕罗特；(法)帕罗"]}
+},{"id":10230, "word":"divinity", "translate":{"us-phonetic":"dɪ'vɪnəti","uk-phonetic":"dɪ'vɪnɪtɪ","explians":["n. 神；神性；神学"]}
+},{"id":10231, "word":"traction", "translate":{"us-phonetic":"'trækʃən","uk-phonetic":"'trækʃ(ə)n","explians":["n. 牵引；[机][车辆] 牵引力"]}
+},{"id":10232, "word":"minute", "translate":{"us-phonetic":"'mɪnɪt","uk-phonetic":"'mɪnɪt","explians":["n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录","adj. 微小的，详细的 [maɪˈnjuːt; US -ˈnuːt; maɪˋnut]","vt. 将…记录下来"]}
+},{"id":10233, "word":"tempo", "translate":{"us-phonetic":"'tɛmpo","uk-phonetic":"'tempəʊ","explians":["n. 速度，发展速度；拍子","n. (Tempo)人名；(意)滕波"]}
+},{"id":10234, "word":"enrichment", "translate":{"us-phonetic":"ɪn'rɪtʃmənt","uk-phonetic":"ɪn'rɪtʃmənt","explians":["n. 丰富；改进；肥沃；发财致富"]}
+},{"id":10235, "word":"hegemony", "translate":{"us-phonetic":"hɪ'dʒɛmoni","uk-phonetic":"hɪ'dʒemənɪ; -'ge-","explians":["n. 霸权；领导权；盟主权"]}
+},{"id":10236, "word":"adherence", "translate":{"us-phonetic":"əd'hɪrəns","uk-phonetic":"əd'hɪərəns","explians":["n. 坚持；依附；忠诚"]}
+},{"id":10237, "word":"strew", "translate":{"us-phonetic":"stru:","uk-phonetic":"struː","explians":["vt. 散播；撒满"]}
+},{"id":10238, "word":"paralysis", "translate":{"us-phonetic":"pə'ræləsɪs","uk-phonetic":"pə'rælɪsɪs","explians":["n. 麻痹；无力；停顿"]}
+},{"id":10239, "word":"wilt", "translate":{"us-phonetic":"wɪlt","uk-phonetic":"wɪlt","explians":["n. 枯萎；憔悴；衰弱","vi. 枯萎；畏缩；衰弱","vt. 使枯萎；使畏缩；使衰弱","n. (Wilt)人名；(英、德、捷)威尔特"]}
+},{"id":10240, "word":"flowing", "translate":{"us-phonetic":"'floɪŋ","uk-phonetic":"'fləʊɪŋ","explians":["v. 流动；起源；上涨（flow的ing形式）","adj. 流动的；平滑的；上涨的"]}
+},{"id":10241, "word":"termination", "translate":{"us-phonetic":"'tɝmə'neʃən","uk-phonetic":"tɜːmɪ'neɪʃ(ə)n","explians":["n. 结束，终止"]}
+},{"id":10242, "word":"faulty", "translate":{"us-phonetic":"'fɔlti","uk-phonetic":"'fɔːltɪ; 'fɒltɪ","explians":["adj. 有错误的；有缺点的"]}
+},{"id":10243, "word":"perch", "translate":{"us-phonetic":"pɝtʃ","uk-phonetic":"pɜːtʃ","explians":["n. 鲈鱼; 高位；栖木；杆","vt. 栖息；就位；位于；使坐落于","vi. 栖息；就位；位于","n. (Perch)人名；(俄)佩尔奇；(丹)佩克"]}
+},{"id":10244, "word":"unfairly", "translate":{"us-phonetic":"ʌn'fɛəli","uk-phonetic":"ʌn'fɛəli","explians":["adv. 不公平地；不正当地"]}
+},{"id":10245, "word":"twenty-three", "translate":{"us-phonetic":"'twenti'θri:","uk-phonetic":"'twenti'θri:","explians":["num. 二十三"]}
+},{"id":10246, "word":"acquit", "translate":{"us-phonetic":"ə'kwɪt","uk-phonetic":"ə'kwɪt","explians":["vt. 无罪释放；表现；脱卸义务和责任；清偿"]}
+},{"id":10247, "word":"promised", "translate":{"us-phonetic":"'prɔmɪst","uk-phonetic":"'prɒmɪst","explians":["预示","答应"]}
+},{"id":10248, "word":"forceful", "translate":{"us-phonetic":"'fɔrsfl","uk-phonetic":"'fɔːsfʊl; -f(ə)l","explians":["adj. 强有力的；有说服力的；坚强的"]}
+},{"id":10249, "word":"bland", "translate":{"us-phonetic":"blænd","uk-phonetic":"blænd","explians":["adj. 乏味的；温和的；冷漠的","vt. 使…变得淡而无味；除掉…的特性","vi. 变得平淡无奇；丧失特性","n. (Bland)人名；(英)布兰德"]}
+},{"id":10250, "word":"pediatric", "translate":{"us-phonetic":",pidɪ'ætrɪk","uk-phonetic":",pi:dɪ'ætrɪk","explians":["adj. 小儿科的"]}
+},{"id":10251, "word":"streak", "translate":{"us-phonetic":"strik","uk-phonetic":"striːk","explians":["n. 条纹，线条；倾向","vi. 飞跑，疾驶；加上条纹","vt. 飞跑，疾驰；加条纹于"]}
+},{"id":10252, "word":"emblem", "translate":{"us-phonetic":"'ɛmbləm","uk-phonetic":"'embləm","explians":["n. 象征；徽章；符号","vt. 象征；用符号表示；用纹章装饰","n. (Emblem)人名；(英)恩布勒姆"]}
+},{"id":10253, "word":"convergence", "translate":{"us-phonetic":"kən'vɝdʒəns","uk-phonetic":"kən'vɜːdʒəns","explians":["n. [数] 收敛；会聚，集合","n. (Convergence)人名；(法)孔韦尔让斯"]}
+},{"id":10254, "word":"homage", "translate":{"us-phonetic":"'hɑmɪdʒ","uk-phonetic":"'hɒmɪdʒ","explians":["n. 敬意；尊敬；效忠"]}
+},{"id":10255, "word":"gateway", "translate":{"us-phonetic":"'ɡetwe","uk-phonetic":"'geɪtweɪ","explians":["n. 门；网关；方法；通道；途径"]}
+},{"id":10256, "word":"deserted", "translate":{"us-phonetic":"dɪ'zɝtɪd","uk-phonetic":"dɪ'zɜːtɪd","explians":["v. 遗弃（desert的过去式和过去分词）","adj. 荒芜的；被遗弃的"]}
+},{"id":10257, "word":"template", "translate":{"us-phonetic":"'tɛmplet","uk-phonetic":"'templeɪt; -plɪt","explians":["n. 模板，样板"]}
+},{"id":10258, "word":"congratulations", "translate":{"us-phonetic":"kən,grætʃə'leʃənz","uk-phonetic":"kən,grætju'leiʃənz","explians":["n. 祝贺；恭喜；贺词（congratulation的复数形式）"]}
+},{"id":10259, "word":"botanical", "translate":{"us-phonetic":"bə'tænɪkl","uk-phonetic":"bə'tænɪkl","explians":["n. 植物性药材","adj. 植物学的"]}
+},{"id":10260, "word":"tack", "translate":{"us-phonetic":"tæk","uk-phonetic":"tæk","explians":["n. 大头钉；粗缝；行动方针；食物","vt. 附加；以大头针钉住","vi. 抢风航行；作文字形移动","n. (Tack)人名；(英、德、西)塔克"]}
+},{"id":10261, "word":"police", "translate":{"us-phonetic":"pə'lis","uk-phonetic":"pə'liːs","explians":["n. 警察，警方；治安","adj. 警察的；有关警察的","vt. 监督；管辖；维持治安；为…配备警察"]}
+},{"id":10262, "word":"password", "translate":{"us-phonetic":"ˈpæsˌwə:d","uk-phonetic":"'pɑːswɜːd","explians":["n. 密码；口令"]}
+},{"id":10263, "word":"sailing", "translate":{"us-phonetic":"'selɪŋ","uk-phonetic":"'seɪlɪŋ","explians":["n. 航行，航海；启航；航海术","v. 航行，起航（sail的现在分词形式）","adj. 航行的"]}
+},{"id":10264, "word":"thriving", "translate":{"us-phonetic":"'θriaiviŋ","uk-phonetic":"'θraɪvɪŋ","explians":["adj. 繁荣的；蒸蒸日上的；旺盛的","v. 兴旺（thrive的ing形式）"]}
+},{"id":10265, "word":"fed", "translate":{"Pinyin":"fed","explians":["v. 喂养（feed过去式）","abbr. 联邦储备局（the Federal Reserve System）"]}
+},{"id":10266, "word":"implant", "translate":{"us-phonetic":"ɪm'plænt","uk-phonetic":"ɪm'plɑːnt","explians":["n. [医] 植入物；植入管","vt. 种植；灌输；嵌入","vi. 被移植"]}
+},{"id":10267, "word":"aboriginal", "translate":{"us-phonetic":",æbə'rɪdʒənl","uk-phonetic":"æbə'rɪdʒɪn(ə)l","explians":["n. 土著居民；土生生物","adj. 土著的；原始的"]}
+},{"id":10268, "word":"unification", "translate":{"us-phonetic":",jʊnəfə'keʃən","uk-phonetic":",juːnɪfɪ'keɪʃ(ə)n","explians":["n. 统一；一致；联合"]}
+},{"id":10269, "word":"wane", "translate":{"us-phonetic":"wen","uk-phonetic":"weɪn","explians":["n. 衰退；月亏；衰退期；缺损","vi. 衰落；变小；亏缺；退潮；消逝","n. (Wane)人名；(英)韦恩；(阿拉伯)瓦尼；(几、马里、塞内)瓦内"]}
+},{"id":10270, "word":"adjustable", "translate":{"us-phonetic":"ə'dʒʌstəbl","uk-phonetic":"ə'dʒʌstəbl","explians":["adj. 可调节的"]}
+},{"id":10271, "word":"displaced", "translate":{"us-phonetic":"dɪs'ples","uk-phonetic":"dis'pleist","explians":["n. 无家可归者","v. 取代（displace的过去分词）；移动…的位置；撤换","adj. 无家可归的；位移的；被取代的"]}
+},{"id":10272, "word":"sweet", "translate":{"us-phonetic":"swit","uk-phonetic":"swiːt","explians":["n. 糖果；乐趣；芳香；宝贝","adj. 甜的；悦耳的；芳香的；亲切的","（俚）酷毙了","n. (Sweet)人名；(英)斯威特"]}
+},{"id":10273, "word":"stakeholder", "translate":{"us-phonetic":"ˈsteɪkhoʊldər","uk-phonetic":"ˈsteɪkhəʊldə(r)","explians":["n. 利益相关者；赌金保管者"]}
+},{"id":10274, "word":"willow", "translate":{"us-phonetic":"'wɪlo","uk-phonetic":"'wɪləʊ","explians":["n. [林] 柳树；[木] 柳木制品","adj. 柳木制的","n. (Willow)人名；(英)威洛，薇洛(女名)"]}
+},{"id":10275, "word":"savage", "translate":{"us-phonetic":"'sævɪdʒ","uk-phonetic":"'sævɪdʒ","explians":["n. 未开化的人；粗鲁的人；残暴成性的人","adj. 野蛮的；残酷的；狂怒的；荒凉的","vt. 乱咬；粗暴的对待","n. (Savage)人名；(西)萨瓦赫；(英、德)萨维奇"]}
+},{"id":10276, "word":"clipping", "translate":{"us-phonetic":"'klɪpɪŋ","uk-phonetic":"'klɪpɪŋ","explians":["n. 剪裁，剪断；剪报，剪辑；剪下物，剪下的东西","adj. 头等的，第一流的；极好的，恰好的"]}
+},{"id":10277, "word":"mashed", "translate":{"us-phonetic":"mæʃ","uk-phonetic":"mæʃt","explians":["adj. 捣碎的；捣烂的；被捣成糊状的","v. 捣碎；调情（mash的过去分词）"]}
+},{"id":10278, "word":"clinician", "translate":{"us-phonetic":"klɪ'nɪʃən","uk-phonetic":"klɪ'nɪʃn","explians":["n. 临床医生"]}
+},{"id":10279, "word":"styling", "translate":{"us-phonetic":"'staɪlɪŋ","uk-phonetic":"'stailiŋ","explians":["n. 款式，式样"]}
+},{"id":10280, "word":"mantra", "translate":{"us-phonetic":"'mæntrə","uk-phonetic":"'mæntrə","explians":["n. 咒语（尤指四吠陀经典内作为咒文或祷告唱念的）；颂歌","n. (Mantra)人名；(印尼)曼特拉"]}
+},{"id":10281, "word":"pickle", "translate":{"us-phonetic":"'pɪkl","uk-phonetic":"'pɪk(ə)l","explians":["n. 泡菜；盐卤；腌制食品","n. (Pickle)人名；(英)皮克尔","vt. 泡；腌制"]}
+},{"id":10282, "word":"immensely", "translate":{"us-phonetic":"i'mensli","uk-phonetic":"ɪ'menslɪ","explians":["adv. 极大地；无限地；广大地；庞大地"]}
+},{"id":10283, "word":"patronage", "translate":{"us-phonetic":"'pætrənɪdʒ","uk-phonetic":"ˈpeɪtrənɪdʒ","explians":["n. 赞助；光顾；任免权"]}
+},{"id":10284, "word":"watchdog", "translate":{"us-phonetic":"'wɑtʃdɔɡ","uk-phonetic":"'wɒtʃdɒg","explians":["n. 看门狗；监察人；忠实的看守人"]}
+},{"id":10285, "word":"stationary", "translate":{"us-phonetic":"'steʃənɛri","uk-phonetic":"'steɪʃ(ə)n(ə)rɪ","explians":["n. 不动的人；驻军","adj. 固定的；静止的；定居的；常备军的"]}
+},{"id":10286, "word":"imagined", "translate":{"explians":["v. 想象（imagine的过去分词）；猜测","adj. 想象的；构想的"]}
+},{"id":10287, "word":"palpable", "translate":{"us-phonetic":"'pælpəbl","uk-phonetic":"'pælpəb(ə)l","explians":["adj. 明显的；可感知的；易觉察的"]}
+},{"id":10288, "word":"virgin", "translate":{"us-phonetic":"'vɝdʒɪn","uk-phonetic":"'vɜːdʒɪn","explians":["n. 处女","adj. 处女的；纯洁的；未经利用的，处于原始状态的"]}
+},{"id":10289, "word":"periphery", "translate":{"us-phonetic":"pə'rɪfəri","uk-phonetic":"pə'rɪf(ə)rɪ","explians":["n. 外围，边缘；圆周；圆柱体表面"]}
+},{"id":10290, "word":"cosmetics", "translate":{"us-phonetic":"kɑz'mɛtɪks","uk-phonetic":"kɔz'metiks","explians":["n. [化工] 化妆品（cosmetic的复数）；装饰品","v. 用化妆品打扮（cosmetic的三单形式）"]}
+},{"id":10291, "word":"continual", "translate":{"us-phonetic":"kən'tɪnjuəl","uk-phonetic":"kən'tɪnjʊəl","explians":["adj. 持续不断的；频繁的"]}
+},{"id":10292, "word":"bubble", "translate":{"us-phonetic":"'bʌbl","uk-phonetic":"'bʌb(ə)l","explians":["n. 气泡，泡沫，泡状物；透明圆形罩，圆形顶","vt. 使冒泡；滔滔不绝地说","vi. 沸腾，冒泡；发出气泡声"]}
+},{"id":10293, "word":"pitching", "translate":{"us-phonetic":"'pɪtʃɪŋ","uk-phonetic":"'pɪtʃɪŋ","explians":["n. 俯仰；铺地石；投手投球","v. 使倾斜（pitch的ing形式）；投掷；用沥青涂；为…定调","adj. 倾斜的；陡的"]}
+},{"id":10294, "word":"imperfect", "translate":{"us-phonetic":"ɪm'pɝfɪkt","uk-phonetic":"ɪm'pɜːfɪkt","explians":["n. 未完成体","adj. 有缺点的；未完成的；半过去的；未完成时的","adv. 有瑕疵地；有缺点地"]}
+},{"id":10295, "word":"rectangle", "translate":{"us-phonetic":"'rɛktæŋɡl","uk-phonetic":"'rektæŋg(ə)l","explians":["n. 矩形；长方形"]}
+},{"id":10296, "word":"close", "translate":{"us-phonetic":"kloz","uk-phonetic":"kləʊs","explians":["n. 结束","adj. 紧密的；亲密的；亲近的","vt. 关；结束；使靠近","vi. 关；结束；关闭","adv. 紧密地","n. (Close)人名；(西)克洛塞；(英、法)克洛斯"]}
+},{"id":10297, "word":"whim", "translate":{"us-phonetic":"wɪm","uk-phonetic":"wɪm","explians":["n. 奇想；一时的兴致；怪念头；幻想"]}
+},{"id":10298, "word":"stern", "translate":{"us-phonetic":"stɝn","uk-phonetic":"stɜːn","explians":["n. 船尾；末端","adj. 严厉的；坚定的","n. (Stern)人名；(英、以、法、瑞典、西)斯特恩；(德、波、匈)施特恩"]}
+},{"id":10299, "word":"ridicule", "translate":{"us-phonetic":"'rɪdɪ'kjʊl","uk-phonetic":"'rɪdɪkjuːl","explians":["n. 嘲笑；笑柄；愚弄","vt. 嘲笑；嘲弄；愚弄"]}
+},{"id":10300, "word":"engaging", "translate":{"us-phonetic":"ɪn'ɡedʒɪŋ","uk-phonetic":"ɪn'geɪdʒɪŋ; en-","explians":["v. 参加（engage的ing形式）；保证；雇用","adj. 迷人的"]}
+},{"id":10301, "word":"mobilization", "translate":{"us-phonetic":",mobɪlɪ'zeʃən","uk-phonetic":",məʊbɪlaɪ'zeɪʃən","explians":["n. 动员；调动"]}
+},{"id":10302, "word":"statesman", "translate":{"us-phonetic":"'stetsmən","uk-phonetic":"'steɪtsmən","explians":["n. 政治家；国务活动家"]}
+},{"id":10303, "word":"Marxist", "translate":{"us-phonetic":"'mɑrksɪst","uk-phonetic":"'ma:ksist","explians":["n. 马克思主义者","adj. 马克思主义的"]}
+},{"id":10304, "word":"DJ", "translate":{"us-phonetic":",di: dʒei","uk-phonetic":",di: dʒei","explians":["abbr. 流行音乐播音员，流行音乐节目主持人（disc jockey）；地方初审法院法官（District Judge）；司法部（Department of Justice）"]}
+},{"id":10305, "word":"denim", "translate":{"us-phonetic":"'dɛnɪm","uk-phonetic":"'denɪm","explians":["n. 斜纹粗棉布，丁尼布；劳动布"]}
+},{"id":10306, "word":"comparatively", "translate":{"us-phonetic":"kəm'pærətɪvli","uk-phonetic":"kəm'pærətɪvlɪ","explians":["adv. 比较地；相当地"]}
+},{"id":10307, "word":"angular", "translate":{"us-phonetic":"'æŋɡjəlɚ","uk-phonetic":"'æŋgjʊlə","explians":["adj. [生物] 有角的；生硬的，笨拙的；瘦削的"]}
+},{"id":10308, "word":"villa", "translate":{"us-phonetic":"'vɪlə","uk-phonetic":"'vɪlə","explians":["n. 别墅；郊区住宅","n. (Villa)人名；(西)比利亚；(英、法、葡、罗、意、芬、刚、瑞典)维拉"]}
+},{"id":10309, "word":"proactive", "translate":{"us-phonetic":",pro'æktɪv","uk-phonetic":"prəʊ'æktɪv","explians":["adj. 前摄的（前一活动中的因素对后一活动造成影响的）；有前瞻性的，先行一步的；积极主动的"]}
+},{"id":10310, "word":"pardon", "translate":{"us-phonetic":"'pɑrdn","uk-phonetic":"ˈpɑːdn","explians":["n. 原谅；赦免；宽恕","vt. 原谅；赦免；宽恕","n. (Pardon)人名；(德、法、捷)帕尔东"]}
+},{"id":10311, "word":"ulcer", "translate":{"us-phonetic":"'ʌlsɚ","uk-phonetic":"'ʌlsə","explians":["n. [病理] 溃疡；腐烂物；道德败坏"]}
+},{"id":10312, "word":"two-hour", "translate":{}
+},{"id":10313, "word":"stimulating", "translate":{"us-phonetic":"'stɪmjuletɪŋ","uk-phonetic":"'stɪmjʊleɪtɪŋ","explians":["v. 刺激；激励；促进（stimulate的ing形式）","adj. 刺激的；有刺激性的"]}
+},{"id":10314, "word":"hoof", "translate":{"us-phonetic":"huf","uk-phonetic":"huːf","explians":["n. 蹄；人的脚","vt. 用蹄踢；步行","vi. 步行；踢；跳舞"]}
+},{"id":10315, "word":"invaluable", "translate":{"us-phonetic":"ɪn'væljʊəbl","uk-phonetic":"ɪn'væljʊ(ə)b(ə)l","explians":["adj. 无价的；非常贵重的"]}
+},{"id":10316, "word":"revert", "translate":{"us-phonetic":"rɪ'vɝt","uk-phonetic":"rɪ'vɜːt","explians":["n. 恢复原状者","vt. 使回复原状","vi. 回复；重提；返祖遗传；归还","n. (Revert)人名；(西)雷韦特；(法)勒韦尔"]}
+},{"id":10317, "word":"spotted", "translate":{"us-phonetic":"'spɑtɪd","uk-phonetic":"'spɒtɪd","explians":["v. 发现（spot的过去分词）；玷污；弄上污痕","adj. 有斑点的；斑纹的；弄污的","n. (Spotted)人名；(英)斯波蒂德"]}
+},{"id":10318, "word":"weed", "translate":{"us-phonetic":"wid","uk-phonetic":"wiːd","explians":["n. 杂草，野草；菸草","vt. 除草；铲除","vi. 除草","n. (Weed)人名；(英)威德"]}
+},{"id":10319, "word":"ringing", "translate":{"us-phonetic":"'rɪŋɪŋ","uk-phonetic":"'rɪŋɪŋ","explians":["n. 铃声","v. 响（ring的ing形式）","adj. 响亮的；明白的"]}
+},{"id":10320, "word":"bikini", "translate":{"us-phonetic":"bɪ'kini","uk-phonetic":"bɪ'kiːnɪ","explians":["n. 比基尼泳装；大爆炸","n. (Bikini)人名；(法)比基尼"]}
+},{"id":10321, "word":"infusion", "translate":{"us-phonetic":"ɪn'fjuʒn","uk-phonetic":"ɪn'fjuːʒ(ə)n","explians":["n. 灌输；浸泡；注入物；激励"]}
+},{"id":10322, "word":"sensual", "translate":{"us-phonetic":"'sɛnʃuəl","uk-phonetic":"'sensjʊəl; -ʃʊəl","explians":["adj. 感觉的；肉欲的；世俗的；感觉论的"]}
+},{"id":10323, "word":"appointee", "translate":{"us-phonetic":"ə,pɔɪn'ti","uk-phonetic":"ə,pɒɪn'tiː","explians":["n. 被任命者"]}
+},{"id":10324, "word":"halve", "translate":{"us-phonetic":"hæv","uk-phonetic":"hɑːv","explians":["vt. 二等分；把……减半","n. (Halve)人名；(芬)哈尔韦"]}
+},{"id":10325, "word":"hospitalize", "translate":{"us-phonetic":"'hɑspɪtə'laɪz","uk-phonetic":"'hɒspɪt(ə)laɪz","explians":["vt. 就医；送…进医院治疗"]}
+},{"id":10326, "word":"translucent", "translate":{"us-phonetic":"træns'lusnt","uk-phonetic":"træns'luːs(ə)nt; trɑːns-; -nz-","explians":["adj. 透明的；半透明的"]}
+},{"id":10327, "word":"zest", "translate":{"us-phonetic":"zɛst","uk-phonetic":"zest","explians":["n. 风味；热心；强烈的兴趣","vt. 给…调味"]}
+},{"id":10328, "word":"fitting", "translate":{"us-phonetic":"'fɪtɪŋ","uk-phonetic":"'fɪtɪŋ","explians":["n. 装配，装置；试穿，试衣","adj. 适合的，适宜的；相称的","n. (Fitting)人名；(英、德)菲廷"]}
+},{"id":10329, "word":"psychosocial", "translate":{"us-phonetic":",saɪko'soʃəl","uk-phonetic":"saɪkəʊ'səʊʃ(ə)l","explians":["adj. 社会心理的；心理社会学的"]}
+},{"id":10330, "word":"poisonous", "translate":{"us-phonetic":"'pɔɪzənəs","uk-phonetic":"'pɒɪzənəs","explians":["adj. 有毒的；恶毒的；讨厌的"]}
+},{"id":10331, "word":"startled", "translate":{"us-phonetic":"stɑrtld","uk-phonetic":"ˈstɑ:tld","explians":["v. 震惊（startle的过去分词）","adj. 受惊吓的"]}
+},{"id":10332, "word":"coordinated", "translate":{"us-phonetic":"ko,ɔrd'netɪd","uk-phonetic":"kəʊ'ɔ:dɪneɪtɪd","explians":["adj. 协调的","vt. 调整；使调和（coordinate的过去分词）；调节；整理"]}
+},{"id":10333, "word":"brutally", "translate":{"us-phonetic":"'brʊtli","uk-phonetic":"'bru:təli","explians":["adv. 残忍地；野蛮地；兽性地"]}
+},{"id":10334, "word":"approved", "translate":{"us-phonetic":"ə'prʊvd","uk-phonetic":"ə'pruːvd","explians":["v. 核准；认可（approve的过去式）","adj. 被认可的；经过检验的"]}
+},{"id":10335, "word":"contaminated", "translate":{"us-phonetic":"kən'tæmənetɪd","uk-phonetic":"kən'tæməneɪtɪd","explians":["v. 污染（contaminate的过去式）","adj. 受污染的；弄脏的"]}
+},{"id":10336, "word":"numerical", "translate":{"us-phonetic":"nʊ'mɛrɪkl","uk-phonetic":"njuː'merɪk(ə)l","explians":["adj. 数值的；数字的；用数字表示的（等于numeric）"]}
+},{"id":10337, "word":"grassy", "translate":{"us-phonetic":"'ɡræsi","uk-phonetic":"'grɑːsɪ","explians":["adj. 长满草的；草绿色的","n. (Grassy)人名；(英、法、西)格拉西"]}
+},{"id":10338, "word":"winding", "translate":{"us-phonetic":"'waɪndɪŋ","uk-phonetic":"'waɪndɪŋ","explians":["n. 绕，缠；线圈；弯曲","adj. 弯曲的，蜿蜒的；卷绕的","n. (Winding)人名；(英、德)温丁"]}
+},{"id":10339, "word":"triumphant", "translate":{"us-phonetic":"traɪ'ʌmfənt","uk-phonetic":"traɪ'ʌmf(ə)nt","explians":["adj. 成功的；得意洋洋的；狂欢的"]}
+},{"id":10340, "word":"shampoo", "translate":{"us-phonetic":"ʃæm'pu","uk-phonetic":"ʃæm'puː","explians":["n. 洗发；洗发精","vt. 洗发"]}
+},{"id":10341, "word":"bypass", "translate":{"us-phonetic":"'baɪpæs","uk-phonetic":"'baɪpɑːs","explians":["n. 旁路；[公路] 支路","vt. 绕开；忽视；设旁路；迂回"]}
+},{"id":10342, "word":"self-defense", "translate":{"us-phonetic":",selfdi'fens","uk-phonetic":",selfdi'fens","explians":["n. 自卫；正当防卫；自卫权"]}
+},{"id":10343, "word":"steady", "translate":{"us-phonetic":"'stɛdi","uk-phonetic":"'stedɪ","explians":["n. 关系固定的情侣；固定支架","adj. 稳定的；不变的；沉着的","vt. 使稳定；稳固；使坚定","adv. 稳定地；稳固地","vi. 稳固"]}
+},{"id":10344, "word":"mosaic", "translate":{"us-phonetic":"mo'zeɪk","uk-phonetic":"mə(ʊ)'zeɪɪk","explians":["n. 马赛克；镶嵌；镶嵌细工","adj. 摩西的；拼成的；嵌花式的"]}
+},{"id":10345, "word":"in-house", "translate":{"us-phonetic":"ɪn haʊs","uk-phonetic":"ɪn haʊs","explians":["adj. 内部的","adv. 内部地"]}
+},{"id":10346, "word":"chandelier", "translate":{"us-phonetic":",ʃændə'lɪr","uk-phonetic":",ʃændə'lɪə","explians":["n. 枝形吊灯","n. (Chandelier)人名；(法)尚德利耶"]}
+},{"id":10347, "word":"enthusiastically", "translate":{"us-phonetic":"in,θju:zi'æstikəli","uk-phonetic":"in,θju:zi'æstikəli","explians":["adv. 热心地；满腔热情地"]}
+},{"id":10348, "word":"precarious", "translate":{"us-phonetic":"prɪˈkɛrɪəs","uk-phonetic":"prɪ'keərɪəs","explians":["adj. 危险的；不确定的"]}
+},{"id":10349, "word":"self-interest", "translate":{"us-phonetic":"'self'intərist","uk-phonetic":"'self'intərist","explians":["n. 私利；利己主义"]}
+},{"id":10350, "word":"avalanche", "translate":{"us-phonetic":"'ævəlæntʃ","uk-phonetic":"'ævəlɑːnʃ","explians":["n. 雪崩","vt. 雪崩","vi. 崩塌"]}
+},{"id":10351, "word":"ginger", "translate":{"us-phonetic":"'dʒɪndʒɚ","uk-phonetic":"'dʒɪndʒə","explians":["n. 姜；姜黄色；精力；有姜味","vt. 用姜给…调味；使某人有活力","adj. 姜黄色的","n. (Ginger)人名；(法)然热；(英)金杰"]}
+},{"id":10352, "word":"concentrated", "translate":{"us-phonetic":"'kɑnsn'tretɪd","uk-phonetic":"'kɒnsntreɪtɪd","explians":["v. 集中（concentrate的过去分词）","adj. 集中的；浓缩的；全神贯注的"]}
+},{"id":10353, "word":"sanitation", "translate":{"us-phonetic":",sænɪ'teʃən","uk-phonetic":"sænɪ'teɪʃ(ə)n","explians":["n. [医] 环境卫生；卫生设备；下水道设施"]}
+},{"id":10354, "word":"biker", "translate":{"us-phonetic":"'baɪkɚ","uk-phonetic":"'baɪkə","explians":["n. 骑摩托车的人；骑自行车的人"]}
+},{"id":10355, "word":"squadron", "translate":{"us-phonetic":"'skwɑdrən","uk-phonetic":"'skwɒdrən","explians":["n. 空军中队；一群；骑兵中队；分遣队；小舰队","vt. 把…编成中队","n. (Squadron)人名；(英)斯夸德伦"]}
+},{"id":10356, "word":"rosy", "translate":{"us-phonetic":"'rozi","uk-phonetic":"'rəʊzɪ","explians":["adj. 蔷薇色的，玫瑰红色的；美好的；乐观的；涨红脸的","n. (Rosy)人名；(罗、意、瑞、典)罗茜(女名)，罗西；(英)罗茜"]}
+},{"id":10357, "word":"repetitive", "translate":{"us-phonetic":"rɪ'pɛtətɪv","uk-phonetic":"rɪ'petɪtɪv","explians":["adj. 重复的"]}
+},{"id":10358, "word":"coupon", "translate":{"us-phonetic":"'kupɑn","uk-phonetic":"'kuːpɒn","explians":["n. 息票；赠券；联票；[经] 配给券"]}
+},{"id":10359, "word":"robotic", "translate":{"us-phonetic":"ro'bɑtɪk","uk-phonetic":"rəu'bɔtik","explians":["n. 机器人学","adj. 机器人的，像机器人的；自动的"]}
+},{"id":10360, "word":"unpaid", "translate":{"us-phonetic":",ʌn'ped","uk-phonetic":"ʌn'peɪd","explians":["adj. 未付款的；[税收] 未缴纳的；无报酬的"]}
+},{"id":10361, "word":"shredded", "translate":{"explians":["adj. 切碎的","v. 变成碎片（shred的过去分词形式）"]}
+},{"id":10362, "word":"passionately", "translate":{"us-phonetic":"pæʃənɪtli","uk-phonetic":"ˈpæʃənətli","explians":["adv. 热情地；强烈地；激昂地"]}
+},{"id":10363, "word":"gasp", "translate":{"us-phonetic":"ɡæsp","uk-phonetic":"gɑːsp","explians":["n. 喘气","vi. 喘气；喘息；渴望","vt. 气喘吁吁地说；喘着气说话"]}
+},{"id":10364, "word":"baker", "translate":{"us-phonetic":"'bekɚ","uk-phonetic":"'beɪkə","explians":["n. 面包师；面包工人；（便携式）烘炉"]}
+},{"id":10365, "word":"footnote", "translate":{"us-phonetic":"'fʊt'not","uk-phonetic":"'fʊtnəʊt","explians":["n. 脚注；补充说明","vt. 给…作脚注；在脚注里评议"]}
+},{"id":10366, "word":"brown", "translate":{"us-phonetic":"braʊn","uk-phonetic":"braʊn","explians":["n. 褐色，棕色","adj. 棕色的，褐色的；太阳晒黑的","vt. 使变成褐色","vi. 变成褐色","n. (Brown)人名；(英、意、芬、捷、德、法、西、葡)布朗"]}
+},{"id":10367, "word":"clam", "translate":{"us-phonetic":"klæm","uk-phonetic":"klæm","explians":["n. 蛤；沉默寡言的人；钳子","vi. 捞蛤；保持沉默，闭嘴不言","n. (Clam)人名；(德、西)克拉姆；(法)克朗"]}
+},{"id":10368, "word":"downstream", "translate":{"us-phonetic":",daʊn'strim","uk-phonetic":"'daʊn'striːm","explians":["adj. 下游的；顺流的","adv. 下游地；顺流而下"]}
+},{"id":10369, "word":"breathtaking", "translate":{"us-phonetic":"'brɛθtekɪŋ","uk-phonetic":"'breθteɪkɪŋ","explians":["adj. 惊人的；惊险的；令人激动的"]}
+},{"id":10370, "word":"festive", "translate":{"us-phonetic":"'fɛstɪv","uk-phonetic":"'festɪv","explians":["adj. 节日的；喜庆的；欢乐的"]}
+},{"id":10371, "word":"grope", "translate":{"us-phonetic":"ɡrop","uk-phonetic":"grəʊp","explians":["n. 摸索；触摸","vt. 摸索","vi. 摸索；探索","n. (Grope)人名；(德)格罗佩"]}
+},{"id":10372, "word":"folding", "translate":{"us-phonetic":"'foldɪŋ","uk-phonetic":"'fəʊldɪŋ","explians":["adj. 可折叠的"]}
+},{"id":10373, "word":"fluffy", "translate":{"us-phonetic":"'flʌfi","uk-phonetic":"'flʌfɪ","explians":["adj. 蓬松的；松软的；毛茸茸的；无内容的"]}
+},{"id":10374, "word":"vector", "translate":{"us-phonetic":"'vɛktɚ","uk-phonetic":"'vektə","explians":["n. 矢量；带菌者；航线","vt. 用无线电导航"]}
+},{"id":10375, "word":"sluggish", "translate":{"us-phonetic":"'slʌɡɪʃ","uk-phonetic":"'slʌgɪʃ","explians":["n. 市况呆滞；市势疲弱","adj. 萧条的；迟钝的；行动迟缓的；懒惰的"]}
+},{"id":10376, "word":"microbe", "translate":{"us-phonetic":"'maɪkrob","uk-phonetic":"'maɪkrəʊb","explians":["n. 细菌，微生物"]}
+},{"id":10377, "word":"ramification", "translate":{"us-phonetic":"'ræməfə'keʃən","uk-phonetic":",ræmɪfɪ'keɪʃ(ə)n","explians":["n. 衍生物；分枝，分叉；支流"]}
+},{"id":10378, "word":"notation", "translate":{"us-phonetic":"no'teʃən","uk-phonetic":"nəʊ'teɪʃ(ə)n","explians":["n. 符号；乐谱；注释；记号法"]}
+},{"id":10379, "word":"virgin", "translate":{"us-phonetic":"'vɝdʒɪn","uk-phonetic":"'vɜːdʒɪn","explians":["n. 处女","adj. 处女的；纯洁的；未经利用的，处于原始状态的"]}
+},{"id":10380, "word":"engaged", "translate":{"us-phonetic":"ɪn'gedʒd","uk-phonetic":"ɪn'geɪdʒd; en-","explians":["v. 保证；约定；同…订婚（engage的过去分词）","adj. 使用中的，忙碌的"]}
+},{"id":10381, "word":"venerable", "translate":{"us-phonetic":"'vɛnərəbl","uk-phonetic":"'ven(ə)rəb(ə)l","explians":["adj. 庄严的，值得尊敬的；珍贵的"]}
+},{"id":10382, "word":"gust", "translate":{"us-phonetic":"ɡʌst","uk-phonetic":"gʌst","explians":["n. 风味；一阵狂风；趣味","vi. 一阵阵地劲吹","n. (Gust)人名；(德、捷)古斯特"]}
+},{"id":10383, "word":"neutron", "translate":{"us-phonetic":"'nʊtrɑn","uk-phonetic":"'njuːtrɒn","explians":["n. [核] 中子"]}
+},{"id":10384, "word":"purchasing", "translate":{"explians":["n. [贸易] 采购（purchase的ing形式）；购买"]}
+},{"id":10385, "word":"seventeenth", "translate":{"us-phonetic":",sɛvn'tinθ","uk-phonetic":",sevən'tiːnθ","explians":["n. 第十七日；十七分之一","num. 第十七","adj. 第十七的，第十七个的；十七分之一的"]}
+},{"id":10386, "word":"pathology", "translate":{"us-phonetic":"pə'θɑlədʒi","uk-phonetic":"pə'θɒlədʒɪ","explians":["n. 病理（学）; 〈比喻〉异常状态"]}
+},{"id":10387, "word":"serene", "translate":{"us-phonetic":"sə'rin","uk-phonetic":"sɪ'riːn","explians":["n. 平静；晴朗","adj. 平静的；安详的；清澈的；晴朗的","vt. 使平静"]}
+},{"id":10388, "word":"incompatible", "translate":{"us-phonetic":",ɪnkəm'pætəbl","uk-phonetic":"ɪnkəm'pætɪb(ə)l","explians":["n. 互不相容的人或事物","adj. 不相容的；矛盾的；不能同时成立的"]}
+},{"id":10389, "word":"Hungarian", "translate":{"us-phonetic":"hʌŋ'ɡεəriən","uk-phonetic":"hʌŋ'ɡεəriən","explians":["n. 匈牙利人；匈牙利语","adj. 匈牙利的；匈牙利语的"]}
+},{"id":10390, "word":"minced", "translate":{"explians":["adj. 切碎的；切成末的","v. 剁碎；细分；委婉地说（mince的过去分词）"]}
+},{"id":10391, "word":"vain", "translate":{"us-phonetic":"ven","uk-phonetic":"veɪn","explians":["adj. 徒劳的；自负的；无结果的；无用的"]}
+},{"id":10392, "word":"suffering", "translate":{"us-phonetic":"'sʌfərɪŋ","uk-phonetic":"'sʌf(ə)rɪŋ","explians":["n. 受难；苦楚","v. 受苦；蒙受（suffer的ing形式）","adj. 受苦的；患病的"]}
+},{"id":10393, "word":"fir", "translate":{"us-phonetic":"fɝ","uk-phonetic":"fɜː","explians":["n. 冷杉；枞木","abbr. 弗京（firkin）","n. (Fir)人名；(塞)菲尔"]}
+},{"id":10394, "word":"hearty", "translate":{"us-phonetic":"'hɑrti","uk-phonetic":"'hɑːtɪ","explians":["n. 朋友们；伙伴们","adj. 衷心的；丰盛的；健壮的；精神饱满的"]}
+},{"id":10395, "word":"suppression", "translate":{"us-phonetic":"sə'prɛʃən","uk-phonetic":"sə'preʃ(ə)n","explians":["n. 抑制；镇压；[植] 压抑"]}
+},{"id":10396, "word":"cider", "translate":{"us-phonetic":"'saɪdɚ","uk-phonetic":"'saɪdə","explians":["n. 苹果酒；苹果汁"]}
+},{"id":10397, "word":"holler", "translate":{"us-phonetic":"'hɑlɚ","uk-phonetic":"'hɒlə","explians":["n. 叫喊","n. (Holler)人名；(法)奥莱；(英、德、匈、捷、瑞典)霍勒","vt. 大声叫喊","vi. 发牢骚；叫喊；抱怨"]}
+},{"id":10398, "word":"blurt", "translate":{"us-phonetic":"blɝt","uk-phonetic":"blɜːt","explians":["vt. 未加思索地冲口说出；突然说出"]}
+},{"id":10399, "word":"retarded", "translate":{"us-phonetic":"rɪ'tɑrdɪd","uk-phonetic":"rɪ'tɑːdɪd","explians":["adj. 智力迟钝的；发展迟缓的"]}
+},{"id":10400, "word":"vigil", "translate":{"us-phonetic":"'vɪdʒɪl","uk-phonetic":"'vɪdʒɪl","explians":["n. 守夜；监视；不眠；警戒","n. (Vigil)人名；(西)比希尔"]}
+},{"id":10401, "word":"taking", "translate":{"us-phonetic":"'tekɪŋ","uk-phonetic":"'teɪkɪŋ","explians":["n. 取得；捕获；营业收入","v. 拿；捕捉；夺取（take的ing形式）","adj. 可爱的；迷人的；会传染的"]}
+},{"id":10402, "word":"re-elect", "translate":{"us-phonetic":",ri:i'lekt","uk-phonetic":",ri:i'lekt","explians":["vt. 重选；改选"]}
+},{"id":10403, "word":"broke", "translate":{"us-phonetic":"brok","uk-phonetic":"brəʊk","explians":["v. 打破，断掉（break的过去式）","adj. 一文不名的，破产的","n. (Broke)人名；(英)布罗克"]}
+},{"id":10404, "word":"modernism", "translate":{"us-phonetic":"'mɑdɚnɪzəm","uk-phonetic":"'mɒd(ə)nɪz(ə)m","explians":["n. 现代主义；现代思想；现代作风"]}
+},{"id":10405, "word":"stairway", "translate":{"us-phonetic":"'stɛr'we","uk-phonetic":"'steəweɪ","explians":["n. 阶梯，楼梯"]}
+},{"id":10406, "word":"intrude", "translate":{"us-phonetic":"ɪn'trʊd","uk-phonetic":"ɪn'truːd","explians":["vi. 闯入；侵入；侵扰","vt. 把…强加；把…硬挤"]}
+},{"id":10407, "word":"profile", "translate":{"us-phonetic":"'profaɪl","uk-phonetic":"'prəʊfaɪl","explians":["n. 侧面；轮廓；外形；剖面；简况","vt. 描…的轮廓；扼要描述","vi. 给出轮廓"]}
+},{"id":10408, "word":"giggle", "translate":{"us-phonetic":"'ɡɪɡl","uk-phonetic":"'gɪg(ə)l","explians":["n. 吃吃的笑","vt. 咯咯地笑着说","vi. 傻笑；咯咯地笑"]}
+},{"id":10409, "word":"cloud", "translate":{"us-phonetic":"klaʊd","uk-phonetic":"klaʊd","explians":["n. 云；阴云；云状物；一大群；黑斑","vt. 使混乱；以云遮敝；使忧郁；玷污","vi. 阴沉；乌云密布","n. (Cloud)人名；(法)克卢；(英)克劳德"]}
+},{"id":10410, "word":"orthodoxy", "translate":{"us-phonetic":"'ɔrθədɑksi","uk-phonetic":"'ɔːθədɒksɪ","explians":["n. 正统；正教；正统说法"]}
+},{"id":10411, "word":"cerebral", "translate":{"us-phonetic":"sə'ribrəl","uk-phonetic":"'serɪbr(ə)l; sə'riːbr(ə)l","explians":["adj. 大脑的，脑的"]}
+},{"id":10412, "word":"dope", "translate":{"us-phonetic":"dop","uk-phonetic":"dəʊp","explians":["n. 笨蛋；麻醉药物；涂料","vt. 上涂料；服药","vi. 吸毒；吸毒成瘾","（俚）酷毙了"]}
+},{"id":10413, "word":"excavate", "translate":{"us-phonetic":"'ɛkskə'vet","uk-phonetic":"'ekskəveɪt","explians":["vt. 挖掘；开凿","vi. 发掘；细查"]}
+},{"id":10414, "word":"crocodile", "translate":{"us-phonetic":"'krɑkə'daɪl","uk-phonetic":"'krɒkədaɪl","explians":["n. 鳄鱼"]}
+},{"id":10415, "word":"hip-hop", "translate":{"us-phonetic":"'hip,hɔp","uk-phonetic":"'hip,hɔp","explians":["n. 街舞，即兴音乐；嘻哈"]}
+},{"id":10416, "word":"parishioner", "translate":{"us-phonetic":"pə'rɪʃənɚ","uk-phonetic":"pə'rɪʃ(ə)nə","explians":["n. 教区居民"]}
+},{"id":10417, "word":"metric", "translate":{"us-phonetic":"'mɛtrɪk","uk-phonetic":"'metrɪk","explians":["n. 度量标准","adj. 公制的；米制的；公尺的"]}
+},{"id":10418, "word":"snail", "translate":{"us-phonetic":"snel","uk-phonetic":"sneɪl","explians":["n. 蜗牛；迟钝的人","vt. 缓慢移动","vi. 缓慢移动"]}
+},{"id":10419, "word":"crown", "translate":{"us-phonetic":"kraʊn","uk-phonetic":"kraʊn","explians":["n. 王冠；花冠；王权；顶点","vt. 加冕；居…之顶；表彰；使圆满完成","n. (Crown)人名；(英)克朗"]}
+},{"id":10420, "word":"cornerback", "translate":{"us-phonetic":"'kɔrnɚbæk","uk-phonetic":"'kɔːnəbæk","explians":["n. 美式橄榄球侧卫"]}
+},{"id":10421, "word":"osteoporosis", "translate":{"us-phonetic":",ɑstɪopə'rosɪs","uk-phonetic":",ɒstɪəʊpə'rəʊsɪs","explians":["n. [外科] 骨质疏松症"]}
+},{"id":10422, "word":"cost-effective", "translate":{"us-phonetic":"'kɔstə'fɛktɪv","uk-phonetic":"'kɔ:stə'fektɪv","explians":["adj. 划算的；成本效益好的（等于cost-efficient）"]}
+},{"id":10423, "word":"coin", "translate":{"us-phonetic":"kɔɪn","uk-phonetic":"kɒɪn","explians":["n. 硬币，钱币","vt. 铸造（货币）；杜撰，创造","n. (Coin)人名；(西、意)科因；(法)库安"]}
+},{"id":10424, "word":"dearly", "translate":{"us-phonetic":"'dɪrli","uk-phonetic":"'dɪəlɪ","explians":["adv. 深深地；昂贵地"]}
+},{"id":10425, "word":"exemplary", "translate":{"us-phonetic":"ɪɡ'zɛmpləri","uk-phonetic":"ɪg'zemplərɪ; eg-","explians":["adj. 典范的；惩戒性的；可仿效的"]}
+},{"id":10426, "word":"mapping", "translate":{"us-phonetic":"'mæpɪŋ","uk-phonetic":"'mæpɪŋ","explians":["n. 地图；绘图；[数] 映像","v. 绘图；筹划（map的ing形式）"]}
+},{"id":10427, "word":"euro", "translate":{"us-phonetic":"'jʊro","uk-phonetic":"'jʊərəʊ","explians":["n. 欧元（欧盟的统一货币单位）"]}
+},{"id":10428, "word":"favorably", "translate":{"us-phonetic":"'feivərəbli","uk-phonetic":"'feivərəbli","explians":["adv. 顺利地；亲切地；好意地"]}
+},{"id":10429, "word":"gleam", "translate":{"us-phonetic":"ɡlim","uk-phonetic":"gliːm","explians":["n. 微光；闪光；瞬息的一现","vt. 使闪烁；使发微光","vi. 闪烁；隐约地闪现"]}
+},{"id":10430, "word":"three-day", "translate":{"explians":["三日的"]}
+},{"id":10431, "word":"gait", "translate":{"us-phonetic":"ɡet","uk-phonetic":"geɪt","explians":["n. 步法，步态","vt. 训练步法"]}
+},{"id":10432, "word":"symmetry", "translate":{"us-phonetic":"'sɪmətri","uk-phonetic":"'sɪmɪtrɪ","explians":["n. 对称（性）；整齐，匀称"]}
+},{"id":10433, "word":"Colombian", "translate":{"us-phonetic":"kə'lɔmbiən","uk-phonetic":"kə'lɔmbiən","explians":["n. 哥伦比亚人","adj. 哥伦比亚的"]}
+},{"id":10434, "word":"zeal", "translate":{"us-phonetic":"zil","uk-phonetic":"ziːl","explians":["n. 热情；热心；热诚"]}
+},{"id":10435, "word":"rejoin", "translate":{"us-phonetic":",ri'dʒɔɪn","uk-phonetic":"riː'dʒɒɪn","explians":["vt. 再加入；使…再结合；再回答","vi. 答辩；回答；重新聚合"]}
+},{"id":10436, "word":"locked", "translate":{"us-phonetic":"lɔkt","uk-phonetic":"lɔkt","explians":["v. 锁上；紧闭；紧抱住（lock的过去分词）","adj. 上锁的；不灵活的；下定决心的"]}
+},{"id":10437, "word":"resurrection", "translate":{"us-phonetic":",rɛzə'rɛkʃən","uk-phonetic":"rezə'rekʃ(ə)n","explians":["n. 复活；恢复；复兴"]}
+},{"id":10438, "word":"acoustic", "translate":{"us-phonetic":"ə'kʊstɪk","uk-phonetic":"ə'kuːstɪk","explians":["n. 原声乐器；不用电传音的乐器","adj. 声学的；音响的；听觉的","n. (Acoustic)人名；(法)阿库斯蒂克"]}
+},{"id":10439, "word":"earthly", "translate":{"us-phonetic":"'ɝθli","uk-phonetic":"'ɜːθlɪ","explians":["adj. 地球的；尘世的；可能的"]}
+},{"id":10440, "word":"decipher", "translate":{"us-phonetic":"dɪ'saɪfɚ","uk-phonetic":"dɪ'saɪfə","explians":["n. 密电译文","vt. 解释（过去式deciphered，过去分词deciphered，现在分词deciphering，第三人称单数deciphers，名词decipherer，形容词decipherable）；译解"]}
+},{"id":10441, "word":"stressor", "translate":{"us-phonetic":"'strɛsɚ","uk-phonetic":"'stresə","explians":["n. 紧张性刺激；光彩"]}
+},{"id":10442, "word":"caravan", "translate":{"us-phonetic":"'kærəvæn","uk-phonetic":"'kærəvæn; kærə'væn","explians":["n. （可供居住的）拖车，大篷车；（穿过沙漠地带的）旅行队（如商队）；<英>活动住宅；<美>移民列车","vi. 乘拖车度假；参加旅行队旅行"]}
+},{"id":10443, "word":"innate", "translate":{"us-phonetic":"ɪ'net","uk-phonetic":"ɪ'neɪt; 'ɪneɪt","explians":["adj. 先天的；固有的；与生俱来的"]}
+},{"id":10444, "word":"upright", "translate":{"us-phonetic":"'ʌpraɪt","uk-phonetic":"'ʌpraɪt","explians":["n. 垂直；竖立","adj. 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的"]}
+},{"id":10445, "word":"finalist", "translate":{"us-phonetic":"'faɪnəlɪst","uk-phonetic":"'faɪn(ə)lɪst","explians":["n. 参加决赛的选手"]}
+},{"id":10446, "word":"obsessive", "translate":{"us-phonetic":"əb'sesiv, ɔb-","uk-phonetic":"əb'sesɪv","explians":["adj. 强迫性的；着迷的；分神的"]}
+},{"id":10447, "word":"sincerely", "translate":{"us-phonetic":"sɪn'sɪrli","uk-phonetic":"sɪn'sɪəlɪ","explians":["adv. 真诚地；由衷地，诚恳地"]}
+},{"id":10448, "word":"perverse", "translate":{"us-phonetic":"pɚ'vɝs","uk-phonetic":"pə'vɜːs","explians":["adj. 堕落的，不正当的；倔强的；违反常情的"]}
+},{"id":10449, "word":"handmade", "translate":{"us-phonetic":"'hænd'med","uk-phonetic":"hæn(d)'meɪd","explians":["adj. 手工的；手制的"]}
+},{"id":10450, "word":"electronically", "translate":{"us-phonetic":"i,lek'trɔnikli","uk-phonetic":",ɪlek'trɒnɪklɪ","explians":["adv. 电子地"]}
+},{"id":10451, "word":"subsistence", "translate":{"us-phonetic":"səb'sɪstəns","uk-phonetic":"səb'sɪst(ə)ns","explians":["n. 生活；生存；存在"]}
+},{"id":10452, "word":"fragmented", "translate":{"us-phonetic":"'frægməntɪd","uk-phonetic":"'fræɡmentɪd","explians":["adj. 片断的；成碎片的","v. 分裂（fragment的过去分词）；使成碎片"]}
+},{"id":10453, "word":"babe", "translate":{"us-phonetic":"'beib","uk-phonetic":"beɪb","explians":["n. 婴儿，小孩；女孩；天真幼稚的人","n. (Babe)人名；(西)巴韦；(罗)巴贝；(法)巴布"]}
+},{"id":10454, "word":"legion", "translate":{"us-phonetic":"'li:dʒən","uk-phonetic":"'liːdʒ(ə)n","explians":["n. （古罗马）军团；众多；军队","adj. 众多的；大量的"]}
+},{"id":10455, "word":"proficiency", "translate":{"us-phonetic":"prə'fɪʃənsi","uk-phonetic":"prə'fɪʃ(ə)nsɪ","explians":["n. 精通，熟练"]}
+},{"id":10456, "word":"deplete", "translate":{"us-phonetic":"dɪ'plit","uk-phonetic":"dɪ'pliːt","explians":["vt. 耗尽，用尽；使衰竭，使空虚"]}
+},{"id":10457, "word":"rhyme", "translate":{"us-phonetic":"raɪm","uk-phonetic":"raɪm","explians":["n. 韵律；韵脚；韵文；押韵词","vt. 使押韵；用韵诗表达；把…写作诗","vi. 押韵；作押韵诗"]}
+},{"id":10458, "word":"coronary", "translate":{"us-phonetic":"'kɔrənɛri","uk-phonetic":"'kɒr(ə)n(ə)rɪ","explians":["adj. 冠的；冠状的；花冠的"]}
+},{"id":10459, "word":"shattered", "translate":{"us-phonetic":"'ʃætɚd","uk-phonetic":"'ʃætəd","explians":["v. 打碎；削弱；使心烦意乱（shatter的过去分词）","adj. 破碎的；极度疲劳的"]}
+},{"id":10460, "word":"evangelical", "translate":{"us-phonetic":",ivæn'dʒɛlɪkl","uk-phonetic":"iːvæn'dʒelɪk(ə)l; ev-","explians":["n. 福音派信徒","adj. 福音的；福音派教会的；新教会的"]}
+},{"id":10461, "word":"offshore", "translate":{"us-phonetic":",ɔf'ʃɔr","uk-phonetic":"'ɒfʃɔː; ɒf'ʃɔː","explians":["adj. 离岸的；[海洋] 近海的；吹向海面的","adv. 向海面，向海"]}
+},{"id":10462, "word":"martini", "translate":{"us-phonetic":"mɑ:'ti:ni","uk-phonetic":"mɑː'tiːnɪ","explians":["n. 马提尼（一种鸡尾酒，等于Martini）","n. (Martini)人名；(英)马蒂尼；(德、法、俄、西、意、塞、罗、葡、瑞典)马丁尼"]}
+},{"id":10463, "word":"unresolved", "translate":{"us-phonetic":",ʌnrɪ'zɑlvd","uk-phonetic":"ʌnrɪ'zɒlvd","explians":["adj. 未解决的；无决断力的；不果断的"]}
+},{"id":10464, "word":"sect", "translate":{"us-phonetic":"sɛkt","uk-phonetic":"sekt","explians":["n. 宗派"]}
+},{"id":10465, "word":"adept", "translate":{"us-phonetic":"ə'dɛpt","uk-phonetic":"ə'dept; 'ædept","explians":["n. 内行；能手","adj. 熟练的；擅长…的"]}
+},{"id":10466, "word":"gambler", "translate":{"us-phonetic":"'gæmblɚ","uk-phonetic":"'gæmblə(r)","explians":["n. 赌徒；投机商人"]}
+},{"id":10467, "word":"patriarchal", "translate":{"us-phonetic":",petrɪ'ɑrkl","uk-phonetic":"peɪtrɪ'ɑːk(ə)l","explians":["adj. 家长的；族长的；由族长统治的"]}
+},{"id":10468, "word":"handicapped", "translate":{"us-phonetic":"'hændɪkæpt","uk-phonetic":"'hændɪkæpt","explians":["n. 残疾人；缺陷者","adj. 残废的；有生理缺陷的"]}
+},{"id":10469, "word":"outdated", "translate":{"us-phonetic":"'aʊt'detɪd","uk-phonetic":"aʊt'deɪtɪd","explians":["adj. 过时的；旧式的","v. 使过时（outdate的过去式和过去分词）"]}
+},{"id":10470, "word":"kosher", "translate":{"us-phonetic":"'koʃɚ","uk-phonetic":"'kəʊʃə","explians":["adj. 合适的；符合犹太教教规的，干净的"]}
+},{"id":10471, "word":"coastline", "translate":{"us-phonetic":"'kostlaɪn","uk-phonetic":"'kəʊs(t)laɪn","explians":["n. 海岸线"]}
+},{"id":10472, "word":"spur", "translate":{"us-phonetic":"spɝ","uk-phonetic":"spɜː","explians":["n. 鼓舞，刺激；马刺；山坡","vt. 激励，鞭策；给…装踢马刺","vi. 骑马疾驰；给予刺激","n. (Spur)人名；(意)斯普尔；(德)施普尔"]}
+},{"id":10473, "word":"foray", "translate":{"us-phonetic":"'fɔre","uk-phonetic":"'fɒreɪ","explians":["n. 涉足，初次尝试；突袭；侵略；攻击","vi. 袭击","vt. 劫掠","n. (Foray)人名；(法)福雷"]}
+},{"id":10474, "word":"accreditation", "translate":{"us-phonetic":"ə'krɛdə'teʃən","uk-phonetic":"ə,kredɪ'teɪʃən","explians":["n. 委派；信赖；鉴定合格"]}
+},{"id":10475, "word":"analogous", "translate":{"us-phonetic":"ə'næləɡəs","uk-phonetic":"ə'næləgəs","explians":["adj. 类似的；[昆] 同功的；可比拟的"]}
+},{"id":10476, "word":"brittle", "translate":{"us-phonetic":"'brɪtl","uk-phonetic":"'brɪt(ə)l","explians":["adj. 易碎的，脆弱的；易生气的"]}
+},{"id":10477, "word":"first-round", "translate":{"explians":["第一轮，首轮比赛"]}
+},{"id":10478, "word":"cloudy", "translate":{"us-phonetic":"'klaʊdi","uk-phonetic":"'klaʊdɪ","explians":["adj. 多云的；阴天的；愁容满面的"]}
+},{"id":10479, "word":"scold", "translate":{"us-phonetic":"skold","uk-phonetic":"skəʊld","explians":["n. 责骂；爱责骂的人","vt. 骂；责骂","vi. 责骂；叱责"]}
+},{"id":10480, "word":"tone", "translate":{"us-phonetic":"ton","uk-phonetic":"təʊn","explians":["n. 语气；色调；音调；音色","vt. 增强；用某种调子说","vi. 颜色调和；呈现悦目色调","n. (Tone)人名；(罗、塞、乍)托内；(英)托恩"]}
+},{"id":10481, "word":"torque", "translate":{"us-phonetic":"tɔrk","uk-phonetic":"tɔːk","explians":["n. 转矩，[力] 扭矩；项圈，金属领圈","v. (向轴、螺栓、圆轮等)施以扭动力；(使)沿轴转动；使(绕轴等)扭转；施加转矩"]}
+},{"id":10482, "word":"installment", "translate":{"us-phonetic":"ɪn'stɔlmənt","uk-phonetic":"ɪn'stɔ:lmənt","explians":["n. 安装；分期付款；部分；就职"]}
+},{"id":10483, "word":"necessitate", "translate":{"us-phonetic":"nə'sɛsɪtet","uk-phonetic":"nɪ'sesɪteɪt","explians":["vt. 使成为必需，需要；迫使"]}
+},{"id":10484, "word":"slug", "translate":{"us-phonetic":"slʌɡ","uk-phonetic":"slʌg","explians":["n. 鼻涕虫；动作缓慢的人；金属小块","vt. 重击","vi. 偷懒；动作迟缓"]}
+},{"id":10485, "word":"ho", "translate":{"us-phonetic":"ho","uk-phonetic":"həʊ","explians":["int. 呵；引人注意；表示惊讶","n. (Ho)人名；(柬)霍"]}
+},{"id":10486, "word":"rebuilding", "translate":{"us-phonetic":"ri'bɪldɪŋ","uk-phonetic":",ri:'bildiŋ","explians":["n. 重建","v. 重建；使复原（rebuild的ing形式）"]}
+},{"id":10487, "word":"curricular", "translate":{"us-phonetic":"kə'rɪkjəlɚ","uk-phonetic":"kə'rikjulə","explians":["adj. 课程的"]}
+},{"id":10488, "word":"subtract", "translate":{"us-phonetic":"səb'trækt","uk-phonetic":"səb'trækt","explians":["vt. 减去；扣掉"]}
+},{"id":10489, "word":"understandably", "translate":{"us-phonetic":",ʌndə'stændəbli","uk-phonetic":",ʌndə'stændəbli","explians":["adv. 可理解地"]}
+},{"id":10490, "word":"slowdown", "translate":{"us-phonetic":"'slo'daʊn","uk-phonetic":"'sləʊdəʊn","explians":["n. 减速；怠工；降低速度"]}
+},{"id":10491, "word":"sectarian", "translate":{"us-phonetic":"sɛk'tɛrɪən","uk-phonetic":"sek'teərɪən","explians":["n. 属于宗派的人；宗派心强的人；宗派主义者","adj. 宗派的；偏狭的；党派心强的"]}
+},{"id":10492, "word":"nourish", "translate":{"us-phonetic":"'nɜrɪʃ","uk-phonetic":"'nʌrɪʃ","explians":["vt. 滋养；怀有；使健壮"]}
+},{"id":10493, "word":"upbringing", "translate":{"us-phonetic":"'ʌpbrɪŋɪŋ","uk-phonetic":"'ʌpbrɪŋɪŋ","explians":["n. 教养；养育；抚育"]}
+},{"id":10494, "word":"manufacture", "translate":{"us-phonetic":"'mænjə'fæktʃɚ","uk-phonetic":"mænjʊ'fæktʃə","explians":["n. 制造；产品；制造业","vt. 制造；加工；捏造","vi. 制造"]}
+},{"id":10495, "word":"sixteenth", "translate":{"us-phonetic":"'sɪks'tinθ","uk-phonetic":"'sɪks'tiːnθ","explians":["adj. 第十六的；十六分之一的","num. 第十六；十六分之一"]}
+},{"id":10496, "word":"hysteria", "translate":{"us-phonetic":"hɪ'stɪrɪə","uk-phonetic":"hɪ'stɪərɪə","explians":["n. 癔病，歇斯底里；不正常的兴奋"]}
+},{"id":10497, "word":"strategically", "translate":{"us-phonetic":"strə'tidʒɪkli","uk-phonetic":"strə'tiːdʒɪkəlɪ","explians":["adv. 战略性地；战略上"]}
+},{"id":10498, "word":"minivan", "translate":{"us-phonetic":"'mɪnɪvæn","uk-phonetic":"'mɪnɪvæn","explians":["n. 小型货车"]}
+},{"id":10499, "word":"precipitate", "translate":{"us-phonetic":"prɪ'sɪpɪtet","uk-phonetic":"prɪ'sɪpɪteɪt","explians":["n. [化学] 沉淀物","vt. 使沉淀；促成；猛抛；使陷入","adj. 突如其来的；猛地落下的；急促的","vi. [化学] 沉淀；猛地落下；冷凝成为雨或雪等"]}
+},{"id":10500, "word":"festivity", "translate":{"us-phonetic":"fɛ'stɪvəti","uk-phonetic":"fe'stɪvɪtɪ","explians":["n. 欢庆，欢宴；庆典；欢乐"]}
+},{"id":10501, "word":"likeness", "translate":{"us-phonetic":"'laɪknəs","uk-phonetic":"'laɪknɪs","explians":["n. 相似，相像；样子，肖像；照片，画像；相似物"]}
+},{"id":10502, "word":"barrage", "translate":{"us-phonetic":"bə'rɑʒ","uk-phonetic":"'bærɑːʒ","explians":["n. 弹幕；阻塞；齐射式攻击；[水利] 拦河坝","vt. 以密集炮火进攻","vi. 以密集火力阻击","n. (Barrage)人名；(阿拉伯)巴拉杰"]}
+},{"id":10503, "word":"drinker", "translate":{"us-phonetic":"'drɪŋkɚ","uk-phonetic":"'drɪŋkə","explians":["n. 酒徒；喝的人；酒豪","n. (Drinker)人名；(英)德林克"]}
+},{"id":10504, "word":"inspiring", "translate":{"us-phonetic":"ɪn'spaɪərɪŋ","uk-phonetic":"ɪn'spaɪərɪŋ","explians":["v. 鼓舞；激发；使感悟（inspire的ing形式）","adj. 鼓舞人心的；灌输的；启发灵感的"]}
+},{"id":10505, "word":"savior", "translate":{"us-phonetic":"'sevjɚ","uk-phonetic":"'seivjə","explians":["n. 救世主；救星；救助者"]}
+},{"id":10506, "word":"hacker", "translate":{"us-phonetic":"'hækɚ","uk-phonetic":"'hækə","explians":["n. 电脑黑客，企图不法侵入他人电脑系统的人","n. (Hacker)人名；(英)哈克"]}
+},{"id":10507, "word":"scrap", "translate":{"us-phonetic":"skræp","uk-phonetic":"skræp","explians":["n. 碎片；残余物；打架；少量","vt. 废弃；使解体；拆毁","adj. 废弃的；零碎的","vi. 吵架"]}
+},{"id":10508, "word":"polymer", "translate":{"us-phonetic":"'pɑlɪmɚ","uk-phonetic":"'pɒlɪmə","explians":["n. [高分子] 聚合物","n. (Polymer)人名；(英)波利默"]}
+},{"id":10509, "word":"thrift", "translate":{"us-phonetic":"θrɪft","uk-phonetic":"θrɪft","explians":["n. 节俭；节约；[植] 海石竹","n. (Thrift)人名；(英)思里夫特"]}
+},{"id":10510, "word":"subgroup", "translate":{"us-phonetic":"'sʌb'grʊp","uk-phonetic":"'sʌbgruːp","explians":["n. 小群；隶属的小组织","vt. 给…加副标题"]}
+},{"id":10511, "word":"reflex", "translate":{"us-phonetic":"'riflɛks","uk-phonetic":"'riːfleks","explians":["n. 反射；反映；映像；回复；习惯性思维","adj. 反射的；反省的；反作用的；优角的"]}
+},{"id":10512, "word":"consolation", "translate":{"us-phonetic":"ˌkɑnsəˈleʃən","uk-phonetic":",kɒnsə'leɪʃ(ə)n","explians":["n. 安慰；慰问；起安慰作用的人或事物"]}
+},{"id":10513, "word":"Spaniard", "translate":{"us-phonetic":"'spænjəd","uk-phonetic":"'spænjəd","explians":["n. 西班牙人"]}
+},{"id":10514, "word":"intolerance", "translate":{"us-phonetic":"ɪn'tɑlərəns","uk-phonetic":"ɪn'tɒl(ə)r(ə)ns; ɪn'tɒl(ə)rəns","explians":["n. （尤指对别人的意见）不宽容；偏狭"]}
+},{"id":10515, "word":"rust", "translate":{"us-phonetic":"rʌst","uk-phonetic":"rʌst","explians":["n. 锈；生锈；[植保] 锈病","vt. 使生锈；腐蚀","vi. 生锈；成铁锈色；变迟钝","n. (Rust)人名；(英)拉斯特；(德、捷、瑞典)鲁斯特；(法)吕斯特"]}
+},{"id":10516, "word":"dispatch", "translate":{"us-phonetic":"dɪ'spætʃ","uk-phonetic":"dɪˈspætʃ","explians":["n. 派遣；急件","vt. 派遣；分派"]}
+},{"id":10517, "word":"safe", "translate":{"us-phonetic":"sef","uk-phonetic":"seɪf","explians":["n. 保险箱；冷藏室；纱橱","adj. 安全的；可靠的；平安的","n. (Safe)人名；(几)萨菲"]}
+},{"id":10518, "word":"nicotine", "translate":{"us-phonetic":"'nɪkətɪn","uk-phonetic":"'nɪkətiːn","explians":["n. [有化] 尼古丁；[有化] 烟碱"]}
+},{"id":10519, "word":"insulate", "translate":{"us-phonetic":"ˈɪnsəˌleɪt ; ˈɪnsjʊˌleɪt","uk-phonetic":"'ɪnsjʊleɪt","explians":["vt. 隔离，使孤立；使绝缘，使隔热"]}
+},{"id":10520, "word":"conglomerate", "translate":{"us-phonetic":"kən'ɡlɑːmərət","uk-phonetic":"kən'glɒm(ə)rət","explians":["n. [岩] 砾岩；企业集团；聚合物","vi. 凝聚成团","adj. 成团的；砾岩性的","vt. 使聚结；凝聚成团"]}
+},{"id":10521, "word":"honorary", "translate":{"us-phonetic":"'ɑnərɛri","uk-phonetic":"'ɒn(ə)(rə)rɪ","explians":["n. 名誉学位；获名誉学位者；名誉团体","adj. 荣誉的；名誉的；道义上的"]}
+},{"id":10522, "word":"receptionist", "translate":{"us-phonetic":"rɪ'sɛpʃənɪst","uk-phonetic":"rɪ'sepʃ(ə)nɪst","explians":["n. 接待员；传达员"]}
+},{"id":10523, "word":"transmitter", "translate":{"us-phonetic":"træns'mɪtɚ","uk-phonetic":"trænz'mɪtə; trɑːnz-; -ns-","explians":["n. [电讯] 发射机，[通信] 发报机；传达人"]}
+},{"id":10524, "word":"ivy", "translate":{"us-phonetic":"'aɪvi","uk-phonetic":"'aɪvɪ","explians":["n. 常春藤","adj. 常春藤联盟的","n. (Ivy)人名；(英)艾维，艾薇(女名)"]}
+},{"id":10525, "word":"cheerleader", "translate":{"us-phonetic":"'tʃɪr'lidɚ","uk-phonetic":"'tʃɪəliːdə","explians":["n. 拉拉队队员"]}
+},{"id":10526, "word":"sealed", "translate":{"us-phonetic":"sild","uk-phonetic":"siːld","explians":["v. 封闭；盖印（seal的过去分词）","adj. 密封的；未知的"]}
+},{"id":10527, "word":"disproportionate", "translate":{"us-phonetic":"disprə'pɔ:ʃənət","uk-phonetic":",dɪsprə'pɔːʃ(ə)nət","explians":["adj. 不成比例的","不成比例地"]}
+},{"id":10528, "word":"bailout", "translate":{"us-phonetic":"'belaʊt","uk-phonetic":"'beɪlaʊt","explians":["n. 紧急救助；跳伞"]}
+},{"id":10529, "word":"audition", "translate":{"us-phonetic":"ɔ'dɪʃən","uk-phonetic":"ɔː'dɪʃ(ə)n","explians":["n. 听力，听觉；试听","vt. 对…进行面试；让…试唱","vi. 试听；试音"]}
+},{"id":10530, "word":"All-American", "translate":{"us-phonetic":",ɔ:lə'merikən","uk-phonetic":",ɔ:lə'merikən","explians":["n. 全美最佳选手；全美最佳阵容；典型美国青年","adj. 全美洲的；美国国家的；代表美国的"]}
+},{"id":10531, "word":"Portuguese", "translate":{"us-phonetic":"ˌpɔːtjʊˈɡiːz","uk-phonetic":"ˌpɔːtjʊˈɡiːz","explians":["n. 葡萄牙语；葡萄牙人","adj. 葡萄牙的；葡萄牙人的；葡萄牙语的"]}
+},{"id":10532, "word":"anti-war", "translate":{"us-phonetic":"'ænti'wɔ:","uk-phonetic":"'ænti'wɔ:","explians":["adj. [军] 反战的"]}
+},{"id":10533, "word":"operative", "translate":{"us-phonetic":"'ɑpərətɪv","uk-phonetic":"'ɒp(ə)rətɪv","explians":["n. 侦探；技工","adj. 有效的；运转着的；从事生产劳动的"]}
+},{"id":10534, "word":"township", "translate":{"us-phonetic":"'taʊnʃɪp","uk-phonetic":"'taʊnʃɪp","explians":["n. 镇区；小镇"]}
+},{"id":10535, "word":"dissatisfied", "translate":{"us-phonetic":"dɪs'sætɪsfaɪd","uk-phonetic":"dɪs'sætɪsfaɪd","explians":["v. 使不满（dissatisfy的过去式和过去分词）","adj. 不满意的；不高兴的；流露不满的"]}
+},{"id":10536, "word":"anthology", "translate":{"us-phonetic":"æn'θɑlədʒi","uk-phonetic":"æn'θɒlədʒɪ","explians":["n. （诗、文、曲、画等的）选集"]}
+},{"id":10537, "word":"notoriously", "translate":{"us-phonetic":"noˈtɔːriəsli","uk-phonetic":"nəu'tɔ:riəsli","explians":["adv. 众所周知地；声名狼藉地；恶名昭彰地"]}
+},{"id":10538, "word":"herring", "translate":{"us-phonetic":"'hɛrɪŋ","uk-phonetic":"'herɪŋ","explians":["n. 鲱","n. (Herring)人名；(英)赫林"]}
+},{"id":10539, "word":"vacancy", "translate":{"us-phonetic":"'vekənsi","uk-phonetic":"'veɪk(ə)nsɪ","explians":["n. 空缺；空位；空白；空虚"]}
+},{"id":10540, "word":"regiment", "translate":{"us-phonetic":"'rɛdʒɪmənt","uk-phonetic":"'redʒɪm(ə)nt","explians":["n. 团；大量","vt. 把…编成团；严格地管制"]}
+},{"id":10541, "word":"unbearable", "translate":{"us-phonetic":"ʌn'bɛrəbl","uk-phonetic":"ʌn'beərəb(ə)l","explians":["adj. 难以忍受的；承受不住的"]}
+},{"id":10542, "word":"imprint", "translate":{"us-phonetic":"'ɪmprɪnt","uk-phonetic":"ɪm'prɪnt","explians":["n. 印记；痕迹；特征；版本说明","vt. 加特征；刻上记号"]}
+},{"id":10543, "word":"poll", "translate":{"us-phonetic":"pol","uk-phonetic":"pəʊl","explians":["n. 投票；民意测验；投票数；投票所","adj. 无角的；剪过毛的；修过枝的","vt. 投票；剪短；对…进行民意测验；获得选票","vi. 投票","n. (Poll)人名；(德、匈、罗、英)波尔"]}
+},{"id":10544, "word":"eloquent", "translate":{"us-phonetic":"'ɛləkwənt","uk-phonetic":"'eləkwənt","explians":["adj. 意味深长的；雄辩的，有口才的；有说服力的；动人的"]}
+},{"id":10545, "word":"supplemental", "translate":{"us-phonetic":",sʌplə'mɛntl","uk-phonetic":",sʌplɪ'mentəl","explians":["adj. 补充的（等于supplementary）；追加的"]}
+},{"id":10546, "word":"addictive", "translate":{"us-phonetic":"ə'dɪktɪv","uk-phonetic":"ə'dɪktɪv","explians":["adj. 使人上瘾的"]}
+},{"id":10547, "word":"packing", "translate":{"us-phonetic":"'pækɪŋ","uk-phonetic":"'pækɪŋ","explians":["n. 包装；填充物","v. 包装；装满；压紧（pack的ing形式）"]}
+},{"id":10548, "word":"cradle", "translate":{"us-phonetic":"'kredl","uk-phonetic":"'kreɪd(ə)l","explians":["n. 摇篮；发源地；发祥地；支船架","vt. 抚育；把...搁在支架上；把...放在摇篮内"]}
+},{"id":10549, "word":"ion", "translate":{"us-phonetic":"'aɪən","uk-phonetic":"'aɪən","explians":["n. [化学] 离子","n. (Ion)人名；(罗、摩尔)扬；(丹)约恩"]}
+},{"id":10550, "word":"seedling", "translate":{"us-phonetic":"'sidlɪŋ","uk-phonetic":"'siːdlɪŋ","explians":["n. 秧苗，幼苗；树苗"]}
+},{"id":10551, "word":"wares", "translate":{"us-phonetic":"wɛəz","uk-phonetic":"wɛəz","explians":["n. [贸易] 商品；货物","n. (Wares)人名；(英)韦尔斯"]}
+},{"id":10552, "word":"quaint", "translate":{"us-phonetic":"kwent","uk-phonetic":"kweɪnt","explians":["adj. 古雅的；奇怪的；离奇有趣的；做得很精巧的"]}
+},{"id":10553, "word":"nigger", "translate":{"us-phonetic":"'nɪɡɚ","uk-phonetic":"'nɪgə","explians":["n. 黑鬼（蔑称）；社会地位低下的人"]}
+},{"id":10554, "word":"time-consuming", "translate":{"us-phonetic":"'taimkən,sju:miŋ","uk-phonetic":"'taimkən,sju:miŋ","explians":["adj. 耗时的；旷日持久的"]}
+},{"id":10555, "word":"skid", "translate":{"us-phonetic":"skɪd","uk-phonetic":"skɪd","explians":["n. 打滑；[车辆] 刹车；滑轨，滑动垫木","vt. 刹住，使减速；滚滑","vi. 打滑"]}
+},{"id":10556, "word":"prehistoric", "translate":{"us-phonetic":",prihɪ'stɔrɪk","uk-phonetic":"priːhɪ'stɒrɪk","explians":["adj. 史前的；陈旧的"]}
+},{"id":10557, "word":"two-story", "translate":{"explians":["两层（楼）的"]}
+},{"id":10558, "word":"tofu", "translate":{"us-phonetic":"'tofu","uk-phonetic":"'təʊfuː","explians":["n. 豆腐"]}
+},{"id":10559, "word":"safeguard", "translate":{"us-phonetic":"'sefɡɑrd","uk-phonetic":"'seɪfgɑːd","explians":["n. [安全] 保护；保卫；保护措施","vt. [安全] 保护，护卫"]}
+},{"id":10560, "word":"projector", "translate":{"us-phonetic":"prə'dʒɛktɚ","uk-phonetic":"prə'dʒektə","explians":["n. [仪] 投影仪；放映机；探照灯；设计者","n. (Projector)人名；(英)普罗杰克特"]}
+},{"id":10561, "word":"ascent", "translate":{"us-phonetic":"ə'sɛnt","uk-phonetic":"ə'sent","explians":["n. 上升；上坡路；登高"]}
+},{"id":10562, "word":"federation", "translate":{"us-phonetic":"'fɛdə'reʃən","uk-phonetic":"fedə'reɪʃ(ə)n","explians":["n. 联合；联邦；联盟；联邦政府"]}
+},{"id":10563, "word":"abuser", "translate":{"us-phonetic":"ə'bju:zə","uk-phonetic":"ə'bju:zə","explians":["n. 滥用者；施虐者"]}
+},{"id":10564, "word":"hospice", "translate":{"us-phonetic":"'hɑspɪs","uk-phonetic":"'hɒspɪs","explians":["n. 收容所；旅客招待所；救济院","n. (Hospice)人名；(法)奥斯皮斯"]}
+},{"id":10565, "word":"operative", "translate":{"us-phonetic":"'ɑpərətɪv","uk-phonetic":"'ɒp(ə)rətɪv","explians":["n. 侦探；技工","adj. 有效的；运转着的；从事生产劳动的"]}
+},{"id":10566, "word":"school", "translate":{"us-phonetic":"skul","uk-phonetic":"skuːl","explians":["n. 学校；学院；学派；鱼群","vt. 教育"]}
+},{"id":10567, "word":"globally", "translate":{"explians":["adv. 全球地；全局地；世界上"]}
+},{"id":10568, "word":"beta", "translate":{"us-phonetic":"'betə","uk-phonetic":"'biːtə","explians":["n. 贝它（希腊字母表的第二个字母）","n. (Beta)人名；(日)部田(姓)；(土)贝塔；(匈)拜陶"]}
+},{"id":10569, "word":"outlaw", "translate":{"us-phonetic":"'aʊtlɔ","uk-phonetic":"'aʊtlɔː","explians":["n. 歹徒；罪犯；亡命之徒；被剥夺法律保护者","vt. 宣布…为不合法；将…放逐；剥夺…的法律保护","n. (Outlaw)人名；(英)奥特洛"]}
+},{"id":10570, "word":"brilliance", "translate":{"us-phonetic":"'brɪljəns","uk-phonetic":"'brɪlj(ə)ns","explians":["n. 光辉；才华；宏伟"]}
+},{"id":10571, "word":"oasis", "translate":{"us-phonetic":"o'esɪs","uk-phonetic":"əʊ'eɪsɪs","explians":["n. 绿洲；舒适的地方；令人宽慰的事物","n. (Oasis)人名；(英)奥西斯"]}
+},{"id":10572, "word":"underwater", "translate":{"us-phonetic":",ʌndɚ'wɔtɚ","uk-phonetic":"ʌndə'wɔːtə","explians":["n. 水下","adj. 在水中的；水面下的","adv. 在水下"]}
+},{"id":10573, "word":"thirsty", "translate":{"us-phonetic":"'θɝsti","uk-phonetic":"'θɜːstɪ","explians":["adj. 口渴的，口干的；渴望的，热望的"]}
+},{"id":10574, "word":"misfortune", "translate":{"us-phonetic":"'mɪs'fɔrtʃən","uk-phonetic":"mɪs'fɔːtʃuːn; -tʃ(ə)n","explians":["n. 不幸；灾祸，灾难"]}
+},{"id":10575, "word":"anecdotal", "translate":{"us-phonetic":",ænɪk'dotl","uk-phonetic":",ænɪk'dəʊtl","explians":["adj. 轶事的；轶事一样的；多轶事的"]}
+},{"id":10576, "word":"reverence", "translate":{"us-phonetic":"'rɛvərəns","uk-phonetic":"'rev(ə)r(ə)ns","explians":["n. 崇敬；尊严；敬礼","vt. 敬畏；尊敬"]}
+},{"id":10577, "word":"smoked", "translate":{"us-phonetic":"smokt","uk-phonetic":"sməʊkt","explians":["v. 用烟处理（smoke的过去分词）","adj. 熏制的"]}
+},{"id":10578, "word":"tapestry", "translate":{"us-phonetic":"'tæpəstri","uk-phonetic":"'tæpɪstrɪ","explians":["n. 织锦；挂毯；绣帷","vt. 用挂毯装饰"]}
+},{"id":10579, "word":"telling", "translate":{"us-phonetic":"'tɛlɪŋ","uk-phonetic":"'telɪŋ","explians":["n. 命令；叙述；吐露真情","v. 告诉；讲述（tell的ing形式）；命令","adj. 有效的；生动的；显著的","n. (Telling)人名；(英)特林"]}
+},{"id":10580, "word":"obese", "translate":{"us-phonetic":"o'bis","uk-phonetic":"ə(ʊ)'biːs","explians":["adj. 肥胖的，过胖的"]}
+},{"id":10581, "word":"hostess", "translate":{"us-phonetic":"'hostəs","uk-phonetic":"'həʊstɪs; -es; həʊ'stes","explians":["n. 女主人，女老板；女服务员；舞女；女房东"]}
+},{"id":10582, "word":"bath", "translate":{}
+},{"id":10583, "word":"balk", "translate":{"us-phonetic":"bɔk","uk-phonetic":"bɔːlk; bɔːk","explians":["n. 障碍；错误","vi. 犹豫；突然止步不前","vt. 阻止；推诿；错过","n. (Balk)人名；(英)鲍克；(瑞典)巴尔克；(法、德、俄、芬)巴尔克"]}
+},{"id":10584, "word":"thoughtfully", "translate":{"us-phonetic":"'θɔtfəli","uk-phonetic":"'θɔ:tfəl","explians":["adv. 沉思地；体贴地，亲切地"]}
+},{"id":10585, "word":"estimation", "translate":{"us-phonetic":",ɛstɪ'meʃən","uk-phonetic":"estɪ'meɪʃ(ə)n","explians":["n. 估计；尊重"]}
+},{"id":10586, "word":"clad", "translate":{"us-phonetic":"klæd","uk-phonetic":"klæd","explians":["v. 穿衣（clothe的过去式和过去分词）","adj. 穿衣的；覆盖的","vt. 在金属外覆以另一种金属"]}
+},{"id":10587, "word":"monstrous", "translate":{"us-phonetic":"'mɑnstrəs","uk-phonetic":"'mɒnstrəs","explians":["adj. 巨大的；怪异的；荒谬的；畸形的"]}
+},{"id":10588, "word":"profess", "translate":{"us-phonetic":"prə'fɛs","uk-phonetic":"prə'fes","explians":["vt. 自称；公开表示；宣称信奉；正式准予加入","vi. 声称；承认；当教授"]}
+},{"id":10589, "word":"aquarium", "translate":{"us-phonetic":"ə'kwɛrɪəm","uk-phonetic":"ə'kweərɪəm","explians":["n. 水族馆；养鱼池；玻璃缸"]}
+},{"id":10590, "word":"scarlet", "translate":{"us-phonetic":"'skɑrlɪt","uk-phonetic":"'skɑːlət","explians":["n. 猩红色；红衣；绯红色；鲜红色布","adj. 深红的；鲜红色的；罪孽深重的；淫荡的","n. (Scarlet)人名；(英)斯卡利特；(罗)斯卡尔莱特"]}
+},{"id":10591, "word":"adjective", "translate":{"us-phonetic":"'ædʒɪktɪv","uk-phonetic":"'ædʒɪktɪv","explians":["n. 形容词","adj. 形容词的；从属的"]}
+},{"id":10592, "word":"inception", "translate":{"us-phonetic":"ɪn'sɛpʃən","uk-phonetic":"ɪn'sepʃ(ə)n","explians":["n. 起初；获得学位","n. 《盗梦空间》（电影名）"]}
+},{"id":10593, "word":"jihad", "translate":{"us-phonetic":"dʒɪ'hɑd","uk-phonetic":"dʒɪ'hɑːd","explians":["n. 讨伐异教徒；拥护运动；护教战争","n. (Jihad)人名；(阿拉伯、埃塞)吉哈德"]}
+},{"id":10594, "word":"brother-in-law", "translate":{"explians":["n. 姐夫；妹夫；内弟；内兄；小叔；大伯；堂兄弟；表兄弟"]}
+},{"id":10595, "word":"rosemary", "translate":{"us-phonetic":"'roz'mɛri","uk-phonetic":"'rəʊzm(ə)rɪ","explians":["n. [植] 迷迭香"]}
+},{"id":10596, "word":"unintended", "translate":{"us-phonetic":",ʌnɪn'tɛndɪd","uk-phonetic":"ʌnɪn'tendɪd","explians":["adj. 无意识的；非计划中的"]}
+},{"id":10597, "word":"feud", "translate":{"us-phonetic":"fjʊd","uk-phonetic":"fjuːd","explians":["n. 不和；争执；封地;（部落或家族间的）世仇","vi. 长期不和；长期争斗"]}
+},{"id":10598, "word":"monologue", "translate":{"us-phonetic":"'mɑnəlɔɡ","uk-phonetic":"'mɒn(ə)lɒg","explians":["n. 独白"]}
+},{"id":10599, "word":"ally", "translate":{"us-phonetic":"'ælaɪ","uk-phonetic":"'ælaɪ","explians":["n. 同盟国；伙伴；同盟者；助手","vt. 使联盟；使联合","vi. 联合；结盟","n. (Ally)人名；(巴基)阿利；(法)阿利；(英)艾丽(女子教名 Alice 的简称)；(尼日利)阿利"]}
+},{"id":10600, "word":"squirm", "translate":{"us-phonetic":"skwɝm","uk-phonetic":"skwɜːm","explians":["n. 蠕动","vi. 蠕动，扭动；羞愧，不舒服"]}
+},{"id":10601, "word":"lecturer", "translate":{"us-phonetic":"'lɛktʃərɚ","uk-phonetic":"'lektʃ(ə)rə","explians":["n. 讲师，演讲者"]}
+},{"id":10602, "word":"disgrace", "translate":{"us-phonetic":"dɪs'ɡres","uk-phonetic":"dɪs'greɪs","explians":["n. 耻辱；丢脸的人或事；失宠","vt. 使……失宠；给……丢脸；使……蒙受耻辱；贬黜"]}
+},{"id":10603, "word":"beaten", "translate":{"us-phonetic":"'bitn","uk-phonetic":"'biːt(ə)n","explians":["v. 打败（beat的过去分词）","adj. 被打败了的；筋疲力竭的；踏平的","n. (Beaten)人名；(英)比滕"]}
+},{"id":10604, "word":"moratorium", "translate":{"us-phonetic":",mɔrə'tɔrɪəm","uk-phonetic":",mɒrə'tɔːrɪəm","explians":["n. 暂停，中止；[金融] 延期偿付"]}
+},{"id":10605, "word":"sprig", "translate":{"us-phonetic":"sprɪg","uk-phonetic":"sprɪg","explians":["n. 小枝；图钉；年青人；子孙","vt. 用钉子钉上；用小树枝装饰；使蔓生"]}
+},{"id":10606, "word":"embryonic", "translate":{"us-phonetic":",ɛmbrɪ'ɑnɪk","uk-phonetic":",embrɪ'ɒnɪk","explians":["adj. [胚] 胚胎的；似胚胎的"]}
+},{"id":10607, "word":"contaminant", "translate":{"us-phonetic":"kən'tæmɪnənt","uk-phonetic":"kən'tæmɪnənt","explians":["n. 污染物；致污物"]}
+},{"id":10608, "word":"resurgence", "translate":{"us-phonetic":"rɪ'sɝdʒəns","uk-phonetic":"rɪ'sɜːdʒ(ə)ns","explians":["n. 复活；再现；再起"]}
+},{"id":10609, "word":"brilliantly", "translate":{"us-phonetic":"'briljəntli","uk-phonetic":"'briljəntli","explians":["adv. 灿烂地；辉煌地；光亮地"]}
+},{"id":10610, "word":"convertible", "translate":{"us-phonetic":"kən'vɝtəbl","uk-phonetic":"kən'vɜːtɪb(ə)l","explians":["n. 有活动折篷的汽车","adj. 可改变的；同意义的；可交换的"]}
+},{"id":10611, "word":"winery", "translate":{"us-phonetic":"'waɪnəri","uk-phonetic":"'waɪn(ə)rɪ","explians":["n. 酿酒厂；葡萄酒酿造厂（复数wineries）"]}
+},{"id":10612, "word":"anew", "translate":{"us-phonetic":"ə'nʊ","uk-phonetic":"ə'njuː","explians":["adv. 重新；再"]}
+},{"id":10613, "word":"grad", "translate":{"us-phonetic":"ɡræd","uk-phonetic":"græd","explians":["n. 毕业生；校友","n. (Grad)人名；(英、法、德、罗、瑞典)格拉德"]}
+},{"id":10614, "word":"fledgling", "translate":{"us-phonetic":"'flɛdʒlɪŋ","uk-phonetic":"'fledʒlɪŋ","explians":["n. 无经验的人；刚会飞的幼鸟"]}
+},{"id":10615, "word":"audible", "translate":{"us-phonetic":"'ɔdəbl","uk-phonetic":"'ɔːdɪb(ə)l","explians":["adj. 听得见的","听得见地"]}
+},{"id":10616, "word":"fuse", "translate":{"us-phonetic":"fjuz","uk-phonetic":"fjuːz","explians":["n. 保险丝，熔线；导火线，雷管","vt. 使融合；使熔化，使熔融","vi. 融合；熔化，熔融","n. (Fuse)人名；(意)富塞；(法)菲斯"]}
+},{"id":10617, "word":"disapproval", "translate":{"us-phonetic":"'dɪsə'prʊvl","uk-phonetic":"dɪsə'pruːvl","explians":["n. 不赞成；不喜欢"]}
+},{"id":10618, "word":"fabricate", "translate":{"us-phonetic":"'fæbrɪket","uk-phonetic":"'fæbrɪkeɪt","explians":["vt. 制造；伪造；装配"]}
+},{"id":10619, "word":"year-old", "translate":{}
+},{"id":10620, "word":"sow", "translate":{"us-phonetic":"so","uk-phonetic":"səʊ","explians":["n. 母猪","vt. 播种；散布；使密布","vi. 播种","n. (Sow)人名；(几、马里、乍、毛里塔、塞内)索乌"]}
+},{"id":10621, "word":"disguise", "translate":{"us-phonetic":"dɪs'ɡaɪz","uk-phonetic":"dɪs'gaɪz","explians":["n. 伪装；假装；用作伪装的东西","vt. 掩饰；假装；隐瞒"]}
+},{"id":10622, "word":"modernize", "translate":{"us-phonetic":"mɑdɚnˌaɪz","uk-phonetic":"ˈmɒdənaɪz","explians":["vt. 使…现代化","vi. 现代化"]}
+},{"id":10623, "word":"pharmacist", "translate":{"us-phonetic":"'fɑrməsɪst","uk-phonetic":"'fɑːməsɪst","explians":["n. 药剂师"]}
+},{"id":10624, "word":"hardy", "translate":{"us-phonetic":"'hɑ:di","uk-phonetic":"'hɑːdɪ","explians":["n. 强壮的人；耐寒植物；方柄凿","adj. 坚强的；勇敢的；能吃苦耐劳的；鲁莽的"]}
+},{"id":10625, "word":"snap", "translate":{"us-phonetic":"snæp","uk-phonetic":"snæp","explians":["n. 猛咬；劈啪声；突然折断","adj. 突然的","vt. 突然折断，拉断；猛咬；啪地关上","vi. 咬；厉声说；咯嗒一声关上"]}
+},{"id":10626, "word":"stoop", "translate":{"us-phonetic":"stʊp","uk-phonetic":"stuːp","explians":["n. 弯腰，屈背；屈服","vt. 辱没，堕落；俯曲","vi. 弯腰；屈服；堕落","n. (Stoop)人名；(法、荷、葡)斯托普"]}
+},{"id":10627, "word":"pantry", "translate":{"us-phonetic":"'pæntri","uk-phonetic":"'pæntrɪ","explians":["n. 餐具室；食品室；食品储藏室"]}
+},{"id":10628, "word":"avocado", "translate":{"us-phonetic":",ævə'kɑdo","uk-phonetic":",ævə'kɑ:dəʊ","explians":["n. 鳄梨；鳄梨树"]}
+},{"id":10629, "word":"trim", "translate":{"us-phonetic":"trɪm","uk-phonetic":"trɪm","explians":["n. 修剪；整齐；情形","vt. 修剪；整理；装点","adj. 整齐的","vi. 削减","n. (Trim)人名；(意)特里姆"]}
+},{"id":10630, "word":"brandy", "translate":{"us-phonetic":"'brændi","uk-phonetic":"'brændɪ","explians":["n. 白兰地酒","n. (Brandy)人名；(法)布朗迪"]}
+},{"id":10631, "word":"getaway", "translate":{"us-phonetic":"'ɡɛtəwe","uk-phonetic":"'getəweɪ","explians":["n. 逃走；逃跑；短假；适合旅行的地方"]}
+},{"id":10632, "word":"trusted", "translate":{"explians":["v. 信任；依靠；委托（trust的过去分词）","adj. 可信的；受信任的","n. (Trusted)人名；(英)特拉斯特德"]}
+},{"id":10633, "word":"unused", "translate":{"us-phonetic":"'ʌn'jʊzd","uk-phonetic":",ʌn'juːzd","explians":["adj. 不用的；从未用过的"]}
+},{"id":10634, "word":"casserole", "translate":{"us-phonetic":"'kæsərol","uk-phonetic":"'kæsərəʊl","explians":["n. 勺皿；砂锅菜；餐桌上用有盖的焙盘","vi. 用焙盘焙"]}
+},{"id":10635, "word":"bare", "translate":{"us-phonetic":"bɛr","uk-phonetic":"beə","explians":["adj. 空的；赤裸的，无遮蔽的","vt. 露出，使赤裸","n. (Bare)人名；(英)贝尔"]}
+},{"id":10636, "word":"cycle", "translate":{"us-phonetic":"'saɪkl","uk-phonetic":"'saɪk(ə)l","explians":["n. 循环；周期；自行车；整套；一段时间","vt. 使循环；使轮转","vi. 循环；骑自行车；轮转"]}
+},{"id":10637, "word":"predictive", "translate":{"us-phonetic":"prɪ'dɪktɪv","uk-phonetic":"prɪ'dɪktɪv","explians":["adj. 预言性的；成为前兆的"]}
+},{"id":10638, "word":"collateral", "translate":{"us-phonetic":"kə'lætərəl","uk-phonetic":"kə'læt(ə)r(ə)l","explians":["n. 抵押品；[法] 担保品；旁系亲属","adj. 并行的；旁系的；附属的"]}
+},{"id":10639, "word":"sublime", "translate":{"us-phonetic":"sə'blaɪm","uk-phonetic":"səˈblaɪm","explians":["n. 崇高；顶点","adj. 庄严的；令人崇敬的；极端的；超群的","vt. 使…纯化；使…升华；使…变高尚","vi. 升华；纯化；变高尚"]}
+},{"id":10640, "word":"complexion", "translate":{"us-phonetic":"kəm'plɛkʃən","uk-phonetic":"kəm'plekʃ(ə)n","explians":["n. 肤色；面色；情况；局面","vt. 使增添色彩"]}
+},{"id":10641, "word":"decency", "translate":{"us-phonetic":"'disnsi","uk-phonetic":"'diːs(ə)nsɪ","explians":["n. 正派；体面；庄重；合乎礼仪；礼貌"]}
+},{"id":10642, "word":"plaid", "translate":{"us-phonetic":"plæd","uk-phonetic":"plæd","explians":["n. 格子花呢；格子图案","adj. 有格子图案的"]}
+},{"id":10643, "word":"notwithstanding", "translate":{"us-phonetic":",nɑtwɪθ'stændɪŋ","uk-phonetic":"nɒtwɪð'stændɪŋ; -wɪθ-","explians":["conj. 虽然","prep. 尽管，虽然","adv. 尽管，仍然"]}
+},{"id":10644, "word":"internship", "translate":{"us-phonetic":"'ɪntɝnʃɪp","uk-phonetic":"'ɪntɜːnʃɪp","explians":["n. 实习生；（美）实习期；实习医师职位"]}
+},{"id":10645, "word":"forestry", "translate":{"us-phonetic":"'fɔrɪstri","uk-phonetic":"'fɒrɪstrɪ","explians":["n. 林业；森林地；林学"]}
+},{"id":10646, "word":"infiltrate", "translate":{"us-phonetic":"ɪn'fɪltret","uk-phonetic":"'ɪnfɪltreɪt","explians":["n. 渗透物","vi. 渗入","vt. 使潜入；使渗入，使浸润"]}
+},{"id":10647, "word":"testosterone", "translate":{"us-phonetic":"tɛ'stɑstəron","uk-phonetic":"te'stɒstərəʊn","explians":["n. [生化] 睾酮，睾丸素（男性荷尔蒙的一种）"]}
+},{"id":10648, "word":"paramedic", "translate":{"us-phonetic":",pærə'mɛdɪk","uk-phonetic":",pærə'medɪk","explians":["n. 护理人员；伞兵军医；伞降医务人员"]}
+},{"id":10649, "word":"wrench", "translate":{"us-phonetic":"rɛntʃ","uk-phonetic":"ren(t)ʃ","explians":["n. 扳手，扳钳；扭伤；痛苦；歪曲；猛扭","vt. 扭伤；猛扭；曲解；折磨","vi. 扭伤；猛扭；猛绞","n. (Wrench)人名；(英)伦奇"]}
+},{"id":10650, "word":"tendon", "translate":{"us-phonetic":"'tɛndən","uk-phonetic":"'tendən","explians":["n. [解剖] 腱","n. (Tendon)人名；(法)唐东"]}
+},{"id":10651, "word":"accessibility", "translate":{"us-phonetic":"æk,sɛsə'bɪləti","uk-phonetic":"ək,sesə'bɪlətɪ","explians":["n. 易接近；可亲；可以得到"]}
+},{"id":10652, "word":"pixel", "translate":{"us-phonetic":"'pɪksl","uk-phonetic":"'pɪks(ə)l; -sel","explians":["n. （显示器或电视机图象的）像素（等于picture element）"]}
+},{"id":10653, "word":"enlightened", "translate":{"us-phonetic":"ɪn'laɪtnd","uk-phonetic":"ɪn'laɪt(ə)nd","explians":["v. 启迪（enlighten的过去式）","adj. 开明的；文明的；进步的；被启发的"]}
+},{"id":10654, "word":"interrogate", "translate":{"us-phonetic":"ɪn'tɛrəɡet","uk-phonetic":"ɪn'terəgeɪt","explians":["vt. 审问；质问；[计] 询问","vi. 审问；质问"]}
+},{"id":10655, "word":"zucchini", "translate":{"us-phonetic":"zu'kini","uk-phonetic":"zʊ'kiːnɪ","explians":["n. 绿皮西葫芦（又名意大利青瓜）"]}
+},{"id":10656, "word":"ecstatic", "translate":{"us-phonetic":"ɪk'stætɪk","uk-phonetic":"ɪk'stætɪk; ek-","explians":["adj. 狂喜的；入迷的","n. 狂喜的人"]}
+},{"id":10657, "word":"grieving", "translate":{"explians":["v. 使悲伤；伤心（grieve的ing形式）"]}
+},{"id":10658, "word":"waive", "translate":{"us-phonetic":"wev","uk-phonetic":"weɪv","explians":["vt. 放弃；搁置"]}
+},{"id":10659, "word":"find", "translate":{"us-phonetic":"faɪnd","uk-phonetic":"faɪnd","explians":["n. 发现","vi. 裁决","vt. 查找，找到；发现；认为；感到；获得","n. (Find)人名；(丹)芬"]}
+},{"id":10660, "word":"stitch", "translate":{"us-phonetic":"stɪtʃ","uk-phonetic":"stɪtʃ","explians":["n. 针脚，线迹；一针","vt. 缝，缝合","vi. 缝，缝合"]}
+},{"id":10661, "word":"chatter", "translate":{"us-phonetic":"'tʃætɚ","uk-phonetic":"'tʃætə","explians":["n. 唠叨；饶舌；（动物的）啁啾声；潺潺流水声","vt. 喋喋不休地说；使卡嗒卡嗒作声","vi. 唠叨；喋喋不休；（动物等）吱吱叫"]}
+},{"id":10662, "word":"disintegrate", "translate":{"us-phonetic":"dɪs'ɪntɪɡret","uk-phonetic":"dɪs'ɪntɪgreɪt","explians":["vi. 瓦解；碎裂；衰变","vt. 使分解；使碎裂；使崩溃；使衰变"]}
+},{"id":10663, "word":"Headnote", "translate":{"us-phonetic":"'hednəut","uk-phonetic":"'hednəʊt","explians":["n. 批注；眉批"]}
+},{"id":10664, "word":"conceivable", "translate":{"us-phonetic":"kən'sivəbl","uk-phonetic":"kən'siːvəb(ə)l","explians":["adj. 可能的；想得到的，可想像的"]}
+},{"id":10665, "word":"obliterate", "translate":{"us-phonetic":"ə'blɪtə'ret","uk-phonetic":"ə'blɪtəreɪt","explians":["vt. 消灭；涂去；冲刷；忘掉"]}
+},{"id":10666, "word":"hanging", "translate":{"us-phonetic":"'hæŋɪŋ","uk-phonetic":"'hæŋɪŋ","explians":["n. 悬挂；绞刑；帘子，幔帐","v. 悬挂（hang的ing形式）","adj. 悬挂着的"]}
+},{"id":10667, "word":"thaw", "translate":{"us-phonetic":"θɔ","uk-phonetic":"θɔː","explians":["n. 解冻；融雪","vt. 使融解；使变得不拘束","vi. 融解；变暖和","n. (Thaw)人名；(缅)陶"]}
+},{"id":10668, "word":"visitation", "translate":{"us-phonetic":"'vɪzə'teʃən","uk-phonetic":"vɪzɪ'teɪʃ(ə)n","explians":["n. 访问；探视；视察；正式访问"]}
+},{"id":10669, "word":"hypertension", "translate":{"us-phonetic":",haɪpɚ'tɛnʃən","uk-phonetic":"haɪpə'tenʃ(ə)n","explians":["n. 高血压；过度紧张"]}
+},{"id":10670, "word":"zipper", "translate":{"us-phonetic":"ˈzɪpə","uk-phonetic":"'zɪpə","explians":["n. 拉链","n. (Zipper)人名；(英、德)齐珀","vt. 用拉链扣上","vi. 拉上拉链"]}
+},{"id":10671, "word":"detach", "translate":{"us-phonetic":"dɪ'tætʃ","uk-phonetic":"dɪ'tætʃ","explians":["vt. 分离；派遣；使超然"]}
+},{"id":10672, "word":"extravagant", "translate":{"us-phonetic":"ɪk'strævəgənt","uk-phonetic":"ɪk'strævəg(ə)nt; ek-","explians":["adj. 奢侈的；浪费的；过度的；放纵的"]}
+},{"id":10673, "word":"rover", "translate":{"us-phonetic":"'rovɚ","uk-phonetic":"'rəʊvə","explians":["n. 漫游者；流浪者；漂泊者","n. (Rover)人名；(英)罗弗；(意)罗韦尔"]}
+},{"id":10674, "word":"brew", "translate":{"us-phonetic":"brʊ","uk-phonetic":"bruː","explians":["n. 啤酒；质地","vi. 酿酒；被冲泡；即将发生","vt. 酿造；酝酿","n. (Brew)人名；(英)布鲁"]}
+},{"id":10675, "word":"biopsy", "translate":{"us-phonetic":"'baɪɑpsi","uk-phonetic":"'baɪɒpsɪ","explians":["n. 活组织检查；活组织切片检查；切片检查法"]}
+},{"id":10676, "word":"Belgian", "translate":{"us-phonetic":"'beldʒən","uk-phonetic":"'beldʒən","explians":["n. 比利时人","adj. 比利时的"]}
+},{"id":10677, "word":"exploratory", "translate":{"us-phonetic":"ɪk'splɔrətɔri","uk-phonetic":"ɪk'splɒrət(ə)rɪ; ek-","explians":["adj. 勘探的；探究的；考察的"]}
+},{"id":10678, "word":"clientele", "translate":{"us-phonetic":"'klaɪən'tɛl","uk-phonetic":",kliːɒn'tel","explians":["n. 客户；诉讼委托人"]}
+},{"id":10679, "word":"snore", "translate":{"us-phonetic":"snɔr","uk-phonetic":"snɔː","explians":["n. 鼾声","vt. 打鼾","vi. 打呼噜；打着鼾声渡过"]}
+},{"id":10680, "word":"slate", "translate":{"us-phonetic":"slet","uk-phonetic":"sleɪt","explians":["n. 板岩；石板；蓝色；石片","adj. 板岩的；石板色的","vt. 铺石板；严厉批评某人；计划","","n. (Slate)人名；(英)斯莱特"]}
+},{"id":10681, "word":"transplant", "translate":{"us-phonetic":"træns'plænt","uk-phonetic":"træns'plɑːnt; trɑːns-; -nz-","explians":["n. 移植；移植器官；被移植物；移居者","vt. 移植；迁移；使移居","vi. 移植；迁移；移居"]}
+},{"id":10682, "word":"zinc", "translate":{"us-phonetic":"zɪŋk","uk-phonetic":"zɪŋk","explians":["n. 锌","vt. 镀锌于…；涂锌于…；用锌处理"]}
+},{"id":10683, "word":"mediocre", "translate":{"us-phonetic":",midɪ'okɚ","uk-phonetic":",miːdɪ'əʊkə","explians":["adj. 普通的；平凡的；中等的"]}
+},{"id":10684, "word":"heartland", "translate":{"us-phonetic":"'hɑrtlænd","uk-phonetic":"'hɑːtlænd","explians":["n. 中心地带；心脏地区"]}
+},{"id":10685, "word":"entrust", "translate":{"us-phonetic":"ɪn'trʌst","uk-phonetic":"ɪn'trʌst; en-","explians":["vt. 委托，信托"]}
+},{"id":10686, "word":"adrenaline", "translate":{"us-phonetic":"æˈdrɛnəˌlɪn","uk-phonetic":"ə'drenəlɪn","explians":["n. [生化] 肾上腺素"]}
+},{"id":10687, "word":"sparse", "translate":{"us-phonetic":"spɑrs","uk-phonetic":"spɑːs","explians":["adj. 稀疏的；稀少的"]}
+},{"id":10688, "word":"endowment", "translate":{"us-phonetic":"ɪn'daʊmənt","uk-phonetic":"ɪn'daʊm(ə)nt; en-","explians":["n. 捐赠；捐助；捐款；天资"]}
+},{"id":10689, "word":"cutback", "translate":{"us-phonetic":"'kʌtbæk","uk-phonetic":"'kʌtbæk","explians":["n. 减少，削减；情节倒叙"]}
+},{"id":10690, "word":"present-day", "translate":{"us-phonetic":"'prezənt'dei","uk-phonetic":"'prezənt'dei","explians":["adj. 现代的；当今的；现在的；现时的"]}
+},{"id":10691, "word":"beacon", "translate":{"us-phonetic":"'bikən","uk-phonetic":"'biːk(ə)n","explians":["n. 灯塔，信号浮标；烽火；指路明灯","vt. 照亮，指引","vi. 像灯塔般照耀"]}
+},{"id":10692, "word":"reorganization", "translate":{"us-phonetic":"'ri,ɔɡənɪ'zeʃən","uk-phonetic":"'riː,ɔːɡənaɪ'zeɪʃən","explians":["n. 改组；整顿；改编"]}
+},{"id":10693, "word":"aye", "translate":{"us-phonetic":"aɪ","uk-phonetic":"aɪ","explians":["n. 赞成票；投赞成票者","adv. 赞成","n. (Aye)人名；(尼日利)艾耶；(法)阿耶；(缅)埃"]}
+},{"id":10694, "word":"sacrament", "translate":{"us-phonetic":"'sækrəmənt","uk-phonetic":"'sækrəm(ə)nt","explians":["n. 圣礼；圣餐；神秘的事物","vt. 立誓"]}
+},{"id":10695, "word":"incremental", "translate":{"us-phonetic":"ɪnkrə'məntl","uk-phonetic":",ɪnkrɪ'mentəl","explians":["adj. 增加的，增值的"]}
+},{"id":10696, "word":"remedial", "translate":{"us-phonetic":"rɪ'midɪəl","uk-phonetic":"rɪ'miːdɪəl","explians":["adj. 治疗的；补救的；矫正的"]}
+},{"id":10697, "word":"narrate", "translate":{"us-phonetic":"næret","uk-phonetic":"nə'reɪt","explians":["vt. 叙述；给…作旁白","vi. 叙述；讲述"]}
+},{"id":10698, "word":"inflammatory", "translate":{"us-phonetic":"ɪn'flæmə'tɔri","uk-phonetic":"ɪn'flæmət(ə)rɪ","explians":["adj. 炎症性的；煽动性的；激动的"]}
+},{"id":10699, "word":"discipline", "translate":{"us-phonetic":"'dɪsəplɪn","uk-phonetic":"'dɪsɪplɪn","explians":["n. 学科；纪律；训练；惩罚","vt. 训练，训导；惩戒"]}
+},{"id":10700, "word":"excerpt", "translate":{"us-phonetic":"'ɛksɝpt","uk-phonetic":"'eksɜːpt","explians":["n. 摘录，引用","vt. 引用，摘录","vi. 摘录，引用"]}
+},{"id":10701, "word":"taut", "translate":{"us-phonetic":"tɔt","uk-phonetic":"tɔːt","explians":["n. (Taut)人名；(德)陶特","adj. 拉紧的；紧张的；整洁的","vt. 使纠缠；使缠结"]}
+},{"id":10702, "word":"caste", "translate":{"us-phonetic":"kæst","uk-phonetic":"kɑːst","explians":["n. （印度社会中的）种姓；（具有严格等级差别的）社会地位；（排他的）社会团体","n. (Caste)人名；(英、法)卡斯特"]}
+},{"id":10703, "word":"glisten", "translate":{"us-phonetic":"'ɡlɪsn","uk-phonetic":"'glɪs(ə)n","explians":["n. 闪光，闪耀","vi. 闪光，闪亮"]}
+},{"id":10704, "word":"outright", "translate":{"us-phonetic":"'aʊtraɪt","uk-phonetic":"aʊt'raɪt","explians":["adj. 完全的，彻底的；直率的；总共的","adv. 全部地；立刻地；率直地；一直向前；痛快地"]}
+},{"id":10705, "word":"solid", "translate":{"us-phonetic":"'sɑlɪd","uk-phonetic":"'sɒlɪd","explians":["n. 固体；立方体","adj. 固体的；可靠的；立体的；结实的；一致的","n. (Solid)人名；(瑞典)索利德"]}
+},{"id":10706, "word":"speck", "translate":{"us-phonetic":"spɛk","uk-phonetic":"spek","explians":["n. 灰尘；污点；小颗粒","vt. 使有斑点","n. (Speck)人名；(英)斯佩克；(德)施佩克"]}
+},{"id":10707, "word":"roast", "translate":{"us-phonetic":"rost","uk-phonetic":"rəʊst","explians":["n. 烤肉；烘烤","adj. 烘烤的；烤过的","vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖；嘲笑，吐槽","vi. 烤；烘"]}
+},{"id":10708, "word":"unanimously", "translate":{"us-phonetic":"jʊ'nænəməsli","uk-phonetic":"juː'nænɪməslɪ","explians":["adv. 全体一致地"]}
+},{"id":10709, "word":"gymnastics", "translate":{"us-phonetic":"dʒɪm'næstɪks","uk-phonetic":"dʒɪm'næstɪks","explians":["n. 体操；体育；体操运动"]}
+},{"id":10710, "word":"gritty", "translate":{"us-phonetic":"'grɪti","uk-phonetic":"'grɪtɪ","explians":["adj. 坚韧不拔的；有砂砾的；多沙的；像砂的"]}
+},{"id":10711, "word":"completed", "translate":{"us-phonetic":"kəm'plitɪd","uk-phonetic":"kəm'plitɪd","explians":["v. 完成（complete的过去分词）","adj. 完整的；完全的"]}
+},{"id":10712, "word":"pleasantly", "translate":{"us-phonetic":"'plezntli","uk-phonetic":"'plezntli","explians":["adv. 愉快地；和蔼地，亲切地；友好地"]}
+},{"id":10713, "word":"saloon", "translate":{"us-phonetic":"sə'lun","uk-phonetic":"sə'luːn","explians":["n. 酒吧；大厅；展览场；公共大厅；大会客室；轿车（英国用法）"]}
+},{"id":10714, "word":"rift", "translate":{"us-phonetic":"rɪft","uk-phonetic":"rɪft","explians":["n. 裂缝；不和；[木] 裂口","vt. 使断裂；使分开","vi. 裂开"]}
+},{"id":10715, "word":"curfew", "translate":{"us-phonetic":"'kɝfju","uk-phonetic":"'kɜːfjuː","explians":["n. 宵禁；宵禁令；晚钟；打晚钟时刻"]}
+},{"id":10716, "word":"tattered", "translate":{"us-phonetic":"'tætɚd","uk-phonetic":"'tætəd","explians":["adj. 破烂的，衣衫褴褛的","v. 变破烂（tatter的过去分词）"]}
+},{"id":10717, "word":"courtship", "translate":{"us-phonetic":"'kɔ:tʃip","uk-phonetic":"'kɔːtʃɪp","explians":["n. 求爱；求婚；求爱期"]}
+},{"id":10718, "word":"roast", "translate":{"us-phonetic":"rost","uk-phonetic":"rəʊst","explians":["n. 烤肉；烘烤","adj. 烘烤的；烤过的","vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖；嘲笑，吐槽","vi. 烤；烘"]}
+},{"id":10719, "word":"swell", "translate":{"us-phonetic":"swɛl","uk-phonetic":"swel","explians":["n. 肿胀；隆起","vt. 使膨胀；使隆起","adj. 漂亮的；一流的","vi. 膨胀；肿胀；隆起","n. (Swell)人名；(英)斯韦尔"]}
+},{"id":10720, "word":"rendition", "translate":{"us-phonetic":"rɛn'dɪʃən","uk-phonetic":"ren'dɪʃ(ə)n","explians":["n. 译文；演奏；提供；引渡逃奴"]}
+},{"id":10721, "word":"orgasm", "translate":{"us-phonetic":"'ɔrɡæzəm","uk-phonetic":"'ɔːgæz(ə)m","explians":["n. [生理] 性高潮；极度兴奋"]}
+},{"id":10722, "word":"objectivity", "translate":{"us-phonetic":",ɑbdʒɛk'tɪvəti","uk-phonetic":",ɒbdʒek'tɪvɪtɪ; ,ɒbdʒɪk'tɪvɪtɪ","explians":["n. 客观；客观性"]}
+},{"id":10723, "word":"undecided", "translate":{"us-phonetic":",ʌndɪ'saɪdɪd","uk-phonetic":"ʌndɪ'saɪdɪd","explians":["adj. 未定的；未决定的；不稳定的"]}
+},{"id":10724, "word":"gracefully", "translate":{"us-phonetic":"'greisfuli","uk-phonetic":"'greisfuli","explians":["adv. 优雅地；温文地"]}
+},{"id":10725, "word":"slick", "translate":{"us-phonetic":"slɪk","uk-phonetic":"slɪk","explians":["n. [机] 平滑器；[机] 修光工具；通俗杂志","adj. 光滑的；华而不实的；聪明的；熟练的；老套的","adv. 灵活地；聪明地","vt. 使光滑；使漂亮","vi. 打扮整洁","n. (Slick)人名；(英)斯利克"]}
+},{"id":10726, "word":"Kuwaiti", "translate":{"us-phonetic":"ku'weiti","uk-phonetic":"ku'weiti","explians":["n. 科威特；科威特人","adj. 科威特的；科威特人的"]}
+},{"id":10727, "word":"encyclopedia", "translate":{"us-phonetic":"ɪnˌsaɪkləˈpidiɚ","uk-phonetic":"ɪnˌsaɪkləˈpiːdiə","explians":["n. 百科全书（亦是encyclopaedia）"]}
+},{"id":10728, "word":"preseason", "translate":{"us-phonetic":"pri:'si:zən","uk-phonetic":"pri:'si:zən","explians":["n. 旺季之前","adj. 旺季前的，活跃季节前的"]}
+},{"id":10729, "word":"shortfall", "translate":{"us-phonetic":"'ʃɔrtfɔl","uk-phonetic":"'ʃɔːtfɔːl","explians":["n. 差额；缺少"]}
+},{"id":10730, "word":"Pentagon", "translate":{"us-phonetic":"'pɛntəɡɑn","uk-phonetic":"'pentəɡ(ə)n","explians":["n. 五角形"]}
+},{"id":10731, "word":"cellphone", "translate":{"us-phonetic":"'sɛl'fon","uk-phonetic":"'sel,fəʊn","explians":["n. 蜂窝式便携无线电话；大哥大"]}
+},{"id":10732, "word":"progressively", "translate":{"us-phonetic":"prə'ɡrɛsɪvli","uk-phonetic":"prəˈgresɪvli","explians":["adv. 渐进地；日益增多地"]}
+},{"id":10733, "word":"pen", "translate":{"us-phonetic":"pɛn","uk-phonetic":"pen","explians":["n. 钢笔；作家；围栏","vt. 写；关入栏中","n. (Pen)人名；(法)庞；(俄、塞、英、意)佩恩；(柬)宾"]}
+},{"id":10734, "word":"melting", "translate":{"us-phonetic":"'mɛltɪŋ","uk-phonetic":"'meltɪŋ","explians":["adj. 融化的；溶解的；动人的；感伤的","v. 融化（melt的ing形式）"]}
+},{"id":10735, "word":"admirable", "translate":{"us-phonetic":"'ædmərəbl","uk-phonetic":"'ædm(ə)rəb(ə)l","explians":["adj. 令人钦佩的；极好的；值得赞扬的"]}
+},{"id":10736, "word":"satire", "translate":{"us-phonetic":"'sætaɪɚ","uk-phonetic":"'sætaɪə","explians":["n. 讽刺；讽刺文学，讽刺作品"]}
+},{"id":10737, "word":"biomass", "translate":{"us-phonetic":"'baɪomæs","uk-phonetic":"'baɪə(ʊ)mæs","explians":["n. （单位面积或体积内的）[生态] 生物量"]}
+},{"id":10738, "word":"victimization", "translate":{"us-phonetic":",viktimai'zeiʃən, -mi'z-","uk-phonetic":",viktimai'zeiʃən, -mi'z-","explians":["n. 牺牲；欺骗"]}
+},{"id":10739, "word":"dues", "translate":{"us-phonetic":"djuːz","uk-phonetic":"du:s","explians":["n. 会费；手续费；税捐（due的复数）"]}
+},{"id":10740, "word":"pride", "translate":{"us-phonetic":"praɪd","uk-phonetic":"praɪd","explians":["n. 自豪；骄傲；自尊心","vt. 使得意，以…自豪","vi. 自豪","n. (Pride)人名；(英)普赖德"]}
+},{"id":10741, "word":"extraction", "translate":{"us-phonetic":"ɪk'strækʃən","uk-phonetic":"ɪk'strækʃ(ə)n; ek-","explians":["n. 取出；抽出；拔出；抽出物；出身"]}
+},{"id":10742, "word":"affidavit", "translate":{"us-phonetic":",æfə'devɪt","uk-phonetic":",æfɪ'deɪvɪt","explians":["n. 宣誓书"]}
+},{"id":10743, "word":"shy", "translate":{"us-phonetic":"ʃaɪ","uk-phonetic":"ʃaɪ","explians":["n. 投掷；惊跳","adj. 害羞的；畏缩的，胆怯的","vi. 投；畏缩；惊退；厌恶","vt. 投；乱掷","n. (Shy)人名；(英)夏伊"]}
+},{"id":10744, "word":"bloody", "translate":{"us-phonetic":"'blʌdi","uk-phonetic":"'blʌdɪ","explians":["adj. 血腥的；非常的；嗜杀的，残忍的；血色的","vt. 使流血","adv. 很"]}
+},{"id":10745, "word":"principally", "translate":{"us-phonetic":"'prɪnsəpli","uk-phonetic":"'prɪnsɪp(ə)lɪ","explians":["adv. 主要地；大部分"]}
+},{"id":10746, "word":"behold", "translate":{"us-phonetic":"bɪ'hold","uk-phonetic":"bɪ'həʊld","explians":["vt. 看；注视；把...视为","vi. 看","int. 瞧；看呀"]}
+},{"id":10747, "word":"beforehand", "translate":{"us-phonetic":"bɪ'fɔrhænd","uk-phonetic":"bɪ'fɔːhænd","explians":["adj. 提前的；预先准备好的","adv. 事先；预先"]}
+},{"id":10748, "word":"cubicle", "translate":{"us-phonetic":"'kjubɪkl","uk-phonetic":"'kjuːbɪk(ə)l","explians":["n. 小卧室；小隔间"]}
+},{"id":10749, "word":"proportional", "translate":{"us-phonetic":"prə'pɔrʃənl","uk-phonetic":"prə'pɔːʃ(ə)n(ə)l","explians":["n. [数] 比例项","adj. 比例的，成比例的；相称的，均衡的"]}
+},{"id":10750, "word":"preserve", "translate":{"us-phonetic":"prɪ'zɝv","uk-phonetic":"prɪ'zɜːv","explians":["n. 保护区；禁猎地；加工成的食品","vt. 保存；保护；维持；腌；禁猎"]}
+},{"id":10751, "word":"dart", "translate":{"us-phonetic":"dɑrt","uk-phonetic":"dɑːt","explians":["vt. 投掷，投射；使迅速突然移动","vi. 向前冲，飞奔","n. 飞镖，标枪；急驰，飞奔；（虫的）螯；飞快的移动","n. (Dart)人名；(英、芬)达特；(法)达尔"]}
+},{"id":10752, "word":"remorse", "translate":{"us-phonetic":"rɪ'mɔrs","uk-phonetic":"rɪ'mɔːs","explians":["n. 懊悔；同情"]}
+},{"id":10753, "word":"wring", "translate":{"us-phonetic":"rɪŋ","uk-phonetic":"rɪŋ","explians":["vt. 拧；绞；紧握；使痛苦；折磨","vi. 蠕动；扭动；感到痛苦；感到苦恼","n. 拧；绞；挤；扭动"]}
+},{"id":10754, "word":"yen", "translate":{"us-phonetic":"jɛn","uk-phonetic":"jen","explians":["n. 日元（日本货币单位）；渴望","vi. 渴望","n. (Yen)人名；(土、柬)延"]}
+},{"id":10755, "word":"margarine", "translate":{"us-phonetic":"'mɑrdʒərən","uk-phonetic":",mɑːdʒə'riːn; 'mɑːgəriːn","explians":["n. 人造黄油；人造奶油"]}
+},{"id":10756, "word":"lookout", "translate":{"us-phonetic":"'lʊk'aʊt","uk-phonetic":"'lʊkaʊt","explians":["n. 监视；监视哨；警戒；守望者；担心的事；前景"]}
+},{"id":10757, "word":"pew", "translate":{"us-phonetic":"pju","uk-phonetic":"pjuː","explians":["n. 座位；会众；教堂内的靠背长凳","n. (Pew)人名；(英)皮尤","vt. 排座位"]}
+},{"id":10758, "word":"neural", "translate":{"us-phonetic":"'nʊrəl","uk-phonetic":"'njʊər(ə)l","explians":["n. (Neural)人名；(捷)诺伊拉尔","adj. 神经的；神经系统的；背的；神经中枢的"]}
+},{"id":10759, "word":"Austrian", "translate":{"us-phonetic":"'ɔstriən","uk-phonetic":"'ɔstriən","explians":["n. 奥地利人","adj. 奥地利的；奥地利人的"]}
+},{"id":10760, "word":"sewing", "translate":{"us-phonetic":"'soɪŋ","uk-phonetic":"'səʊɪŋ","explians":["n. 缝纫；缝纫业","v. 缝（sew的ing形式）","n. (Sewing)人名；(德)泽温；(英)索英"]}
+},{"id":10761, "word":"junior", "translate":{"us-phonetic":"'dʒunɪɚ","uk-phonetic":"'dʒuːnɪə","explians":["n. 年少者，晚辈；地位较低者；大学三年级学生","adj. 年少的；后进的；下级的","n. (Junior)人名；(英)朱尼尔；(德)尤尼奥尔"]}
+},{"id":10762, "word":"pedestal", "translate":{"us-phonetic":"'pɛdɪstl","uk-phonetic":"'pedɪst(ə)l","explians":["n. 基架，基座；基础","vt. 搁在台上；支持；加座"]}
+},{"id":10763, "word":"batting", "translate":{"us-phonetic":"'bætɪŋ","uk-phonetic":"'bætɪŋ","explians":["n. 打击；打球；棉絮","v. 击球；打击（bat的ing形式）","n. (Batting)人名；(英)巴廷"]}
+},{"id":10764, "word":"tedious", "translate":{"us-phonetic":"'tidɪəs","uk-phonetic":"'tiːdɪəs","explians":["adj. 沉闷的；冗长乏味的"]}
+},{"id":10765, "word":"cot", "translate":{"us-phonetic":"kɑt","uk-phonetic":"kɒt","explians":["n. 简易床；小屋；轻便小床","n. (Cot)人名；(法)科特"]}
+},{"id":10766, "word":"nostalgic", "translate":{"us-phonetic":"nɒ'stældʒɪk","uk-phonetic":"nɒ'stældʒɪk","explians":["adj. 怀旧的；乡愁的"]}
+},{"id":10767, "word":"dignified", "translate":{"us-phonetic":"'dɪɡnɪfaɪd","uk-phonetic":"'dɪgnɪfaɪd","explians":["adj. 庄严的；有尊严的；高贵的","v. 使高贵（dignify的过去式）"]}
+},{"id":10768, "word":"relentlessly", "translate":{"us-phonetic":"rɪ'lɛntlɪslɪ","uk-phonetic":"ri'lentlisli","explians":["adv. 残酷地，无情地"]}
+},{"id":10769, "word":"folded", "translate":{"us-phonetic":"fold","uk-phonetic":"'fəuldid","explians":["adj. 折叠的；褶曲的","v. 折叠；交叉合拢；失败垮台；把牲畜关在栏中（fold的过去分词）"]}
+},{"id":10770, "word":"scroll", "translate":{"us-phonetic":"skrol","uk-phonetic":"skrəʊl","explians":["n. 卷轴，画卷；名册；卷形物","vi. 成卷形","vt. 使成卷形"]}
+},{"id":10771, "word":"scripture", "translate":{"us-phonetic":"'skrɪptʃɚ","uk-phonetic":"'skrɪptʃə","explians":["n. （大写）圣经；手稿；（大写）圣经的一句","n. (Scripture)人名；(英)斯克里普丘"]}
+},{"id":10772, "word":"makeover", "translate":{"us-phonetic":"'mekovɚ","uk-phonetic":"'meɪkəʊvə(r)","explians":["n. 化妆美容；大转变"]}
+},{"id":10773, "word":"humanities", "translate":{"us-phonetic":"hjʊ'mænətɪz","uk-phonetic":"hju:'mænitiz","explians":["n. 人文学科（humanity的复数 ）"]}
+},{"id":10774, "word":"omission", "translate":{"us-phonetic":"ə'mɪʃən","uk-phonetic":"ə(ʊ)'mɪʃ(ə)n","explians":["n. 疏忽，遗漏；省略；冗长"]}
+},{"id":10775, "word":"turbulence", "translate":{"us-phonetic":"'tɝbjələns","uk-phonetic":"'tɜːbjʊl(ə)ns","explians":["n. 骚乱，动荡；[流] 湍流；狂暴"]}
+},{"id":10776, "word":"reptile", "translate":{"us-phonetic":"'rɛptaɪl","uk-phonetic":"'reptaɪl","explians":["n. 爬行动物；卑鄙的人","adj. 爬虫类的；卑鄙的"]}
+},{"id":10777, "word":"emeritus", "translate":{"us-phonetic":"i'meritəs","uk-phonetic":"ɪ'merɪtəs; iː-","explians":["adj. 退休的；名誉退休的"]}
+},{"id":10778, "word":"collective", "translate":{"us-phonetic":"kə'lɛktɪv","uk-phonetic":"kə'lektɪv","explians":["n. 集团；集合体；集合名词","adj. 集体的；共同的；集合的；集体主义的"]}
+},{"id":10779, "word":"confound", "translate":{"us-phonetic":"kən'faʊnd","uk-phonetic":"kən'faʊnd","explians":["vt. 使混淆；挫败；讨厌；使混乱"]}
+},{"id":10780, "word":"parody", "translate":{"us-phonetic":"'pærədi","uk-phonetic":"'pærədɪ","explians":["n. 拙劣的模仿；诙谐的改编诗文","vt. 拙劣模仿"]}
+},{"id":10781, "word":"nation-state", "translate":{"us-phonetic":",neiʃən'steit","uk-phonetic":",neiʃən'steit","explians":["n. 单一民族国家"]}
+},{"id":10782, "word":"alternatively", "translate":{"us-phonetic":"ɔl'tɝnətɪvli","uk-phonetic":"ɔːl'tɜːnətɪvlɪ","explians":["adv. 非此即彼；二者择一地；作为一种选择"]}
+},{"id":10783, "word":"holding", "translate":{"us-phonetic":"'holdɪŋ","uk-phonetic":"'həʊldɪŋ","explians":["n. 举办；支持","v. 召开；担任（hold的ing形式）；握住","n. (Holding)人名；(英)霍尔丁"]}
+},{"id":10784, "word":"mathematician", "translate":{"us-phonetic":",mæθəmə'tɪʃən","uk-phonetic":"mæθəmə'tɪʃn","explians":["n. 数学家","善作数字计算的人"]}
+},{"id":10785, "word":"rebate", "translate":{"us-phonetic":"'ribet","uk-phonetic":"'riːbeɪt","explians":["n. 折扣","vt. 减少；打折扣","vi. 退还部分付款，打折扣","n. (Rebate)人名；(西)雷瓦特"]}
+},{"id":10786, "word":"parade", "translate":{"us-phonetic":"pə'red","uk-phonetic":"pə'reɪd","explians":["n. 游行；阅兵；炫耀；行进；阅兵场","vt. 游行；炫耀；列队行进","vi. 游行；炫耀；列队行进","n. (Parade)人名；(法、德)帕拉德"]}
+},{"id":10787, "word":"Ethiopian", "translate":{"us-phonetic":",i:θi'əupiən","uk-phonetic":",i:θi'əupiən","explians":["n. 埃塞俄比亚人；黑人","adj. 埃塞俄比亚的；黑人的"]}
+},{"id":10788, "word":"fleeting", "translate":{"us-phonetic":"'flitɪŋ","uk-phonetic":"'fliːtɪŋ","explians":["adj. 飞逝的；转瞬间的","v. 迅速移动（fleet的ing形式）"]}
+},{"id":10789, "word":"annoyance", "translate":{"us-phonetic":"ə'nɔɪəns","uk-phonetic":"ə'nɒɪəns","explians":["n. 烦恼；可厌之事；打扰"]}
+},{"id":10790, "word":"diarrhea", "translate":{"us-phonetic":",daɪə'riə","uk-phonetic":",daɪə'riə","explians":["n. 腹泻，痢疾"]}
+},{"id":10791, "word":"paranoia", "translate":{"us-phonetic":",pærə'nɔɪə","uk-phonetic":",pærə'nɒɪə","explians":["n. [心理] 偏执狂，[内科] 妄想狂"]}
+},{"id":10792, "word":"cadre", "translate":{"us-phonetic":"'kædri","uk-phonetic":"'kɑːdə; 'kɑːdr(ə); 'kædrɪ","explians":["n. 干部；基础结构；骨骼"]}
+},{"id":10793, "word":"abdominal", "translate":{"us-phonetic":"æb'dɑmənl","uk-phonetic":"æb'dɒmɪn(ə)l","explians":["adj. 腹部的；有腹鳍的"]}
+},{"id":10794, "word":"differentiation", "translate":{"us-phonetic":",dɪfə,rɛnʃi'eʃən","uk-phonetic":",dɪfərenʃɪ'eɪʃn","explians":["n. 变异，[生物] 分化；区别"]}
+},{"id":10795, "word":"insecure", "translate":{"us-phonetic":",ɪnsɪ'kjʊr","uk-phonetic":"ˌɪnsɪˈkjʊə(r)","explians":["adj. 不安全的；不稳定的；不牢靠的"]}
+},{"id":10796, "word":"biographer", "translate":{"us-phonetic":"baɪˈɑːɡrəfər","uk-phonetic":"baɪˈɒɡrəfə(r)","explians":["n. 传记作者"]}
+},{"id":10797, "word":"surplus", "translate":{"us-phonetic":"'sɝpləs","uk-phonetic":"'sɜːpləs","explians":["n. 剩余；[贸易] 顺差；盈余；过剩","adj. 剩余的；过剩的"]}
+},{"id":10798, "word":"relocation", "translate":{"us-phonetic":"rilo'keʃən","uk-phonetic":",riːləʊ'keɪʃən","explians":["n. 重新安置；再布置，变换布置"]}
+},{"id":10799, "word":"halfway", "translate":{"us-phonetic":",hæf'we","uk-phonetic":"hɑːf'weɪ; 'hɑːfweɪ","explians":["adj. 中途的；不彻底的","adv. 到一半；在中途"]}
+},{"id":10800, "word":"modern-day", "translate":{"us-phonetic":"'mɔdən'dei","uk-phonetic":"'mɔdən'dei","explians":["adj. 当代的；今日的"]}
+},{"id":10801, "word":"spew", "translate":{"us-phonetic":"spju","uk-phonetic":"spjuː","explians":["vt. 喷出；呕吐","vi. 喷涌；呕吐"]}
+},{"id":10802, "word":"born", "translate":{"us-phonetic":"bɔrn","uk-phonetic":"bɔːn","explians":["v. 出世（bear的过去分词）","adj. 天生的","n. (Born)人名；(柬)邦；(英、西、俄、捷、德、瑞典、匈)博恩"]}
+},{"id":10803, "word":"majestic", "translate":{"us-phonetic":"mə'dʒɛstɪk","uk-phonetic":"mə'dʒestɪk","explians":["adj. 庄严的；宏伟的"]}
+},{"id":10804, "word":"cleanse", "translate":{"us-phonetic":"klɛnz","uk-phonetic":"klenz","explians":["vt. 净化；使…纯净；使…清洁"]}
+},{"id":10805, "word":"surreal", "translate":{"us-phonetic":"səˈriəl","uk-phonetic":"sə'rɪəl","explians":["adj. 超现实主义的；离奇的；不真实的"]}
+},{"id":10806, "word":"identifiable", "translate":{"us-phonetic":"aɪ,dɛntɪ'faɪəbl","uk-phonetic":"aɪdentɪ'fæɪəb(ə)l","explians":["adj. 可辨认的；可认明的；可证明是同一的"]}
+},{"id":10807, "word":"blue-collar", "translate":{"us-phonetic":"'blu:,kɔlə","uk-phonetic":"'blu:,kɔlə","explians":["adj. 蓝领阶级的，体力劳动者的"]}
+},{"id":10808, "word":"adopted", "translate":{"us-phonetic":"ə'dɑptɪd","uk-phonetic":"ə'dɒptɪd","explians":["v. 采用；接受（adopt的过去式和过去分词）","adj. 被收养的；被采用的"]}
+},{"id":10809, "word":"individualism", "translate":{"us-phonetic":",ɪndɪ'vɪdʒuəlɪzəm","uk-phonetic":"ɪndɪ'vɪdjʊ(ə)lɪz(ə)m","explians":["n. 个人主义；利己主义；个人特征"]}
+},{"id":10810, "word":"amnesty", "translate":{"us-phonetic":"'æmnəsti","uk-phonetic":"'æmnɪstɪ","explians":["n. 大赦，特赦","vt. 对…实行大赦"]}
+},{"id":10811, "word":"disgusted", "translate":{"us-phonetic":"dɪs'ɡʌstɪd","uk-phonetic":"dɪs'ɡʌstɪd","explians":["adj. 厌恶的；厌烦的","v. 使恶心；使讨厌（disgust的过去分词）"]}
+},{"id":10812, "word":"delineate", "translate":{"us-phonetic":"dɪ'lɪnɪet","uk-phonetic":"dɪ'lɪnɪeɪt","explians":["vt. 描绘；描写；画…的轮廓"]}
+},{"id":10813, "word":"commend", "translate":{"us-phonetic":"kə'mɛnd","uk-phonetic":"kə'mend","explians":["vt. 推荐；称赞；把…委托","vi. 称赞；表扬"]}
+},{"id":10814, "word":"rink", "translate":{"us-phonetic":"rɪŋk","uk-phonetic":"rɪŋk","explians":["n. 溜冰场，室内溜冰场；冰球场","vi. 溜冰","n. (Rink)人名；(德)林克"]}
+},{"id":10815, "word":"confiscate", "translate":{"us-phonetic":"'kɑnfɪsket","uk-phonetic":"'kɒnfɪskeɪt","explians":["vt. 没收；充公；查抄","adj. 被没收的"]}
+},{"id":10816, "word":"neuron", "translate":{"us-phonetic":"'nʊrɑn","uk-phonetic":"'njʊərɒn","explians":["n. [解剖] 神经元，神经单位"]}
+},{"id":10817, "word":"rafter", "translate":{"us-phonetic":"'ræftɚ","uk-phonetic":"'rɑːftə","explians":["n. 椽；筏夫（等于raftsman）","vt. 装椽于"]}
+},{"id":10818, "word":"compact", "translate":{"us-phonetic":"'kɑmpækt","uk-phonetic":"kəm'pækt","explians":["n. 合同，契约；小粉盒","adj. 紧凑的，紧密的；简洁的","vt. 使简洁；使紧密结合"]}
+},{"id":10819, "word":"paradoxically", "translate":{"us-phonetic":",pærə'dɔksikəli","uk-phonetic":",pærə'dɔksikəli","explians":["adv. 自相矛盾地；似非而是地；反常地"]}
+},{"id":10820, "word":"deli", "translate":{"us-phonetic":"'deli","uk-phonetic":"'delɪ","explians":["n. 熟食店；[食品] 熟食品（等于delicatessen）","n. (Deli)人名；(法、意、罗、塞、匈、瑞典)德利"]}
+},{"id":10821, "word":"resilience", "translate":{"us-phonetic":"rɪˈzɪliəns","uk-phonetic":"rɪ'zɪlɪəns","explians":["n. 恢复力；弹力；顺应力"]}
+},{"id":10822, "word":"encircle", "translate":{"us-phonetic":"ɪn'sɝkl","uk-phonetic":"ɪn'sɜːk(ə)l; en-","explians":["vt. 包围；围绕；环绕"]}
+},{"id":10823, "word":"eclipse", "translate":{"us-phonetic":"ɪ'klɪps","uk-phonetic":"ɪ'klɪps","explians":["n. 日蚀，月蚀；黯然失色","vt. 使黯然失色；形成蚀"]}
+},{"id":10824, "word":"generously", "translate":{"us-phonetic":"'dʒenərəsli","uk-phonetic":"'dʒenərəsli","explians":["adv. 慷慨地；宽大地；丰盛地"]}
+},{"id":10825, "word":"hydraulic", "translate":{"us-phonetic":"haɪ'drɔlɪk","uk-phonetic":"haɪ'drɔːlɪk; haɪ'drɒlɪk","explians":["adj. 液压的；水力的；水力学的"]}
+},{"id":10826, "word":"coroner", "translate":{"us-phonetic":"'kɔrənɚ","uk-phonetic":"'kɒr(ə)nə","explians":["n. 验尸官","n. (Coroner)人名；(法)科罗内"]}
+},{"id":10827, "word":"finger", "translate":{"us-phonetic":"'fɪŋɡɚ","uk-phonetic":"'fɪŋgə","explians":["n. 手指；指针，指状物","vt. 伸出；用手指拨弄","vi. 用指触摸；拨弄","n. (Finger)人名；(英、德、捷)芬格；(俄)芬格尔"]}
+},{"id":10828, "word":"measured", "translate":{"us-phonetic":"'mɛʒɚd","uk-phonetic":"'meʒəd","explians":["v. 测量，判断（measure的过去分词）","adj. 量过的；慎重的；基于标准的；有规则的"]}
+},{"id":10829, "word":"boldly", "translate":{"us-phonetic":"'bəuldli","uk-phonetic":"'bəuldli","explians":["adv. 大胆地；冒失地；显眼地"]}
+},{"id":10830, "word":"lotion", "translate":{"us-phonetic":"'loʃən","uk-phonetic":"'ləʊʃ(ə)n","explians":["n. 洗液；洗涤剂"]}
+},{"id":10831, "word":"delicately", "translate":{"explians":["adv. 微妙地；精致地；优美地"]}
+},{"id":10832, "word":"impediment", "translate":{"us-phonetic":"ɪm'pɛdɪmənt","uk-phonetic":"ɪm'pedɪm(ə)nt","explians":["n. 口吃；妨碍；阻止"]}
+},{"id":10833, "word":"burglary", "translate":{"us-phonetic":"'bɝɡləri","uk-phonetic":"'bɜːglərɪ","explians":["n. 盗窃，夜盗；盗窃行为","v. 入室行窃"]}
+},{"id":10834, "word":"dynasty", "translate":{"us-phonetic":"'daɪnəsti","uk-phonetic":"'dɪnəstɪ","explians":["n. 王朝，朝代"]}
+},{"id":10835, "word":"rediscover", "translate":{"us-phonetic":",ridɪ'skʌvɚ","uk-phonetic":"riːdɪ'skʌvə","explians":["vt. 重新发现；再发现"]}
+},{"id":10836, "word":"watery", "translate":{"us-phonetic":"'wɑtəri","uk-phonetic":"'wɔːt(ə)rɪ","explians":["adj. 水的；淡的；湿的；松软的；有雨意的"]}
+},{"id":10837, "word":"disco", "translate":{"us-phonetic":"'dɪsko","uk-phonetic":"'dɪskəʊ","explians":["n. 迪斯科舞厅；的士高","n. (Disco)人名；(意)迪斯科"]}
+},{"id":10838, "word":"downsize", "translate":{"us-phonetic":"'daʊnsaɪz","uk-phonetic":"'daʊnsaɪz","explians":["vt. 以较小尺寸设计；缩小尺寸；裁减人数"]}
+},{"id":10839, "word":"heap", "translate":{"us-phonetic":"hip","uk-phonetic":"hiːp","explians":["n. 堆；许多；累积","vt. 堆；堆积","vi. 堆起来","n. (Heap)人名；(芬)海亚普；(东南亚国家华语)协；(英)希普"]}
+},{"id":10840, "word":"buttocks", "translate":{"us-phonetic":"bʌtəks","uk-phonetic":"bʌtəks","explians":["n. 臀部；纵剖线（buttock的复数）","v. 用过背摔摔出对手（buttock的第三人称单数）"]}
+},{"id":10841, "word":"forcefully", "translate":{"us-phonetic":"'fɔ:sfəli","uk-phonetic":"'fɔ:sfəli","explians":["adv. 强有力地；激烈地；有说服力地"]}
+},{"id":10842, "word":"bewildered", "translate":{"us-phonetic":"bi'wildəd","uk-phonetic":"bɪ'wɪldəd","explians":["v. 使困惑（bewilder的过去分词）","adj. 困惑的；眩"]}
+},{"id":10843, "word":"resurrect", "translate":{"us-phonetic":",rezə'rekt","uk-phonetic":"rezə'rekt","explians":["vt. 使复活；复兴；挖出","vi. 复活"]}
+},{"id":10844, "word":"following", "translate":{"us-phonetic":"'fɑloɪŋ","uk-phonetic":"'fɒləʊɪŋ","explians":["n. 下列事物；一批追随者","v. 跟随；沿行（follow的ing形式）","adj. 下面的；其次的，接着的"]}
+},{"id":10845, "word":"thee", "translate":{"us-phonetic":"ði","uk-phonetic":"ðiː","explians":["pron. 你（古英语thou的宾格）","n. (Thee)人名；(德)特厄"]}
+},{"id":10846, "word":"electromagnetic", "translate":{"us-phonetic":"ɪ,lɛktromæɡ'nɛtɪk","uk-phonetic":"ɪ,lektrə(ʊ)mæg'netɪk","explians":["adj. 电磁的"]}
+},{"id":10847, "word":"foreclosure", "translate":{"us-phonetic":"fɔr'kloʒɚ","uk-phonetic":"fɔː'kləʊʒə","explians":["n. 丧失抵押品赎回权"]}
+},{"id":10848, "word":"iron", "translate":{"us-phonetic":"'aɪɚn","uk-phonetic":"'aɪən","explians":["n. 熨斗；烙铁；坚强","adj. 铁的；残酷的；刚强的","vt. 熨；用铁铸成","vi. 熨衣；烫平","n. (Iron)人名；(英)艾恩"]}
+},{"id":10849, "word":"preferable", "translate":{"us-phonetic":"'prɛfrəbl","uk-phonetic":"'pref(ə)rəb(ə)l","explians":["adj. 更好的，更可取的；更合意的"]}
+},{"id":10850, "word":"backfire", "translate":{"us-phonetic":"'bæk'faɪr","uk-phonetic":"bæk'faɪə","explians":["n. 逆火，回火","vi. 放出逆火；预先放火；产生出乎意料及事与愿违的结果"]}
+},{"id":10851, "word":"anti-semitism", "translate":{"us-phonetic":",ænti'semitizəm","uk-phonetic":",ænti'semitizəm","explians":["n. 反犹太主义"]}
+},{"id":10852, "word":"individuality", "translate":{"us-phonetic":",ɪndɪ,vɪdʒu'æləti","uk-phonetic":",ɪndɪvɪdjʊ'ælɪtɪ","explians":["n. 个性；个人；个人特征；个人的嗜好（通常复数）"]}
+},{"id":10853, "word":"captivity", "translate":{"us-phonetic":"kæp'tɪvəti","uk-phonetic":"kæp'tɪvɪtɪ","explians":["n. 囚禁；被关"]}
+},{"id":10854, "word":"defeated", "translate":{"Pinyin":"dɪ'fiːtɪd","explians":["v. 被击败，失败（defeat的过去式）","adj. 挨打的，被打败的"]}
+},{"id":10855, "word":"flourish", "translate":{"us-phonetic":"ˈflɜːrɪʃ","uk-phonetic":"'flʌrɪʃ","explians":["n. 兴旺；茂盛；挥舞；炫耀；华饰","vi. 繁荣，兴旺；茂盛；活跃；处于旺盛时期","vt. 夸耀；挥舞"]}
+},{"id":10856, "word":"reassurance", "translate":{"us-phonetic":",riə'ʃʊrəns","uk-phonetic":"riːə'ʃʊərəns","explians":["n. 使安心，再保证"]}
+},{"id":10857, "word":"downright", "translate":{"us-phonetic":"'daʊnraɪt","uk-phonetic":"'daʊnraɪt","explians":["adj. 明白的；直率的；显明的","adv. 完全，彻底；全然"]}
+},{"id":10858, "word":"derail", "translate":{"us-phonetic":"dɪ'rel","uk-phonetic":"dɪ'reɪl","explians":["n. 脱轨；[铁路] 脱轨器","vt. 使出轨","vi. 出轨"]}
+},{"id":10859, "word":"steward", "translate":{"us-phonetic":"'stuɚd","uk-phonetic":"'stjuːəd","explians":["n. 管家；乘务员；膳务员；工会管事","vi. 当服务员；当管事","vt. 管理","n. (Steward)人名；(英)斯图尔德"]}
+},{"id":10860, "word":"revitalize", "translate":{"us-phonetic":",ri'vaɪtəlaɪz","uk-phonetic":",ri:'vaitəlaiz","explians":["vt. 使…复活；使…复兴；使…恢复生气"]}
+},{"id":10861, "word":"bumper", "translate":{"us-phonetic":"'bʌmpɚ","uk-phonetic":"'bʌmpə","explians":["n. 缓冲器，保险杆，减震物","adj. 丰盛的，丰富的","vt. 装满；为…祝酒","vi. 干杯"]}
+},{"id":10862, "word":"remake", "translate":{"us-phonetic":"'rimek","uk-phonetic":"riː'meɪk","explians":["vt. 再制","n. 重做；重制物"]}
+},{"id":10863, "word":"manageable", "translate":{"us-phonetic":"'mænɪdʒəbl","uk-phonetic":"'mænɪdʒəb(ə)l","explians":["adj. 易管理的；易控制的；易办的"]}
+},{"id":10864, "word":"reciprocal", "translate":{"us-phonetic":"rɪ'sɪprəkl","uk-phonetic":"rɪ'sɪprək(ə)l","explians":["n. [数] 倒数；互相起作用的事物","adj. 互惠的；相互的；倒数的，彼此相反的"]}
+},{"id":10865, "word":"tentatively", "translate":{"us-phonetic":"'tɛntətɪvli","uk-phonetic":"'tentətivli","explians":["adv. 暂时地；试验性地"]}
+},{"id":10866, "word":"kayak", "translate":{"us-phonetic":"'kaɪæk","uk-phonetic":"'kaɪæk","explians":["n. 皮船；爱斯基摩小艇"]}
+},{"id":10867, "word":"cover-up", "translate":{"us-phonetic":"'kʌvə,ʌp","uk-phonetic":"'kʌvə,ʌp","explians":["n. 掩饰；隐蔽"]}
+},{"id":10868, "word":"storefront", "translate":{"us-phonetic":"'stɔr'frʌnt","uk-phonetic":"'stɔːfrʌnt","explians":["n. [贸易] 店面；店头"]}
+},{"id":10869, "word":"guise", "translate":{"us-phonetic":"ɡaɪz","uk-phonetic":"gaɪz","explians":["n. 伪装；装束；外观","vt. 使化装","vi. 伪装","n. (Guise)人名；(葡)吉塞；(英、法)吉斯"]}
+},{"id":10870, "word":"pastel", "translate":{"us-phonetic":"pæ'stɛl","uk-phonetic":"'pæst(ə)l","explians":["n. 粉蜡笔；粉蜡笔画","n. (Pastel)人名；(法)帕斯泰尔","adj. 柔和的；彩色蜡笔的，粉蜡笔的"]}
+},{"id":10871, "word":"viral", "translate":{"us-phonetic":"'vaɪrəl","uk-phonetic":"'vaɪr(ə)l","explians":["adj. 病毒性的"]}
+},{"id":10872, "word":"bipolar", "translate":{"us-phonetic":",baɪ'polɚ","uk-phonetic":"baɪ'pəʊlə","explians":["adj. 有两极的，双极的"]}
+},{"id":10873, "word":"anxiously", "translate":{"us-phonetic":"'æŋkʃəsli","uk-phonetic":"'æŋkʃəsli","explians":["adv. 不安地，忧虑地"]}
+},{"id":10874, "word":"brake", "translate":{"us-phonetic":"brek","uk-phonetic":"breɪk","explians":["n. 闸，刹车；阻碍","vt. 刹车","vi. 刹车","n. (Brake)人名；(英)布雷克；(德)布拉克"]}
+},{"id":10875, "word":"menopause", "translate":{"us-phonetic":"'mɛnə'pɔz","uk-phonetic":"'menəpɔːz","explians":["n. 更年期；活动终止期"]}
+},{"id":10876, "word":"patch", "translate":{"us-phonetic":"pætʃ","uk-phonetic":"pætʃ","explians":["n. 眼罩；斑点；碎片；小块土地","vi. 打补丁","vt. 修补；解决；掩饰","n. (Patch)人名；(英)帕奇"]}
+},{"id":10877, "word":"electrode", "translate":{"us-phonetic":"ɪ'lɛktrod","uk-phonetic":"ɪ'lektrəʊd","explians":["n. [电] 电极；电焊条"]}
+},{"id":10878, "word":"sparkle", "translate":{"us-phonetic":"'spɑrkl","uk-phonetic":"'spɑːk(ə)l","explians":["n. 闪耀；火花；活力","vt. 使闪耀；使发光","vi. 闪耀；发泡；活跃"]}
+},{"id":10879, "word":"stylistic", "translate":{"us-phonetic":"staɪ'lɪstɪk","uk-phonetic":"staɪ'lɪstɪk","explians":["adj. 体裁上的；格式上的；文体论的"]}
+},{"id":10880, "word":"disciplined", "translate":{"us-phonetic":"'dɪsəplɪnd","uk-phonetic":"'dɪsɪplɪnd","explians":["adj. 遵守纪律的；受过训练的","v. 使有纪律（discipline的过去分词）；训导"]}
+},{"id":10881, "word":"ornate", "translate":{"us-phonetic":"ɔr'net","uk-phonetic":"ɔː'neɪt","explians":["adj. 华丽的；装饰的；（文体）绚丽的"]}
+},{"id":10882, "word":"slap", "translate":{"us-phonetic":"slæp","uk-phonetic":"slæp","explians":["n. 掴；侮辱；掌击；拍打声","vt. 拍击；侮辱；掌击；掴…的耳光","vi. 掴；拍击","adv. 直接地；猛然地；恰好"]}
+},{"id":10883, "word":"refinement", "translate":{"us-phonetic":"rɪ'faɪnmənt","uk-phonetic":"rɪ'faɪnm(ə)nt","explians":["n. 精制；文雅；[化工][油气][冶] 提纯"]}
+},{"id":10884, "word":"neurological", "translate":{"us-phonetic":",nʊrə'lɑdʒɪkl","uk-phonetic":",njʊərə'lɒdʒɪkl","explians":["adj. 神经病学的，神经学上的"]}
+},{"id":10885, "word":"outpatient", "translate":{"us-phonetic":"'aʊt'peʃənt","uk-phonetic":"'aʊtpeɪʃ(ə)nt","explians":["n. 门诊病人"]}
+},{"id":10886, "word":"awkwardly", "translate":{"us-phonetic":"'ɔ:kwə:dli","uk-phonetic":"'ɔ:kwə:dli","explians":["adv. 笨拙地；无技巧地"]}
+},{"id":10887, "word":"edible", "translate":{"us-phonetic":"'ɛdəbl","uk-phonetic":"'edɪb(ə)l","explians":["n. 食品；食物","adj. 可食用的"]}
+},{"id":10888, "word":"thrilling", "translate":{"us-phonetic":"'θrɪlɪŋ","uk-phonetic":"'θrɪlɪŋ","explians":["adj. 毛骨悚然的；令人兴奋的；颤动的"]}
+},{"id":10889, "word":"neutralize", "translate":{"us-phonetic":"'nʊtrə'laɪz","uk-phonetic":"'nju:trəlaiz","explians":["vt. 抵销；使…中和；使…无效；使…中立","vi. 中和；中立化；变无效"]}
+},{"id":10890, "word":"chute", "translate":{"us-phonetic":"ʃut","uk-phonetic":"ʃuːt","explians":["n. 瀑布；斜槽；降落伞；陡坡道","n. (Chute)人名；(法)许特；(英、西)丘特"]}
+},{"id":10891, "word":"focused", "translate":{"us-phonetic":"'fokəst","uk-phonetic":"'fəʊkəst","explians":["v. [光][摄] 聚焦；注视（focus的过去分词）","adj. 聚焦的；专心的"]}
+},{"id":10892, "word":"skyscraper", "translate":{"us-phonetic":"'skaɪ'skrepɚ","uk-phonetic":"'skaɪskreɪpə","explians":["n. 摩天楼，超高层大楼；特别高的东西"]}
+},{"id":10893, "word":"thunderstorm", "translate":{"us-phonetic":"'θʌndɚstɔrm","uk-phonetic":"'θʌndəstɔːm","explians":["n. [气象] 雷暴；雷暴雨；大雷雨"]}
+},{"id":10894, "word":"booklet", "translate":{"us-phonetic":"'bʊklət","uk-phonetic":"'bʊklɪt","explians":["n. 小册子"]}
+},{"id":10895, "word":"inexperienced", "translate":{"us-phonetic":",ɪnɪk'spɪrɪənst","uk-phonetic":",inik'spiəriənst","explians":["adj. 无经验的；不熟练的"]}
+},{"id":10896, "word":"funky", "translate":{"us-phonetic":"fʌŋki","uk-phonetic":"'fʌŋkɪ","explians":["adj. 时髦的；畏缩的；恶臭的"]}
+},{"id":10897, "word":"hum", "translate":{"us-phonetic":"hʌm","uk-phonetic":"hʌm","explians":["n. 嗡嗡声；哼声；杂声","vt. 用哼声表示","int. 哼；嗯","vi. 发低哼声","n. (Hum)人名；(匈、塞、英)胡姆；(东南亚国家华语)湛"]}
+},{"id":10898, "word":"schoolteacher", "translate":{"us-phonetic":"'skultitʃɚ","uk-phonetic":"'skuːltiːtʃə","explians":["n. 教师"]}
+},{"id":10899, "word":"pronouncement", "translate":{"us-phonetic":"prə'naʊnsmənt","uk-phonetic":"prə'naʊnsm(ə)nt","explians":["n. 声明；宣告；公告；判决"]}
+},{"id":10900, "word":"miss", "translate":{"us-phonetic":"mɪs","uk-phonetic":"mɪs","explians":["n. 女士，小姐，年轻未婚女子","vt. 错过，想念，缺（勤）"]}
+},{"id":10901, "word":"Yugoslav", "translate":{"us-phonetic":"'ju:ɡəuslɑ:v","uk-phonetic":"'ju:ɡəuslɑ:v","explians":["n. 南斯拉夫人","adj. 南斯拉夫的；南斯拉夫人的"]}
+},{"id":10902, "word":"theorize", "translate":{"us-phonetic":"'θiəraɪz","uk-phonetic":"'θɪəraɪz","explians":["vt. 建立理论","vi. 建立理论或学说；推理"]}
+},{"id":10903, "word":"erratic", "translate":{"us-phonetic":"ɪ'rætɪk","uk-phonetic":"ɪ'rætɪk","explians":["n. 漂泊无定的人；古怪的人","adj. 不稳定的；古怪的"]}
+},{"id":10904, "word":"stronghold", "translate":{"us-phonetic":"'strɔŋhold","uk-phonetic":"'strɔŋhəuld, strɔ:ŋ-","explians":["n. 要塞；大本营；中心地"]}
+},{"id":10905, "word":"expend", "translate":{"us-phonetic":"ɪk'spɛnd","uk-phonetic":"ɪk'spend; ek-","explians":["vt. 花费；消耗；用光；耗尽"]}
+},{"id":10906, "word":"resilient", "translate":{"us-phonetic":"rɪ'zɪlɪənt","uk-phonetic":"rɪ'zɪlɪənt","explians":["adj. 弹回的，有弹力的","adj. 能复原的；有复原力的"]}
+},{"id":10907, "word":"special", "translate":{"us-phonetic":"ˈspɛʃəl","uk-phonetic":"'speʃ(ə)l","explians":["n. 特使，特派人员；特刊；特色菜；专车；特价商品","adj. 特别的；专门的，专用的"]}
+},{"id":10908, "word":"Mormon", "translate":{"us-phonetic":"'mɔ:mən","uk-phonetic":"'mɔ:mən","explians":["n. 摩门教徒；一夫多妻主义者","adj. 摩门教的；摩门教徒的"]}
+},{"id":10909, "word":"dispel", "translate":{"us-phonetic":"dɪ'spɛl","uk-phonetic":"dɪ'spel","explians":["vt. 驱散，驱逐；消除（烦恼等）"]}
+},{"id":10910, "word":"hilarious", "translate":{"us-phonetic":"hɪ'lɛrɪəs","uk-phonetic":"hɪ'leərɪəs","explians":["adj. 欢闹的；非常滑稽的；喜不自禁的"]}
+},{"id":10911, "word":"eggplant", "translate":{"us-phonetic":"'ɛɡplænt","uk-phonetic":"'egplɑːnt","explians":["n. 茄子","adj. 深紫色的"]}
+},{"id":10912, "word":"mother-in-law", "translate":{"us-phonetic":"'mʌðərinlɔ:","uk-phonetic":"'mʌðərinlɔ:","explians":["n. 岳母；婆母"]}
+},{"id":10913, "word":"redesign", "translate":{"us-phonetic":",ridɪ'zaɪn","uk-phonetic":"riːdɪ'zaɪn","explians":["n. 重新设计；新设计","vt. 重新设计"]}
+},{"id":10914, "word":"airy", "translate":{"us-phonetic":"'ɛri","uk-phonetic":"'eərɪ","explians":["n. (Airy)人名；(英)艾里","adj. 空气的；通风的；幻想的；轻快的；空中的"]}
+},{"id":10915, "word":"revere", "translate":{"us-phonetic":"rɪ'vɪr","uk-phonetic":"rɪ'vɪə","explians":["vt. 敬畏；尊敬；崇敬"]}
+},{"id":10916, "word":"small-town", "translate":{"us-phonetic":"'smɔ:l'taun","uk-phonetic":"'smɔ:l'taun","explians":["adj. 偏狭的；小都市的；土里土气的"]}
+},{"id":10917, "word":"wiggle", "translate":{"us-phonetic":"'wɪɡl","uk-phonetic":"'wɪg(ə)l","explians":["n. 扭动","vt. 使……摆动，使……扭动","vi. 摆动"]}
+},{"id":10918, "word":"taunt", "translate":{"us-phonetic":"tɔnt","uk-phonetic":"tɔːnt","explians":["n. 嘲弄；讥讽","adj. 很高的","vt. 奚落；逗弄"]}
+},{"id":10919, "word":"syringe", "translate":{"us-phonetic":"sɪ'rɪndʒ","uk-phonetic":"sɪ'rɪn(d)ʒ; 'sɪ-","explians":["n. 注射器；洗涤器","vt. 注射，冲洗"]}
+},{"id":10920, "word":"renounce", "translate":{"us-phonetic":"rɪ'naʊns","uk-phonetic":"rɪ'naʊns","explians":["n. 垫牌","vt. 宣布放弃；与…断绝关系；垫牌","vi. 放弃权利；垫牌"]}
+},{"id":10921, "word":"frown", "translate":{"us-phonetic":"fraʊn","uk-phonetic":"fraʊn","explians":["n. 皱眉，蹙额","vt. 皱眉，蹙额","vi. 皱眉；不同意"]}
+},{"id":10922, "word":"handshake", "translate":{"us-phonetic":"'hænd'ʃek","uk-phonetic":"'hæn(d)ʃeɪk","explians":["n. 握手"]}
+},{"id":10923, "word":"envelop", "translate":{"us-phonetic":"ɪn'vɛləp","uk-phonetic":"ɪn'veləp; en-","explians":["n. 信封；包裹","vt. 包围；包封；遮盖"]}
+},{"id":10924, "word":"pointer", "translate":{"us-phonetic":"'pɔɪntɚ","uk-phonetic":"'pɒɪntə","explians":["n. 指针；指示器；教鞭；暗示"]}
+},{"id":10925, "word":"emigrate", "translate":{"us-phonetic":"'ɛmɪɡret","uk-phonetic":"'emɪgreɪt","explians":["vi. 移居；移居外国","vt. 移民"]}
+},{"id":10926, "word":"distrust", "translate":{"us-phonetic":"dɪs'trʌst","uk-phonetic":"dɪs'trʌst","explians":["n. 不信任","vt. 不信任","怀疑"]}
+},{"id":10927, "word":"Shiite", "translate":{"us-phonetic":"'ʃi:ait","uk-phonetic":"'ʃi:ait","explians":["n. 什叶派教徒","adj. 什叶派的"]}
+},{"id":10928, "word":"arch", "translate":{"us-phonetic":"ɑrtʃ","uk-phonetic":"ɑːtʃ","explians":["n. 弓形，拱形；拱门","adj. 主要的","vt. 使…弯成弓形；用拱连接","vi. 拱起；成为弓形","n. (Arch)人名；(德)阿尔希；(英)阿奇"]}
+},{"id":10929, "word":"squeeze", "translate":{"us-phonetic":"skwiz","uk-phonetic":"skwiːz","explians":["n. 压榨；紧握；拥挤；佣金","vt. 挤；紧握；勒索","vi. 压榨"]}
+},{"id":10930, "word":"bundle", "translate":{"us-phonetic":"'bʌndl","uk-phonetic":"'bʌnd(ə)l","explians":["n. 束；捆","vt. 捆","vi. 匆忙离开"]}
+},{"id":10931, "word":"cardboard", "translate":{"us-phonetic":"'kɑrdbɔrd","uk-phonetic":"'kɑːdbɔːd","explians":["n. [纸] 硬纸板；纸板箱；卡纸板","adj. 不真实的；硬纸板制的"]}
+},{"id":10932, "word":"bribe", "translate":{"us-phonetic":"braɪb","uk-phonetic":"braɪb","explians":["n. 贿赂","vt. 贿赂，收买","vi. 行贿","n. (Bribe)人名；(西)布里韦"]}
+},{"id":10933, "word":"overstate", "translate":{"us-phonetic":",ovɚ'stet","uk-phonetic":"əʊvə'steɪt","explians":["vt. 夸张；夸大的叙述"]}
+},{"id":10934, "word":"investing", "translate":{"us-phonetic":"ɪn'vɛst","uk-phonetic":"investiŋ","explians":["n. [机] 熔模铸造","v. 投资；授与（invest的现在分词）"]}
+},{"id":10935, "word":"swath", "translate":{"us-phonetic":"sweð","uk-phonetic":"swɒθ","explians":["n. 细长的列；收割的刈痕；收割的宽度"]}
+},{"id":10936, "word":"whichever", "translate":{"us-phonetic":"wɪtʃ'ɛvɚ","uk-phonetic":"wɪtʃ'evə","explians":["adj. 无论哪个；无论哪些","pron. 任何一个；无论哪个"]}
+},{"id":10937, "word":"disapprove", "translate":{"us-phonetic":"'dɪsə'prʊv","uk-phonetic":"dɪsə'pruːv","explians":["vi. 不赞成；不喜欢","vt. 不赞成；不同意"]}
+},{"id":10938, "word":"kindly", "translate":{"us-phonetic":"'kaɪndli","uk-phonetic":"'kaɪndlɪ","explians":["adj. 亲切的；和蔼的；体贴的；爽快的","adv. 亲切地；温和地；仁慈地"]}
+},{"id":10939, "word":"tan", "translate":{"us-phonetic":"tæn","uk-phonetic":"tæn","explians":["vi. 晒成棕褐色","adj. 黄褐色的；鞣皮的","n. （日晒后皮肤的）黝黑色；棕褐色；鞣料；马戏团","vt. 鞣（革）；晒成褐色","","n. (Tan)人名；(俄、土、土库、吉尔)塔恩；(英)坦；(柬、老)丹"]}
+},{"id":10940, "word":"yawn", "translate":{"us-phonetic":"jɔn","uk-phonetic":"jɔːn","explians":["n. 哈欠；裂口","vt. 张开；打著哈欠说","vi. 打哈欠；裂开"]}
+},{"id":10941, "word":"lore", "translate":{"us-phonetic":"lɔr","uk-phonetic":"lɔː","explians":["n. 知识；学问；全部传说；（动物的）眼光知识","n. (Lore)人名；(意)洛雷；(英)洛尔"]}
+},{"id":10942, "word":"herd", "translate":{"us-phonetic":"hɝd","uk-phonetic":"hɜːd","explians":["n. 兽群，畜群；放牧人","vt. 放牧；使成群","vi. 成群，聚在一起","n. (Herd)人名；(英、芬)赫德"]}
+},{"id":10943, "word":"gray", "translate":{"us-phonetic":"ɡre","uk-phonetic":"greɪ","explians":["n. 灰色；暗淡的光线","adj. 灰色的；苍白的；灰白头发的；阴郁的","vt. 使成灰色或灰白","vi. 成为灰色或灰白","n. (Gray)人名；(意)格拉伊；(英、法、葡、瑞典)格雷"]}
+},{"id":10944, "word":"gag", "translate":{"us-phonetic":"gæg","uk-phonetic":"gæg","explians":["n. 塞口物；讨论终结；箝制言论","vt. 塞住…的口；钳制…的言论；使窒息","vi. 插科打诨；窒息；作呕","n. (Gag)人名；(英)加格"]}
+},{"id":10945, "word":"hearth", "translate":{"us-phonetic":"hɑrθ","uk-phonetic":"hɑːθ","explians":["n. 灶台；炉边；炉床；壁炉地面","n. (Hearth)人名；(英)哈思"]}
+},{"id":10946, "word":"emphatically", "translate":{"us-phonetic":"emˈfætɪkli","uk-phonetic":"ɪm'fætɪklɪ","explians":["adv. 着重地；强调地；断然地"]}
+},{"id":10947, "word":"closeness", "translate":{"us-phonetic":"'klosnɪs","uk-phonetic":"'kləusnis","explians":["n. 亲密；接近；密闭；严密"]}
+},{"id":10948, "word":"gal", "translate":{"us-phonetic":"ɡæl","uk-phonetic":"gæl","explians":["n. 加仑（重力加速度单位）；姑娘","n. (Gal)人名；(法、德、西、罗、塞、瑞典)加尔；(以、阿拉伯)贾勒；(英)盖尔"]}
+},{"id":10949, "word":"obstruct", "translate":{"us-phonetic":"əb'strʌkt","uk-phonetic":"əb'strʌkt","explians":["vt. 妨碍；阻塞；遮断","vi. 阻塞；设障碍"]}
+},{"id":10950, "word":"simplistic", "translate":{"us-phonetic":"sɪm'plɪstɪk","uk-phonetic":"sɪm'plɪstɪk","explians":["adj. 过分简单化的；过分单纯化的"]}
+},{"id":10951, "word":"improbable", "translate":{"us-phonetic":"ɪm'prɑbəbl","uk-phonetic":"ɪm'prɒbəb(ə)l","explians":["adj. 不大可能的，未必确实的；不可信的；未必会发生的"]}
+},{"id":10952, "word":"cringe", "translate":{"us-phonetic":"krɪndʒ","uk-phonetic":"krɪn(d)ʒ","explians":["n. 畏缩；奉承","vi. 畏缩；奉承；阿谀"]}
+},{"id":10953, "word":"climax", "translate":{"us-phonetic":"'klaɪmæks","uk-phonetic":"'klaɪmæks","explians":["n. 高潮；顶点；层进法；极点"]}
+},{"id":10954, "word":"trudge", "translate":{"us-phonetic":"trʌdʒ","uk-phonetic":"trʌdʒ","explians":["n. 长途跋涉；沉重的步伐","vt. 跋涉","vi. 跋涉；步履艰难地走"]}
+},{"id":10955, "word":"czar", "translate":{"us-phonetic":"zɑ:","uk-phonetic":"zɑː","explians":["n. （帝俄的）沙皇，皇帝；独裁者"]}
+},{"id":10956, "word":"breeder", "translate":{"us-phonetic":"'bridɚ","uk-phonetic":"'briːdə","explians":["n. 饲养员；繁殖者；起因；增殖反应堆"]}
+},{"id":10957, "word":"smuggler", "translate":{"us-phonetic":"'smʌglɚ","uk-phonetic":"'smʌg(ə)lə(r); 'smʌglə(r)","explians":["n. 走私者；走私犯；[法] 走私船"]}
+},{"id":10958, "word":"roadway", "translate":{"us-phonetic":"'rodwe","uk-phonetic":"'rəʊdweɪ","explians":["n. 道路；路面；车行道；铁路的路基","n. (Roadway)人名；(英)罗德韦"]}
+},{"id":10959, "word":"memorabilia", "translate":{"us-phonetic":",mɛmərə'bɪlɪə","uk-phonetic":",mem(ə)rə'bɪlɪə","explians":["n. 大事记；值得纪念的事物"]}
+},{"id":10960, "word":"faucet", "translate":{"us-phonetic":"'fɔsɪt","uk-phonetic":"'fɔːsɪt","explians":["n. 旋塞；插口. 水龙头","n. (Faucet)人名；(英)福西特"]}
+},{"id":10961, "word":"unearth", "translate":{"us-phonetic":"ʌn'ɝθ","uk-phonetic":"ʌn'ɜːθ","explians":["vt. 发掘；揭露，发现；从洞中赶出"]}
+},{"id":10962, "word":"plunge", "translate":{"us-phonetic":"plʌndʒ","uk-phonetic":"plʌn(d)ʒ","explians":["n. 投入；跳进","vt. 使陷入；使投入；使插入","vi. 突然地下降；投入；陷入；跳进"]}
+},{"id":10963, "word":"worthy", "translate":{"us-phonetic":"wɜði","uk-phonetic":"ˈwəːði","explians":["n. 杰出人物；知名人士","adj. 值得的；有价值的；配得上的，相称的；可尊敬的；应…的","n. (Worthy)人名；(英)沃西"]}
+},{"id":10964, "word":"proclamation", "translate":{"us-phonetic":",prɑklə'meʃən","uk-phonetic":"prɒklə'meɪʃn","explians":["n. 公告；宣布；宣告；公布"]}
+},{"id":10965, "word":"caliber", "translate":{"us-phonetic":"'kæləbɚ","uk-phonetic":"'kælibə","explians":["n. [军] 口径；才干；水准（等于calibre）；器量"]}
+},{"id":10966, "word":"victimize", "translate":{"us-phonetic":"'vɪktɪmaɪz","uk-phonetic":"'viktimaiz","explians":["vt. 使受害；使牺牲；欺骗"]}
+},{"id":10967, "word":"confinement", "translate":{"us-phonetic":"kən'faɪnmənt","uk-phonetic":"kən'faɪnmənt","explians":["n. 限制；监禁；分娩"]}
+},{"id":10968, "word":"shard", "translate":{"us-phonetic":"ʃɑrd","uk-phonetic":"ʃɑːd","explians":["n. （甲虫的）[昆] 鞘翅；陶瓷碎片","n. (Shard)人名；(印)沙尔德"]}
+},{"id":10969, "word":"sharing", "translate":{"us-phonetic":"'ʃɛrɪŋ","uk-phonetic":"'ʃɛəriŋ","explians":["n. 公用，共享","v. 分享；分担（share的ing形式）"]}
+},{"id":10970, "word":"glean", "translate":{"us-phonetic":"ɡlin","uk-phonetic":"gliːn","explians":["vt. 收集（资料）；拾（落穗）","vi. 收集；拾落穗"]}
+},{"id":10971, "word":"updated", "translate":{"us-phonetic":"ʌp'detɪd","uk-phonetic":"ʌp'deɪtɪd","explians":["v. 更新（update的过去式）","adj. 更新的；现代化的"]}
+},{"id":10972, "word":"humid", "translate":{"us-phonetic":"'hjumɪd","uk-phonetic":"'hjuːmɪd","explians":["adj. 潮湿的；湿润的；多湿气的"]}
+},{"id":10973, "word":"varsity", "translate":{"us-phonetic":"'vɑrsəti","uk-phonetic":"'vɑːsɪtɪ","explians":["n. 大学；大学运动代表队","adj. 大学代表队的"]}
+},{"id":10974, "word":"contributing", "translate":{"explians":["v. 捐献（contribute的ing形式）","adj. 贡献的；起作用的"]}
+},{"id":10975, "word":"humiliating", "translate":{"us-phonetic":"hju:'milieitiŋ","uk-phonetic":"hjʊ'mɪlɪeɪtɪŋ","explians":["adj. 丢脸的；羞辱性的","v. 使蒙耻（humiliate的ing形式）"]}
+},{"id":10976, "word":"choral", "translate":{"us-phonetic":"'kɔrəl","uk-phonetic":"'kɔːr(ə)l","explians":["n. 赞美诗；唱诗班","adj. 合唱的；合唱队的"]}
+},{"id":10977, "word":"testament", "translate":{"us-phonetic":"'tɛstəmənt","uk-phonetic":"'testəm(ə)nt","explians":["n. [法] 遗嘱；圣约；确实的证明"]}
+},{"id":10978, "word":"anthropological", "translate":{"us-phonetic":",ænθrəpə'lɑdʒɪkl","uk-phonetic":",ænθrəpə'lɒdʒɪkəl","explians":["adj. 人类学的；人类学上的"]}
+},{"id":10979, "word":"induction", "translate":{"us-phonetic":"ɪn'dʌkʃən","uk-phonetic":"ɪn'dʌkʃ(ə)n","explians":["n. [电磁] 感应；归纳法；感应现象；入门培训，入职仪式，就职；诱导"]}
+},{"id":10980, "word":"ambivalent", "translate":{"us-phonetic":"æm'bɪvələnt","uk-phonetic":"æm'bɪv(ə)l(ə)nt","explians":["adj. 矛盾的；好恶相克的"]}
+},{"id":10981, "word":"wrapper", "translate":{"us-phonetic":"'ræpɚ","uk-phonetic":"'ræpə","explians":["n. 包装材料；[包装] 包装纸；书皮"]}
+},{"id":10982, "word":"worldly", "translate":{"us-phonetic":"'wɝldli","uk-phonetic":"'wɜːldlɪ","explians":["adj. 世俗的；世间的；尘世的","adv. 世俗地；世故地"]}
+},{"id":10983, "word":"swarm", "translate":{"us-phonetic":"swɔrm","uk-phonetic":"swɔːm","explians":["n. 蜂群；一大群","vi. 挤满；成群浮游；云集","vt. 挤满；爬"]}
+},{"id":10984, "word":"fillet", "translate":{"us-phonetic":"'fɪlɪt","uk-phonetic":"'fɪlɪt","explians":["n. 鱼片；头带；平边；饰线","n. (Fillet)人名；(法)菲耶；(英)菲利特","vt. 用带缚；把…切成片"]}
+},{"id":10985, "word":"unreliable", "translate":{}
+},{"id":10986, "word":"life-threatening", "translate":{"us-phonetic":"'laif'θretəniŋ","uk-phonetic":"'laif'θretəniŋ","explians":["adj. 威胁生命的"]}
+},{"id":10987, "word":"feeding", "translate":{"us-phonetic":"'fidɪŋ","uk-phonetic":"'fiːdɪŋ","explians":["n. 饲养；吃；输送","v. 饲养（feed的ing形式）","adj. 供给饲料的；摄取食物的"]}
+},{"id":10988, "word":"tutoring", "translate":{"us-phonetic":"tutɚ(r)ɪŋ","uk-phonetic":"ˈtju:tə(r)ɪŋ","explians":["n. 辅导","v. 辅导；教导（tutor的现在分词）；当家庭教师"]}
+},{"id":10989, "word":"dwindle", "translate":{"us-phonetic":"'dwɪndl","uk-phonetic":"'dwɪnd(ə)l","explians":["vi. 减少；变小","vt. 使缩小，使减少"]}
+},{"id":10990, "word":"stash", "translate":{"us-phonetic":"stæʃ","uk-phonetic":"stæʃ","explians":["n. 藏匿处；藏匿物","vt. 存放；贮藏","vi. 存放；藏起来"]}
+},{"id":10991, "word":"extra", "translate":{"us-phonetic":"'ɛkstrə","uk-phonetic":"'ekstrə","explians":["n. 临时演员；号外；额外的事物；上等产品","adj. 额外的，另外收费的；特大的","adv. 特别地，非常；另外"]}
+},{"id":10992, "word":"shortstop", "translate":{"us-phonetic":"'ʃɔrt,stɑp","uk-phonetic":"'ʃɔːtstɒp","explians":["n. 游击手；速显液"]}
+},{"id":10993, "word":"rejoice", "translate":{"us-phonetic":"rɪ'dʒɔɪs","uk-phonetic":"rɪ'dʒɒɪs","explians":["vi. 高兴；庆祝","vt. 使高兴"]}
+},{"id":10994, "word":"unequal", "translate":{"us-phonetic":"ʌn'ikwəl","uk-phonetic":"ʌn'iːkw(ə)l","explians":["n. 不等同的事物","adj. 不平等的；不规则的；不胜任的"]}
+},{"id":10995, "word":"suggestive", "translate":{"us-phonetic":"sə'dʒɛstɪv","uk-phonetic":"sə'dʒestɪv","explians":["adj. 暗示的；提示的；影射的"]}
+},{"id":10996, "word":"arid", "translate":{"us-phonetic":"'ærɪd","uk-phonetic":"'ærɪd","explians":["adj. 干旱的；不毛的，[农] 荒芜的"]}
+},{"id":10997, "word":"down", "translate":{"us-phonetic":"daʊn","uk-phonetic":"daʊn","explians":["prep. 沿着，往下","n. 软毛，绒毛；[地质] 开阔的高地","adj. 向下的","vt. 打倒，击败","adv. 向下，下去；在下面","vi. 下降；下去","n. (Down)人名；(英)唐"]}
+},{"id":10998, "word":"attributable", "translate":{"us-phonetic":"ə'trɪbjətəbl","uk-phonetic":"ə'trɪbjʊtəbl","explians":["adj. 可归于…的；可归属的"]}
+},{"id":10999, "word":"doorstep", "translate":{"us-phonetic":"'dɔ:step","uk-phonetic":"'dɔːstep","explians":["n. 门阶"]}
+},{"id":11000, "word":"ill", "translate":{"us-phonetic":"ɪl","uk-phonetic":"ɪl","explians":["n. 疾病；不幸","adj. 生病的；坏的；邪恶的；不吉利的","adv. 不利地；恶劣地；几乎不","n. (Ill)人名；(捷、匈)伊尔"]}
+}]
